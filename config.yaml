@@ -29,10 +29,14 @@ keywords:
     "Text to Audio":
         filters: ["Text to Audio", "TTA", "Audio Generation", "Audio Synthesis"]
     "Video to Audio":
-        filters: ["Video to Audio", "V2A", "Audio-Visual", "Cross-modal Audio"]
+        filters: ["Video to Audio", "V2A", "Audio-Visual", "Cross-modal Audio", "video dubbing"]
     "Voice Conversion":
         filters: ["Voice Conversion", "VC", "Voice Cloning", "Voice Morphing"]
     "Video Generation":
         filters: ["Video Generation", "T2V","Video Synthesis", "Video Editing"]
     "Image Generation":
         filters: ["Image Generation", "T2I", "Image Synthesis", "Image Editing"]
+    "Audio Codec":
+        filters: ["Audio Codec", "Audio tokenizer"]
+    "Large Audio Language Model":
+        filters: ["Large Audio Language Model", "LALM", "ALM", "Omni", "omni model"]
