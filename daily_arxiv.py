@@ -240,13 +240,51 @@ def update_json_file(filename,data_dict):
     with open(filename,"w") as f:
         json.dump(json_data,f)
 
-def json_to_md(filename,md_filename,
-               task = '',
-               to_web = False,
-               use_title = True,
-               use_tc = True,
-               show_badge = True,
-               use_b2t = True):
+def archive_old_papers(data, max_recent=50):
+    """
+    将旧论文归档到年-月份-方向.md文件
+    """
+    import os
+    from datetime import datetime
+    
+    # 创建归档目录
+    if not os.path.exists('archive'):
+        os.makedirs('archive')
+    
+    archived_data = {}
+    recent_data = {}
+    
+    for keyword, papers in data.items():
+        # 按日期排序论文
+        sorted_papers = sort_papers(papers)
+        paper_list = list(sorted_papers.items())
+        
+        # 分离最近的和需要归档的
+        recent_papers = dict(paper_list[:max_recent])
+        archive_papers = dict(paper_list[max_recent:])
+        
+        recent_data[keyword] = recent_papers
+        
+        # 如果有需要归档的论文
+        if archive_papers:
+            # 按年-月分组
+            for paper_id, content in archive_papers.items():
+                # 从content中提取日期
+                date_match = re.search(r'\*\*(\d{4}-\d{2}-\d{2})\*\*', content)
+                if date_match:
+                    date_str = date_match.group(1)
+                    year_month = date_str[:7]  # 2024-01 格式
+                    
+                    archive_file = f'archive/{year_month}-{keyword.replace(" ", "-")}.md'
+                    
+                    # 写入归档文件
+                    with open(archive_file, 'a', encoding='utf-8') as f:
+                        f.write(content)
+    
+    return recent_data
+
+def json_to_md(filename, md_filename, task='', to_web=False, use_title=True, 
+               use_tc=True, show_badge=True, use_b2t=True, max_recent=50):
     """
     @param filename: str
     @param md_filename: str
@@ -270,13 +308,17 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
 
-    with open(filename,"r") as f:
+    with open(filename, "r") as f:
         content = f.read()
         if not content:
             data = {}
         else:
             data = json.loads(content)
-
+    
+    # 归档旧论文，只保留最近的
+    if not to_web:  # 只对README进行归档
+        data = archive_old_papers(data, max_recent)
+    
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+") as f:
         pass
