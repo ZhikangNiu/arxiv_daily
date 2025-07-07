@@ -23,13 +23,13 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Text to Speech":
-        filters: ["Text to Speech", "TTS", "Speech Synthesis", "Zero Shot TTS"]
+        filters: ["Text-to-Speech", "TTS", "Speech Synthesis", "Zero Shot TTS"]
     "Music Generation":
-        filters: ["Music Generation", "Text to Music", "Music Synthesis", "Music Editing"]
+        filters: ["Music Generation", "Text to Music", "Music Editing"]
     "Text to Audio":
         filters: ["Text to Audio", "TTA", "Audio Generation", "Audio Synthesis"]
     "Video to Audio":
-        filters: ["Video to Audio", "V2A", "Audio-Visual", "Cross-modal Audio", "video dubbing"]
+        filters: ["Video to Audio", "V2A", "Audio-Visual", "Video Dubbing"]
     "Voice Conversion":
         filters: ["Voice Conversion", "VC", "Voice Cloning", "Voice Morphing"]
     "Video Generation":
@@ -37,6 +37,6 @@ keywords:
     "Image Generation":
         filters: ["Image Generation", "T2I", "Image Synthesis", "Image Editing"]
     "Audio Codec":
-        filters: ["Audio Codec", "Audio tokenizer"]
+        filters: ["Audio Codec", "Audio tokenizer", "Speech tokenizer", "Speech codec", "Speech codecs"]
     "Large Audio Language Model":
         filters: ["Large Audio Language Model", "LALM", "ALM", "Omni", "omni model"]
