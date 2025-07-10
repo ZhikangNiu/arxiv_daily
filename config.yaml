@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Text to Speech":
-        filters: ["Text-to-Speech", "TTS", "Speech Synthesis", "Zero Shot TTS"]
+        filters: ["TTS", "Speech Synthesis", "Text to Speech", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
     "Music Generation":
         filters: ["Music Generation", "Text to Music", "Music Editing"]
     "Text to Audio":
