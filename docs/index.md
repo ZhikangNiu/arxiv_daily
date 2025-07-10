@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Shifting Zeckendorf and Chung-Graham representations**|Rob Burns et.al.|[2507.06162](http://arxiv.org/abs/2507.06162)|null|
+|**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
+|**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
+|**2025-07-08**|**The Balmer spectrum of integral permutation modules**|Umesh V Dubey et.al.|[2507.05892](http://arxiv.org/abs/2507.05892)|null|
 |**2025-07-07**|**Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2507.04598](http://arxiv.org/abs/2507.04598)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
 |**2025-07-05**|**Prosody Labeling with Phoneme-BERT and Speech Foundation Models**|Tomoki Koriyama et.al.|[2507.03912](http://arxiv.org/abs/2507.03912)|null|
@@ -30,6 +34,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation**|Fathinah Izzati et.al.|[2507.05894](http://arxiv.org/abs/2507.05894)|null|
 |**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
 |**2025-07-04**|**MusGO: A Community-Driven Framework For Assessing Openness in Music-Generative AI**|Roser Batlle-Roca et.al.|[2507.03599](http://arxiv.org/abs/2507.03599)|null|
 |**2025-06-29**|**The Florence Price Art Song Dataset and Piano Accompaniment Generator**|Tao-Tao He et.al.|[2506.23130](http://arxiv.org/abs/2506.23130)|null|
@@ -104,6 +109,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
+|**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-09**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
+|**2025-07-08**|**MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos**|Rongsheng Wang et.al.|[2507.05675](http://arxiv.org/abs/2507.05675)|null|
 |**2025-07-07**|**HV-MMBench: Benchmarking MLLMs for Human-Centric Video Understanding**|Yuxuan Cai et.al.|[2507.04909](http://arxiv.org/abs/2507.04909)|null|
 |**2025-07-07**|**Music2Palette: Emotion-aligned Color Palette Generation via Cross-Modal Representation Learning**|Jiayun Hu et.al.|[2507.04758](http://arxiv.org/abs/2507.04758)|null|
 |**2025-07-07**|**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations**|Yuji Wang et.al.|[2507.04705](http://arxiv.org/abs/2507.04705)|null|
@@ -127,6 +136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/abs/2507.06137)|null|
+|**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|null|
+|**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627](http://arxiv.org/abs/2507.05627)|null|
+|**2025-07-08**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al.|[2507.05621](http://arxiv.org/abs/2507.05621)|null|
+|**2025-07-08**|**Model-free Optical Processors using In Situ Reinforcement Learning with Proximal Policy Optimization**|Yuhang Li et.al.|[2507.05583](http://arxiv.org/abs/2507.05583)|null|
+|**2025-07-08**|**SingLoRA: Low Rank Adaptation Using a Single Matrix**|David Bensaïd et.al.|[2507.05566](http://arxiv.org/abs/2507.05566)|null|
+|**2025-07-07**|**LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving**|Giulio Federico et.al.|[2507.05499](http://arxiv.org/abs/2507.05499)|null|
+|**2025-07-07**|**Cloud Diffusion Part 1: Theory and Motivation**|Andrew Randono et.al.|[2507.05496](http://arxiv.org/abs/2507.05496)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
 |**2025-07-07**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
@@ -153,7 +172,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
-|**2025-06-29**|**XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs**|Yitian Gong et.al.|[2506.23325](http://arxiv.org/abs/2506.23325)|null|
+|**2025-07-09**|**XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs**|Yitian Gong et.al.|[2506.23325](http://arxiv.org/abs/2506.23325)|null|
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
 |**2025-06-26**|**CodecSlime: Temporal Redundancy Compression of Neural Speech Codec via Dynamic Frame Rate**|Hankun Wang et.al.|[2506.21074](http://arxiv.org/abs/2506.21074)|null|
 |**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
@@ -174,6 +193,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-08**|**ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark**|He Wang et.al.|[2507.05727](http://arxiv.org/abs/2507.05727)|null|
+|**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
+|**2025-07-07**|**Electronic transport and anti-super-Klein tunneling in few-layer black phosphorous**|Jorge Alfonso Lizarraga-Brito et.al.|[2507.05462](http://arxiv.org/abs/2507.05462)|null|
 |**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768](http://arxiv.org/abs/2507.02768)|null|
 |**2025-06-29**|**VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems**|Ethan Smyth et.al.|[2507.00079](http://arxiv.org/abs/2507.00079)|null|
 |**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
