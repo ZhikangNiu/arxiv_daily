@@ -2,17 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Conformal Link Prediction with False Discovery Rate Control**|Wenqin Du et.al.|[2507.07025](http://arxiv.org/abs/2507.07025)|null|
+|**2025-07-09**|**STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation**|Wenxiang Guo et.al.|[2507.06670](http://arxiv.org/abs/2507.06670)|null|
+|**2025-07-09**|**Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning**|Ziyang Wang et.al.|[2507.06485](http://arxiv.org/abs/2507.06485)|null|
+|**2025-07-09**|**Learning Japanese with Jouzu: Interaction Outcomes with Stylized Dialogue Fictional Agents**|Zackary Rackauckas et.al.|[2507.06483](http://arxiv.org/abs/2507.06483)|null|
 |**2025-07-08**|**Shifting Zeckendorf and Chung-Graham representations**|Rob Burns et.al.|[2507.06162](http://arxiv.org/abs/2507.06162)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
 |**2025-07-08**|**The Balmer spectrum of integral permutation modules**|Umesh V Dubey et.al.|[2507.05892](http://arxiv.org/abs/2507.05892)|null|
+|**2025-07-08**|**OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
+|**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
 |**2025-07-07**|**Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2507.04598](http://arxiv.org/abs/2507.04598)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
 |**2025-07-05**|**Prosody Labeling with Phoneme-BERT and Speech Foundation Models**|Tomoki Koriyama et.al.|[2507.03912](http://arxiv.org/abs/2507.03912)|null|
@@ -34,6 +40,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Exploring State-Space-Model based Language Model in Music Generation**|Wei-Jaw Lee et.al.|[2507.06674](http://arxiv.org/abs/2507.06674)|null|
 |**2025-07-08**|**MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation**|Fathinah Izzati et.al.|[2507.05894](http://arxiv.org/abs/2507.05894)|null|
 |**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
 |**2025-07-04**|**MusGO: A Community-Driven Framework For Assessing Openness in Music-Generative AI**|Roser Batlle-Roca et.al.|[2507.03599](http://arxiv.org/abs/2507.03599)|null|
@@ -52,6 +59,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM**|Qiyuan Dai et.al.|[2507.06973](http://arxiv.org/abs/2507.06973)|null|
+|**2025-07-09**|**Physics-Informed Direction-Aware Neural Acoustic Fields**|Yoshiki Masuyama et.al.|[2507.06826](http://arxiv.org/abs/2507.06826)|null|
 |**2025-07-07**|**Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning**|Yingshan Liang et.al.|[2507.04959](http://arxiv.org/abs/2507.04959)|null|
 |**2025-07-05**|**MMMOS: Multi-domain Multi-axis Audio Quality Assessment**|Yi-Cheng Lin et.al.|[2507.04094](http://arxiv.org/abs/2507.04094)|null|
 |**2025-07-04**|**Dynamic Multimodal Prototype Learning in Vision-Language Models**|Xingyu Zhu et.al.|[2507.03657](http://arxiv.org/abs/2507.03657)|null|
@@ -90,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Speech Tokenizer is Key to Consistent Representation**|Wonjin Jung et.al.|[2507.06802](http://arxiv.org/abs/2507.06802)|null|
 |**2025-07-07**|**Fast-VGAN: Lightweight Voice Conversion with Explicit Control of F0 and Duration Parameters**|Mathilde Abrassart et.al.|[2507.04817](http://arxiv.org/abs/2507.04817)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
 |**2025-07-04**|**Improving Low-Resource Dialect Classification Using Retrieval-based Voice Conversion**|Lea Fischbach et.al.|[2507.03641](http://arxiv.org/abs/2507.03641)|null|
@@ -109,6 +119,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**PromptTea: Let Prompts Tell TeaCache the Optimal Threshold**|Zishen Huang et.al.|[2507.06739](http://arxiv.org/abs/2507.06739)|null|
+|**2025-07-09**|**Spatial-Temporal Graph Mamba for Music-Guided Dance Video Synthesis**|Hao Tang et.al.|[2507.06689](http://arxiv.org/abs/2507.06689)|null|
+|**2025-07-09**|**FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation**|Liqiang Jing et.al.|[2507.06523](http://arxiv.org/abs/2507.06523)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
 |**2025-07-09**|**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation**|Zhenghao Zhang et.al.|[2507.05963](http://arxiv.org/abs/2507.05963)|null|
@@ -136,6 +151,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547](http://arxiv.org/abs/2507.06547)|null|
+|**2025-07-10**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
+|**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449](http://arxiv.org/abs/2507.06449)|null|
 |**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/abs/2507.06137)|null|
 |**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
@@ -171,6 +192,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Speech Tokenizer is Key to Consistent Representation**|Wonjin Jung et.al.|[2507.06802](http://arxiv.org/abs/2507.06802)|null|
 |**2025-07-01**|**StreamFlow: Streaming Flow Matching with Block-wise Guided Attention Mask for Speech Token Decoding**|Dake Guo et.al.|[2506.23986](http://arxiv.org/abs/2506.23986)|null|
 |**2025-07-09**|**XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs**|Yitian Gong et.al.|[2506.23325](http://arxiv.org/abs/2506.23325)|null|
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
@@ -193,6 +215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation**|Qing Zhang et.al.|[2507.06606](http://arxiv.org/abs/2507.06606)|null|
 |**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
 |**2025-07-08**|**ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark**|He Wang et.al.|[2507.05727](http://arxiv.org/abs/2507.05727)|null|
 |**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
