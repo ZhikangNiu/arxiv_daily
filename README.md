@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
+|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-13**|**Fragmentation of fully heavy tetraquarks: The TQ4Q1.1 functions as a case study**|Francesco Giovanni Celiberto et.al.|[2507.09744](http://arxiv.org/abs/2507.09744)|null|
@@ -61,7 +63,7 @@
 |**2025-07-02**|**Multi-interaction TTS toward professional recording reproduction**|Hiroki Kanagawa et.al.|[2507.00808](http://arxiv.org/abs/2507.00808)|null|
 |**2025-07-01**|**MuteSwap: Silent Face-based Voice Conversion**|Yifan Liu et.al.|[2507.00498](http://arxiv.org/abs/2507.00498)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -97,7 +99,7 @@
 |**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
 |**2025-06-18**|**DeckFlow: Iterative Specification on a Multimodal Generative Canvas**|Gregory Croisdale et.al.|[2506.15873](http://arxiv.org/abs/2506.15873)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -120,12 +122,15 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Voice Conversion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Multipass Linear Sketches for Geometric LP-Type Problems**|N. Efe Çekirge et.al.|[2507.11484](http://arxiv.org/abs/2507.11484)|null|
+|**2025-07-15**|**On Tight Robust Coresets for $k$ -Medians Clustering**|Lingxiao Huang et.al.|[2507.11260](http://arxiv.org/abs/2507.11260)|null|
+|**2025-07-15**|**Pronunciation Deviation Analysis Through Voice Cloning and Acoustic Comparison**|Andrew Valdivia et.al.|[2507.10985](http://arxiv.org/abs/2507.10985)|null|
 |**2025-07-12**|**Voice Conversion for Lombard Speaking Style with Implicit and Explicit Acoustic Feature Conditioning**|Dominika Woszczyk et.al.|[2507.09310](http://arxiv.org/abs/2507.09310)|null|
 |**2025-07-11**|**SemAlignVC: Enhancing zero-shot timbre conversion using semantic alignment**|Shivam Mehta et.al.|[2507.09070](http://arxiv.org/abs/2507.09070)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
@@ -148,12 +153,14 @@
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
 |**2025-06-12**|**RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding**|Yisi Liu et.al.|[2506.10289](http://arxiv.org/abs/2506.10289)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
+|**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
 |**2025-07-11**|**Taming generative video models for zero-shot optical flow extraction**|Seungwoo Kim et.al.|[2507.09082](http://arxiv.org/abs/2507.09082)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
@@ -195,12 +202,20 @@
 |**2025-07-02**|**AIGVE-MACS: Unified Multi-Aspect Commenting and Scoring Model for AI-Generated Video Evaluation**|Xiao Liu et.al.|[2507.01255](http://arxiv.org/abs/2507.01255)|null|
 |**2025-07-01**|**Geometry-aware 4D Video Generation for Robot Manipulation**|Zeyi Liu et.al.|[2507.01099](http://arxiv.org/abs/2507.01099)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533](http://arxiv.org/abs/2507.11533)|null|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**MFGDiffusion: Mask-Guided Smoke Synthesis for Enhanced Forest Fire Detection**|Guanghao Wu et.al.|[2507.11252](http://arxiv.org/abs/2507.11252)|null|
+|**2025-07-15**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](http://arxiv.org/abs/2507.11152)|null|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
+|**2025-07-14**|**Spatial Reasoners for Continuous Variables in Any Domain**|Bart Pogodzinski et.al.|[2507.10768](http://arxiv.org/abs/2507.10768)|null|
 |**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
 |**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
@@ -243,16 +258,8 @@
 |**2025-07-07**|**SV-DRR: High-Fidelity Novel View X-Ray Synthesis Using Diffusion Model**|Chun Xie et.al.|[2507.05148](http://arxiv.org/abs/2507.05148)|null|
 |**2025-07-07**|**ICAS: Detecting Training Data from Autoregressive Image Generative Models**|Hongyao Yu et.al.|[2507.05068](http://arxiv.org/abs/2507.05068)|null|
 |**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
-|**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
-|**2025-07-07**|**DC-AR: Efficient Masked Autoregressive Image Generation with Deep Compression Hybrid Tokenizer**|Yecheng Wu et.al.|[2507.04947](http://arxiv.org/abs/2507.04947)|null|
-|**2025-07-07**|**Taming the Tri-Space Tension: ARC-Guided Hallucination Modeling and Control for Text-to-Image Generation**|Jianjiang Yang et.al.|[2507.04946](http://arxiv.org/abs/2507.04946)|null|
-|**2025-07-07**|**Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images**|Dibyabha Deb et.al.|[2507.04915](http://arxiv.org/abs/2507.04915)|null|
-|**2025-07-07**|**Efficacy of Image Similarity as a Metric for Augmenting Small Dataset Retinal Image Segmentation**|Thomas Wallace et.al.|[2507.04862](http://arxiv.org/abs/2507.04862)|null|
-|**2025-07-07**|**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations**|Yuji Wang et.al.|[2507.04705](http://arxiv.org/abs/2507.04705)|null|
-|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
-|**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Music Generation
 
@@ -276,7 +283,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -304,12 +311,14 @@
 |**2025-06-04**|**Bringing Interpretability to Neural Audio Codecs**|Samir Sadok et.al.|[2506.04492](http://arxiv.org/abs/2506.04492)|null|
 |**2025-06-13**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Large Audio Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
+|**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 |**2025-07-14**|**The electronic and transport properties in the Haldane-Hubbard with odd-parity altermagnetism**|Minghuan Zeng et.al.|[2507.09906](http://arxiv.org/abs/2507.09906)|null|
 |**2025-07-11**|**Two-Level Distributed Interference Management for Large-Scale HAPS-Empowered vHetNets**|Afsoon Alidadi Shamsabadi et.al.|[2507.08299](http://arxiv.org/abs/2507.08299)|null|
@@ -330,7 +339,7 @@
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
 |**2025-06-22**|**Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents**|Jinjie Wei et.al.|[2506.17913](http://arxiv.org/abs/2506.17913)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

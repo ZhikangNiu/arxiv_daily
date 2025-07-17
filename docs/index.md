@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**P.808 Multilingual Speech Enhancement Testing: Approach and Results of URGENT 2025 Challenge**|Marvin Sach et.al.|[2507.11306](http://arxiv.org/abs/2507.11306)|null|
+|**2025-07-14**|**Supporting SENĆOTEN Language Documentation Efforts with Automatic Speech Recognition**|Mengzhe Geng et.al.|[2507.10827](http://arxiv.org/abs/2507.10827)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-13**|**Fragmentation of fully heavy tetraquarks: The TQ4Q1.1 functions as a case study**|Francesco Giovanni Celiberto et.al.|[2507.09744](http://arxiv.org/abs/2507.09744)|null|
@@ -126,6 +128,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Multipass Linear Sketches for Geometric LP-Type Problems**|N. Efe Çekirge et.al.|[2507.11484](http://arxiv.org/abs/2507.11484)|null|
+|**2025-07-15**|**On Tight Robust Coresets for $k$ -Medians Clustering**|Lingxiao Huang et.al.|[2507.11260](http://arxiv.org/abs/2507.11260)|null|
+|**2025-07-15**|**Pronunciation Deviation Analysis Through Voice Cloning and Acoustic Comparison**|Andrew Valdivia et.al.|[2507.10985](http://arxiv.org/abs/2507.10985)|null|
 |**2025-07-12**|**Voice Conversion for Lombard Speaking Style with Implicit and Explicit Acoustic Feature Conditioning**|Dominika Woszczyk et.al.|[2507.09310](http://arxiv.org/abs/2507.09310)|null|
 |**2025-07-11**|**SemAlignVC: Enhancing zero-shot timbre conversion using semantic alignment**|Shivam Mehta et.al.|[2507.09070](http://arxiv.org/abs/2507.09070)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
@@ -151,6 +156,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
+|**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
 |**2025-07-11**|**Taming generative video models for zero-shot optical flow extraction**|Seungwoo Kim et.al.|[2507.09082](http://arxiv.org/abs/2507.09082)|null|
 |**2025-07-11**|**Detecting Deepfake Talking Heads from Facial Biometric Anomalies**|Justin D. Norman et.al.|[2507.08917](http://arxiv.org/abs/2507.08917)|null|
@@ -194,6 +201,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533](http://arxiv.org/abs/2507.11533)|null|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**MFGDiffusion: Mask-Guided Smoke Synthesis for Enhanced Forest Fire Detection**|Guanghao Wu et.al.|[2507.11252](http://arxiv.org/abs/2507.11252)|null|
+|**2025-07-15**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](http://arxiv.org/abs/2507.11152)|null|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
+|**2025-07-14**|**Spatial Reasoners for Continuous Variables in Any Domain**|Bart Pogodzinski et.al.|[2507.10768](http://arxiv.org/abs/2507.10768)|null|
 |**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
 |**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
@@ -283,6 +298,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
+|**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 |**2025-07-14**|**The electronic and transport properties in the Haldane-Hubbard with odd-parity altermagnetism**|Minghuan Zeng et.al.|[2507.09906](http://arxiv.org/abs/2507.09906)|null|
 |**2025-07-11**|**Two-Level Distributed Interference Management for Large-Scale HAPS-Empowered vHetNets**|Afsoon Alidadi Shamsabadi et.al.|[2507.08299](http://arxiv.org/abs/2507.08299)|null|
