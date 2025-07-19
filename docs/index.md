@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.07.18
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
+|**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
+|**2025-07-17**|**Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**|Zhou Feng et.al.|[2507.12932](http://arxiv.org/abs/2507.12932)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
 |**2025-07-16**|**EME-TTS: Unlocking the Emphasis and Emotion Link in Speech Synthesis**|Haoxun Li et.al.|[2507.12015](http://arxiv.org/abs/2507.12015)|null|
 |**2025-07-17**|**Comprehensive investigation on baryon number violating nucleon decays involving an axion-like particle**|Wei-Qi Fan et.al.|[2507.11844](http://arxiv.org/abs/2507.11844)|null|
@@ -82,6 +85,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Evaluation of Neural Surrogates for Physical Modelling Synthesis of Nonlinear Elastic Plates**|Carlos De La Vega Martin et.al.|[2507.12563](http://arxiv.org/abs/2507.12563)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
 |**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
@@ -134,6 +138,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Computational-Statistical Tradeoffs from NP-hardness**|Guy Blanc et.al.|[2507.13222](http://arxiv.org/abs/2507.13222)|null|
+|**2025-07-17**|**Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries**|Minyoung Kim et.al.|[2507.12723](http://arxiv.org/abs/2507.12723)|null|
 |**2025-07-15**|**Towards Scalable AASIST: Refining Graph Attention for Speech Deepfake Detection**|Ivan Viakhirev et.al.|[2507.11777](http://arxiv.org/abs/2507.11777)|null|
 |**2025-07-16**|**Multipass Linear Sketches for Geometric LP-Type Problems**|N. Efe Çekirge et.al.|[2507.11484](http://arxiv.org/abs/2507.11484)|null|
 |**2025-07-15**|**On Tight Robust Coresets for $k$ -Medians Clustering**|Lingxiao Huang et.al.|[2507.11260](http://arxiv.org/abs/2507.11260)|null|
@@ -163,6 +169,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224](http://arxiv.org/abs/2507.13224)|null|
+|**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
+|**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
 |**2025-07-16**|**EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models**|Jiajian Xie et.al.|[2507.11980](http://arxiv.org/abs/2507.11980)|null|
 |**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
@@ -209,6 +219,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
+|**2025-07-17**|**Synthesizing Reality: Leveraging the Generative AI-Powered Platform Midjourney for Construction Worker Detection**|Hongyang Zhao et.al.|[2507.13221](http://arxiv.org/abs/2507.13221)|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation**|Yi Xin et.al.|[2507.13032](http://arxiv.org/abs/2507.13032)|null|
+|**2025-07-17**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al.|[2507.12979](http://arxiv.org/abs/2507.12979)|null|
+|**2025-07-17**|**DMQ: Dissecting Outliers of Diffusion Models for Post-Training Quantization**|Dongyeun Lee et.al.|[2507.12933](http://arxiv.org/abs/2507.12933)|null|
+|**2025-07-17**|**Local Representative Token Guided Merging for Text-to-Image Generation**|Min-Jeong Lee et.al.|[2507.12771](http://arxiv.org/abs/2507.12771)|null|
+|**2025-07-17**|**Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images**|Zahra TehraniNasab et.al.|[2507.12698](http://arxiv.org/abs/2507.12698)|null|
 |**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**DeepShade: Enable Shade Simulation by Text-conditioned Image Generation**|Longchao Da et.al.|[2507.12103](http://arxiv.org/abs/2507.12103)|null|
@@ -286,6 +304,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Autoregressive Speech Enhancement via Acoustic Tokens**|Luca Della Libera et.al.|[2507.12825](http://arxiv.org/abs/2507.12825)|null|
+|**2025-07-17**|**Task-Specific Audio Coding for Machines: Machine-Learned Latent Features Are Codes for That Machine**|Anastasia Kuznetsova et.al.|[2507.12701](http://arxiv.org/abs/2507.12701)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
 |**2025-07-16**|**Room Impulse Response Generation Conditioned on Acoustic Parameters**|Silvia Arellano et.al.|[2507.12136](http://arxiv.org/abs/2507.12136)|null|
 |**2025-07-14**|**Aligning Generative Speech Enhancement with Human Preferences via Direct Preference Optimization**|Haoyang Li et.al.|[2507.09929](http://arxiv.org/abs/2507.09929)|null|
@@ -314,6 +334,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
+|**2025-07-17**|**AnyCap Project: A Unified Framework, Dataset, and Benchmark for Controllable Omni-modal Captioning**|Yiming Ren et.al.|[2507.12841](http://arxiv.org/abs/2507.12841)|null|
 |**2025-07-16**|**An augmented Lagrangian method for strongly regular minimizers in a class of convex composite optimization problems**|Chengjing Wang et.al.|[2507.12040](http://arxiv.org/abs/2507.12040)|null|
 |**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
