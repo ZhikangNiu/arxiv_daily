@@ -2,19 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.08.22
+## Updated on 2025.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Any-to-any Speaker Attribute Perturbation for Asynchronous Voice Anonymization**|Liping Chen et.al.|[2508.15565](http://arxiv.org/abs/2508.15565)|null|
+|**2025-08-21**|**Mitigating Hallucinations in LM-Based TTS Models via Distribution Alignment Using GFlowNets**|Chenlin Liu et.al.|[2508.15442](http://arxiv.org/abs/2508.15442)|null|
+|**2025-08-21**|**UniCoM: A Universal Code-Switching Speech Generator**|Sangmin Lee et.al.|[2508.15244](http://arxiv.org/abs/2508.15244)|**[link](https://github.com/sanghyang00/unicom)**|
+|**2025-08-20**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
 |**2025-08-20**|**Long-Context Speech Synthesis with Context-Aware Memory**|Zhipeng Li et.al.|[2508.14713](http://arxiv.org/abs/2508.14713)|null|
 |**2025-08-20**|**Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement**|Heitor R. Guimarães et.al.|[2508.14709](http://arxiv.org/abs/2508.14709)|null|
 |**2025-08-19**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
 |**2025-08-19**|**Exponential Ergodicity for McKean-Vlasov SDEs with Singular Interactions**|Xing Huang et.al.|[2508.13924](http://arxiv.org/abs/2508.13924)|null|
 |**2025-08-20**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
-|**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|**[link](https://github.com/daschablume/speech-gender-bias)**|
+|**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
 |**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|**[link](https://github.com/Vardhan02/IoT-Based-Web-Controlled-Surveillance-Robot)**|
 |**2025-08-18**|**MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components**|Sangjun Cha et.al.|[2508.13262](http://arxiv.org/abs/2508.13262)|null|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
@@ -131,6 +135,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**|Youjia Zhang et.al.|[2508.15568](http://arxiv.org/abs/2508.15568)|null|
+|**2025-08-21**|**DualMark: Identifying Model and Training Data Origins in Generated Audio**|Xuefeng Yang et.al.|[2508.15521](http://arxiv.org/abs/2508.15521)|null|
 |**2025-08-19**|**MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence**|Sonal Kumar et.al.|[2508.13992](http://arxiv.org/abs/2508.13992)|null|
 |**2025-08-19**|**DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer**|Yisu Liu et.al.|[2508.13786](http://arxiv.org/abs/2508.13786)|null|
 |**2025-08-21**|**FoleySpace: Vision-Aligned Binaural Spatial Audio Generation**|Lei Zhao et.al.|[2508.12918](http://arxiv.org/abs/2508.12918)|null|
@@ -191,7 +197,7 @@ layout: default
 |**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-28**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
 |**2025-06-27**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
-|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
+|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|**[link](https://github.com/klingfoley/Kling-Foley)**|
 |**2025-06-13**|**ViSAGe: Video-to-Spatial Audio Generation**|Jaeyeon Kim et.al.|[2506.12199](http://arxiv.org/abs/2506.12199)|null|
 |**2025-05-31**|**Length Aware Speech Translation for Video Dubbing**|Harveen Singh Chadha et.al.|[2506.00740](http://arxiv.org/abs/2506.00740)|null|
 |**2025-05-26**|**Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks**|Chang Liu et.al.|[2505.20038](http://arxiv.org/abs/2505.20038)|**[link](https://github.com/acappemin/video-to-audio-and-piano)**|
@@ -249,6 +255,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**|Haonan Qiu et.al.|[2508.15774](http://arxiv.org/abs/2508.15774)|null|
+|**2025-08-21**|**Scaling Group Inference for Diverse and High-Quality Generation**|Gaurav Parmar et.al.|[2508.15773](http://arxiv.org/abs/2508.15773)|null|
+|**2025-08-21**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
+|**2025-08-21**|**WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception**|Zhiheng Liu et.al.|[2508.15720](http://arxiv.org/abs/2508.15720)|null|
+|**2025-08-21**|**VideoEraser: Concept Erasure in Text-to-Video Diffusion Models**|Naen Xu et.al.|[2508.15314](http://arxiv.org/abs/2508.15314)|null|
 |**2025-08-20**|**AnchorSync: Global Consistency Optimization for Long Video Editing**|Zichi Liu et.al.|[2508.14609](http://arxiv.org/abs/2508.14609)|null|
 |**2025-08-20**|**Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration**|Haoran Bai et.al.|[2508.14483](http://arxiv.org/abs/2508.14483)|null|
 |**2025-08-20**|**DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing**|Weitao Wang et.al.|[2508.14465](http://arxiv.org/abs/2508.14465)|null|
@@ -336,6 +347,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**CineScale: Free Lunch in High-Resolution Cinematic Visual Generation**|Haonan Qiu et.al.|[2508.15774](http://arxiv.org/abs/2508.15774)|null|
+|**2025-08-21**|**Visual Autoregressive Modeling for Instruction-Guided Image Editing**|Qingyang Mao et.al.|[2508.15772](http://arxiv.org/abs/2508.15772)|null|
+|**2025-08-21**|**Waver: Wave Your Way to Lifelike Video Generation**|Yifu Zhang et.al.|[2508.15761](http://arxiv.org/abs/2508.15761)|null|
+|**2025-08-21**|**Are Virtual DES Images a Valid Alternative to the Real Ones?**|Ana C. Perre et.al.|[2508.15594](http://arxiv.org/abs/2508.15594)|null|
+|**2025-08-21**|**GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design**|Wen-Fan Wang et.al.|[2508.15227](http://arxiv.org/abs/2508.15227)|null|
+|**2025-08-21**|**See it. Say it. Sorted: Agentic System for Compositional Diagram Generation**|Hantao Zhang et.al.|[2508.15222](http://arxiv.org/abs/2508.15222)|null|
+|**2025-08-20**|**Side Effects of Erasing Concepts from Diffusion Models**|Shaswati Saha et.al.|[2508.15124](http://arxiv.org/abs/2508.15124)|null|
+|**2025-08-20**|**CurveFlow: Curvature-Guided Flow Matching for Image Generation**|Yan Luo et.al.|[2508.15093](http://arxiv.org/abs/2508.15093)|null|
+|**2025-08-20**|**TAIGen: Training-Free Adversarial Image Generation via Diffusion Models**|Susim Roy et.al.|[2508.15020](http://arxiv.org/abs/2508.15020)|null|
 |**2025-08-20**|**SATURN: Autoregressive Image Generation Guided by Scene Graphs**|Thanh-Nhan Vo et.al.|[2508.14502](http://arxiv.org/abs/2508.14502)|null|
 |**2025-08-20**|**Multimode Fiber Imaging Based on Hydrogel Fiber**|Lele He et.al.|[2508.14501](http://arxiv.org/abs/2508.14501)|null|
 |**2025-08-20**|**MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion**|Fei Peng et.al.|[2508.14440](http://arxiv.org/abs/2508.14440)|null|
@@ -517,6 +537,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-21**|**Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems using artificial neural networks**|Qifeng Hu et.al.|[2508.15695](http://arxiv.org/abs/2508.15695)|null|
+|**2025-08-21**|**When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models**|Cheng Wang et.al.|[2508.15407](http://arxiv.org/abs/2508.15407)|null|
 |**2025-08-19**|**OmViD: Omni-supervised active learning for video action detection**|Aayush Rana et.al.|[2508.13983](http://arxiv.org/abs/2508.13983)|null|
 |**2025-08-19**|**FAMNet: Integrating 2D and 3D Features for Micro-expression Recognition via Multi-task Learning and Hierarchical Attention**|Liangyu Fu et.al.|[2508.13483](http://arxiv.org/abs/2508.13483)|null|
 |**2025-08-19**|**Modeling and Control of AWOISV: A Filtered Tube-Based MPC Approach for Simultaneous Tracking of Lateral Position and Heading Angle**|Xu Yang et.al.|[2508.13457](http://arxiv.org/abs/2508.13457)|null|
