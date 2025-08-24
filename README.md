@@ -1,4 +1,4 @@
-## Updated on 2025.08.23
+## Updated on 2025.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-06-27**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
 |**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -145,7 +145,7 @@
 |**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-28**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
 |**2025-06-27**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
-|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|**[link](https://github.com/klingfoley/Kling-Foley)**|
+|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
 |**2025-06-13**|**ViSAGe: Video-to-Spatial Audio Generation**|Jaeyeon Kim et.al.|[2506.12199](http://arxiv.org/abs/2506.12199)|null|
 |**2025-05-31**|**Length Aware Speech Translation for Video Dubbing**|Harveen Singh Chadha et.al.|[2506.00740](http://arxiv.org/abs/2506.00740)|null|
 |**2025-05-26**|**Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks**|Chang Liu et.al.|[2505.20038](http://arxiv.org/abs/2505.20038)|**[link](https://github.com/acappemin/video-to-audio-and-piano)**|
@@ -155,7 +155,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -202,7 +202,7 @@
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
 |**2025-06-12**|**RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding**|Yisi Liu et.al.|[2506.10289](http://arxiv.org/abs/2506.10289)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Video Generation
 
@@ -259,7 +259,7 @@
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-12**|**$I^{2}$ -World: Intra-Inter Tokenization for Efficient Dynamic 4D Scene Forecasting**|Zhimin Liao et.al.|[2507.09144](http://arxiv.org/abs/2507.09144)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Image Generation
 
@@ -316,7 +316,7 @@
 |**2025-07-22**|**LSSGen: Leveraging Latent Space Scaling in Flow and Diffusion for Efficient Text to Image Generation**|Jyun-Ze Tang et.al.|[2507.16154](http://arxiv.org/abs/2507.16154)|null|
 |**2025-07-21**|**Improving Personalized Image Generation through Social Context Feedback**|Parul Gupta et.al.|[2507.16095](http://arxiv.org/abs/2507.16095)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Music Generation
 
@@ -351,7 +351,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -394,7 +394,7 @@
 |**2025-06-04**|**Bringing Interpretability to Neural Audio Codecs**|Samir Sadok et.al.|[2506.04492](http://arxiv.org/abs/2506.04492)|null|
 |**2025-06-13**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -447,7 +447,7 @@
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
 |**2025-06-22**|**Learning, Reasoning, Refinement: A Framework for Kahneman's Dual-System Intelligence in GUI Agents**|Jinjie Wei et.al.|[2506.17913](http://arxiv.org/abs/2506.17913)|null|
 
-<p align=right>(<a href=#updated-on-20250823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

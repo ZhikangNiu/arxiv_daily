@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.23
+## Updated on 2025.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -197,7 +197,7 @@ layout: default
 |**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-28**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
 |**2025-06-27**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
-|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|**[link](https://github.com/klingfoley/Kling-Foley)**|
+|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
 |**2025-06-13**|**ViSAGe: Video-to-Spatial Audio Generation**|Jaeyeon Kim et.al.|[2506.12199](http://arxiv.org/abs/2506.12199)|null|
 |**2025-05-31**|**Length Aware Speech Translation for Video Dubbing**|Harveen Singh Chadha et.al.|[2506.00740](http://arxiv.org/abs/2506.00740)|null|
 |**2025-05-26**|**Towards Video to Piano Music Generation with Chain-of-Perform Support Benchmarks**|Chang Liu et.al.|[2505.20038](http://arxiv.org/abs/2505.20038)|**[link](https://github.com/acappemin/video-to-audio-and-piano)**|
