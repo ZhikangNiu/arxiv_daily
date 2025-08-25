@@ -361,7 +361,7 @@
 |**2025-08-15**|**Benchmarking Prosody Encoding in Discrete Speech Tokens**|Kentaro Onda et.al.|[2508.11224](http://arxiv.org/abs/2508.11224)|null|
 |**2025-08-13**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
 |**2025-08-11**|**Exploring Disentangled Neural Speech Codecs from Self-Supervised Representations**|Ryo Aihara et.al.|[2508.08399](http://arxiv.org/abs/2508.08399)|null|
-|**2025-08-07**|**NanoCodec: Towards High-Quality Ultra Fast Speech LLM Inference**|Edresson Casanova et.al.|[2508.05835](http://arxiv.org/abs/2508.05835)|null|
+|**2025-08-07**|**NanoCodec: Towards High-Quality Ultra Fast Speech LLM Inference**|Edresson Casanova et.al.|[2508.05835](http://arxiv.org/abs/2508.05835)|**[link](https://github.com/Edresson/NanoCodec)**|
 |**2025-08-07**|**SpectroStream: A Versatile Neural Codec for General Audio**|Yunpeng Li et.al.|[2508.05207](http://arxiv.org/abs/2508.05207)|null|
 |**2025-08-05**|**Real-time speech enhancement in noise for throat microphone using neural audio codec as foundation model**|Julien Hauret et.al.|[2508.02974](http://arxiv.org/abs/2508.02974)|null|
 |**2025-08-04**|**SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec**|Chunyu Qiang et.al.|[2508.02849](http://arxiv.org/abs/2508.02849)|null|
