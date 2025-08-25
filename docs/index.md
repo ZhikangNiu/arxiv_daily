@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.08.24
+## Updated on 2025.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -15,7 +15,7 @@ layout: default
 |**2025-08-20**|**Linear Preference Optimization: Decoupled Gradient Control via Absolute Regularization**|Rui Wang et.al.|[2508.14947](http://arxiv.org/abs/2508.14947)|null|
 |**2025-08-20**|**Long-Context Speech Synthesis with Context-Aware Memory**|Zhipeng Li et.al.|[2508.14713](http://arxiv.org/abs/2508.14713)|null|
 |**2025-08-20**|**Improving Resource-Efficient Speech Enhancement via Neural Differentiable DSP Vocoder Refinement**|Heitor R. Guimarães et.al.|[2508.14709](http://arxiv.org/abs/2508.14709)|null|
-|**2025-08-19**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
+|**2025-08-22**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
 |**2025-08-19**|**Exponential Ergodicity for McKean-Vlasov SDEs with Singular Interactions**|Xing Huang et.al.|[2508.13924](http://arxiv.org/abs/2508.13924)|null|
 |**2025-08-20**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
 |**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
@@ -135,7 +135,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-21**|**Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**|Youjia Zhang et.al.|[2508.15568](http://arxiv.org/abs/2508.15568)|null|
+|**2025-08-22**|**Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**|Youjia Zhang et.al.|[2508.15568](http://arxiv.org/abs/2508.15568)|null|
 |**2025-08-21**|**DualMark: Identifying Model and Training Data Origins in Generated Audio**|Xuefeng Yang et.al.|[2508.15521](http://arxiv.org/abs/2508.15521)|null|
 |**2025-08-19**|**MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence**|Sonal Kumar et.al.|[2508.13992](http://arxiv.org/abs/2508.13992)|null|
 |**2025-08-19**|**DegDiT: Controllable Audio Generation with Dynamic Event Graph Guided Diffusion Transformer**|Yisu Liu et.al.|[2508.13786](http://arxiv.org/abs/2508.13786)|null|
