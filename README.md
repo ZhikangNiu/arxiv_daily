@@ -1,4 +1,4 @@
-## Updated on 2025.08.28
+## Updated on 2025.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
 |**2025-07-20**|**Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding**|Yuanhan Zhang et.al.|[2507.15028](http://arxiv.org/abs/2507.15028)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
 |**2025-06-30**|**Scaling Self-Supervised Representation Learning for Symbolic Piano Performance**|Louis Bradshaw et.al.|[2506.23869](http://arxiv.org/abs/2506.23869)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -156,7 +156,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -165,7 +165,7 @@
 |**2025-08-27**|**Vocoder-Projected Feature Discriminator**|Takuhiro Kaneko et.al.|[2508.17874](http://arxiv.org/abs/2508.17874)|null|
 |**2025-08-25**|**FasterVoiceGrad: Faster One-step Diffusion-Based Voice Conversion with Adversarial Diffusion Conversion Distillation**|Takuhiro Kaneko et.al.|[2508.17868](http://arxiv.org/abs/2508.17868)|null|
 |**2025-08-24**|**Provable Generalization in Overparameterized Neural Nets**|Aviral Dhingra et.al.|[2508.17256](http://arxiv.org/abs/2508.17256)|null|
-|**2025-08-25**|**LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence**|Alisa Vinogradova et.al.|[2508.16571](http://arxiv.org/abs/2508.16571)|null|
+|**2025-08-28**|**LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence**|Alisa Vinogradova et.al.|[2508.16571](http://arxiv.org/abs/2508.16571)|null|
 |**2025-08-21**|**Evolving k-Threshold Visual Cryptography Schemes**|Xiaoli Zhuo et.al.|[2508.15917](http://arxiv.org/abs/2508.15917)|null|
 |**2025-08-20**|**Maxmum Size of a Uniform Family with Bounded VC-dimension**|Tianchi Yang et.al.|[2508.14334](http://arxiv.org/abs/2508.14334)|null|
 |**2025-08-20**|**Fortifying the Agentic Web: A Unified Zero-Trust Architecture Against Logic-layer Threats**|Ken Huang et.al.|[2508.12259](http://arxiv.org/abs/2508.12259)|null|
@@ -208,14 +208,14 @@
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
 |**2025-06-12**|**RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding**|Yisi Liu et.al.|[2506.10289](http://arxiv.org/abs/2506.10289)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-08-27**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Binjie Zhang et.al.|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
-|**2025-08-26**|**MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
+|**2025-08-28**|**Ego-centric Predictive Model Conditioned on Hand Trajectories**|Binjie Zhang et.al.|[2508.19852](http://arxiv.org/abs/2508.19852)|null|
+|**2025-08-28**|**MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation**|Ming Chen et.al.|[2508.19320](http://arxiv.org/abs/2508.19320)|null|
 |**2025-08-26**|**ROSE: Remove Objects with Side Effects in Videos**|Chenxuan Miao et.al.|[2508.18633](http://arxiv.org/abs/2508.18633)|null|
 |**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
 |**2025-08-25**|**ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion Models**|Haitang Feng et.al.|[2508.18271](http://arxiv.org/abs/2508.18271)|null|
@@ -265,7 +265,7 @@
 |**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
 |**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Image Generation
 
@@ -274,7 +274,7 @@
 |**2025-08-27**|**GS: Generative Segmentation via Label Diffusion**|Yuhao Chen et.al.|[2508.20020](http://arxiv.org/abs/2508.20020)|null|
 |**2025-08-27**|**Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models**|Shay Shomer Chai et.al.|[2508.19791](http://arxiv.org/abs/2508.19791)|null|
 |**2025-08-27**|**Controllable Skin Synthesis via Lesion-Focused Vector Autoregression Model**|Jiajun Sun et.al.|[2508.19626](http://arxiv.org/abs/2508.19626)|null|
-|**2025-08-27**|**Interact-Custom: Customized Human Object Interaction Image Generation**|Zhu Xu et.al.|[2508.19575](http://arxiv.org/abs/2508.19575)|null|
+|**2025-08-28**|**Interact-Custom: Customized Human Object Interaction Image Generation**|Zhu Xu et.al.|[2508.19575](http://arxiv.org/abs/2508.19575)|null|
 |**2025-08-27**|**MonoRelief V2: Leveraging Real Data for High-Fidelity Monocular Relief Recovery**|Yu-Wei Zhang et.al.|[2508.19555](http://arxiv.org/abs/2508.19555)|null|
 |**2025-08-26**|**Articulate3D: Zero-Shot Text-Driven 3D Object Posing**|Oishi Deb et.al.|[2508.19244](http://arxiv.org/abs/2508.19244)|null|
 |**2025-08-26**|**All-in-One Slider for Attribute Manipulation in Diffusion Models**|Weixin Ye et.al.|[2508.19195](http://arxiv.org/abs/2508.19195)|null|
@@ -322,7 +322,7 @@
 |**2025-08-18**|**ID-Card Synthetic Generation: Toward a Simulated Bona fide Dataset**|Qingwen Zeng et.al.|[2508.13078](http://arxiv.org/abs/2508.13078)|null|
 |**2025-08-18**|**From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion**|Emmanuel Oladokun et.al.|[2508.13077](http://arxiv.org/abs/2508.13077)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Music Generation
 
@@ -360,7 +360,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -369,7 +369,7 @@
 |**2025-08-26**|**VibeVoice Technical Report**|Zhiliang Peng et.al.|[2508.19205](http://arxiv.org/abs/2508.19205)|null|
 |**2025-08-26**|**CLEAR: Continuous Latent Autoregressive Modeling for High-quality and Low-latency Speech Synthesis**|Chun Yat Wu et.al.|[2508.19098](http://arxiv.org/abs/2508.19098)|null|
 |**2025-08-26**|**Improving Noise Robust Audio-Visual Speech Recognition via Router-Gated Cross-Modal Feature Fusion**|DongHoon Lim et.al.|[2508.18734](http://arxiv.org/abs/2508.18734)|null|
-|**2025-08-22**|**TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling**|Yuancheng Wang et.al.|[2508.16790](http://arxiv.org/abs/2508.16790)|null|
+|**2025-08-22**|**TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling**|Yuancheng Wang et.al.|[2508.16790](http://arxiv.org/abs/2508.16790)|**[link](https://github.com/HeCheng0625/Diffusion-Speech-Tokenizer)**|
 |**2025-08-22**|**Vevo2: Bridging Controllable Speech and Singing Voice Generation via Unified Prosody Learning**|Xueyao Zhang et.al.|[2508.16332](http://arxiv.org/abs/2508.16332)|null|
 |**2025-08-15**|**EmoSSLSphere: Multilingual Emotional Speech Synthesis with Spherical Vectors and Discrete Speech Tokens**|Joonyong Park et.al.|[2508.11273](http://arxiv.org/abs/2508.11273)|null|
 |**2025-08-15**|**Benchmarking Prosody Encoding in Discrete Speech Tokens**|Kentaro Onda et.al.|[2508.11224](http://arxiv.org/abs/2508.11224)|null|
@@ -408,7 +408,7 @@
 |**2025-06-04**|**Bringing Interpretability to Neural Audio Codecs**|Samir Sadok et.al.|[2506.04492](http://arxiv.org/abs/2506.04492)|null|
 |**2025-06-13**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -465,7 +465,7 @@
 |**2025-06-29**|**OmniEval: A Benchmark for Evaluating Omni-modal Models with Visual, Auditory, and Textual Inputs**|Yiman Zhang et.al.|[2506.20960](http://arxiv.org/abs/2506.20960)|null|
 |**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
 
-<p align=right>(<a href=#updated-on-20250828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250829>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
