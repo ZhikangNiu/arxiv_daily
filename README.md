@@ -1,4 +1,4 @@
-## Updated on 2025.08.31
+## Updated on 2025.09.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-07-21**|**Lunar and Terrestrial Time Transformation Based on the Principle of General Relativity**|Min Liu et.al.|[2507.15456](http://arxiv.org/abs/2507.15456)|null|
 |**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-07-01**|**AudioBERTScore: Objective Evaluation of Environmental Sound Synthesis Based on Similarity of Audio embedding Sequences**|Minoru Kishi et.al.|[2507.00475](http://arxiv.org/abs/2507.00475)|null|
 |**2025-07-01**|**Unleashing the Potential of All Test Samples: Mean-Shift Guided Test-Time Adaptation**|Jizhou Han et.al.|[2507.00462](http://arxiv.org/abs/2507.00462)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -156,7 +156,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -209,7 +209,7 @@
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
 |**2025-06-12**|**RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding**|Yisi Liu et.al.|[2506.10289](http://arxiv.org/abs/2506.10289)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Video Generation
 
@@ -266,7 +266,7 @@
 |**2025-08-14**|**AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences**|Jieyu Li et.al.|[2508.10771](http://arxiv.org/abs/2508.10771)|null|
 |**2025-08-14**|**HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis**|Shiyu Liu et.al.|[2508.10566](http://arxiv.org/abs/2508.10566)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Image Generation
 
@@ -323,7 +323,7 @@
 |**2025-08-20**|**MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion**|Fei Peng et.al.|[2508.14440](http://arxiv.org/abs/2508.14440)|null|
 |**2025-08-20**|**CTA-Flux: Integrating Chinese Cultural Semantics into High-Quality English Text-to-Image Communities**|Yue Gong et.al.|[2508.14405](http://arxiv.org/abs/2508.14405)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Music Generation
 
@@ -362,7 +362,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -411,7 +411,7 @@
 |**2025-06-04**|**Bringing Interpretability to Neural Audio Codecs**|Samir Sadok et.al.|[2506.04492](http://arxiv.org/abs/2506.04492)|null|
 |**2025-06-13**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -468,7 +468,7 @@
 |**2025-06-26**|**Unlocking Constraints: Source-Free Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2506.21198](http://arxiv.org/abs/2506.21198)|null|
 |**2025-06-29**|**OmniEval: A Benchmark for Evaluating Omni-modal Models with Visual, Auditory, and Textual Inputs**|Yiman Zhang et.al.|[2506.20960](http://arxiv.org/abs/2506.20960)|null|
 
-<p align=right>(<a href=#updated-on-20250831>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250901>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
