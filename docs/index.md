@@ -193,7 +193,7 @@ layout: default
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-14**|**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**|Shu-wen Yang et.al.|[2507.09834](http://arxiv.org/abs/2507.09834)|null|
 |**2025-07-13**|**Advancing Reliable Test-Time Adaptation of Vision-Language Models under Visual Variations**|Yiwen Liang et.al.|[2507.09500](http://arxiv.org/abs/2507.09500)|null|
-|**2025-07-11**|**Monitoring Risks in Test-Time Adaptation**|Mona Schirmer et.al.|[2507.08721](http://arxiv.org/abs/2507.08721)|null|
+|**2025-07-11**|**Monitoring Risks in Test-Time Adaptation**|Mona Schirmer et.al.|[2507.08721](http://arxiv.org/abs/2507.08721)|**[link](https://github.com/monasch/tta-monitor)**|
 |**2025-07-11**|**BayesTTA: Continual-Temporal Test-Time Adaptation for Vision-Language Models via Gaussian Discriminant Analysis**|Shuang Cui et.al.|[2507.08607](http://arxiv.org/abs/2507.08607)|null|
 |**2025-07-11**|**FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generation**|Yuxuan Jiang et.al.|[2507.08557](http://arxiv.org/abs/2507.08557)|null|
 |**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530](http://arxiv.org/abs/2507.08530)|null|

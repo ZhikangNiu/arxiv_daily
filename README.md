@@ -107,7 +107,7 @@
 |**2025-07-18**|**CLIPTTA: Robust Contrastive Vision-Language Test-Time Adaptation**|Marc Lafon et.al.|[2507.14312](http://arxiv.org/abs/2507.14312)|null|
 |**2025-07-16**|**Evaluation of Neural Surrogates for Physical Modelling Synthesis of Nonlinear Elastic Plates**|Carlos De La Vega Martin et.al.|[2507.12563](http://arxiv.org/abs/2507.12563)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
-|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969](http://arxiv.org/abs/2507.11969)|**[link](https://github.com/hzhxmu/GS-Bias)**|
 |**2025-07-14**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-07-14**|**Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction**|Shu-wen Yang et.al.|[2507.09834](http://arxiv.org/abs/2507.09834)|null|
 |**2025-07-13**|**Advancing Reliable Test-Time Adaptation of Vision-Language Models under Visual Variations**|Yiwen Liang et.al.|[2507.09500](http://arxiv.org/abs/2507.09500)|null|
