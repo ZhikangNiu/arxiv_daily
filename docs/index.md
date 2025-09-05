@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.09.03
+## Updated on 2025.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**Multi-level SSL Feature Gating for Audio Deepfake Detection**|Hoan My Tran et.al.|[2509.03409](http://arxiv.org/abs/2509.03409)|null|
+|**2025-09-03**|**LatPhon: Lightweight Multilingual G2P for Romance Languages and English**|Luis Felipe Chary et.al.|[2509.03300](http://arxiv.org/abs/2509.03300)|null|
+|**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
+|**2025-09-03**|**AIVA: An AI-based Virtual Companion for Emotion-aware Interaction**|Chenxi Li et.al.|[2509.03212](http://arxiv.org/abs/2509.03212)|null|
+|**2025-09-02**|**Scale, Don't Fine-tune: Guiding Multimodal LLMs for Efficient Visual Place Recognition at Test-Time**|Jintao Cheng et.al.|[2509.02129](http://arxiv.org/abs/2509.02129)|null|
+|**2025-09-04**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
+|**2025-09-01**|**MixedG2P-T5: G2P-free Speech Synthesis for Mixed-script texts using Speech Self-Supervised Learning and Language Model**|Joonyong Park et.al.|[2509.01391](http://arxiv.org/abs/2509.01391)|null|
+|**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
+|**2025-09-01**|**An AI-Based Shopping Assistant System to Support the Visually Impaired**|Larissa R. de S. Shibata et.al.|[2509.01246](http://arxiv.org/abs/2509.01246)|null|
+|**2025-09-01**|**SimulMEGA: MoE Routers are Advanced Policy Makers for Simultaneous Speech Translation**|Chenyang Le et.al.|[2509.01200](http://arxiv.org/abs/2509.01200)|null|
 |**2025-08-29**|**Towards Improved Speech Recognition through Optimized Synthetic Data Generation**|Yanis Perrin et.al.|[2508.21631](http://arxiv.org/abs/2508.21631)|null|
 |**2025-08-28**|**Multilingual Dataset Integration Strategies for Robust Audio Deepfake Detection: A SAFE Challenge System**|Hashim Ali et.al.|[2508.20983](http://arxiv.org/abs/2508.20983)|null|
 |**2025-08-28**|**MoTAS: MoE-Guided Feature Selection from TTS-Augmented Speech for Enhanced Multimodal Alzheimer's Early Screening**|Yongqi Shao et.al.|[2508.20513](http://arxiv.org/abs/2508.20513)|null|
@@ -123,6 +133,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
+|**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
+|**2025-08-31**|**TinyMusician: On-Device Music Generation with Knowledge Distillation and Mixed Precision Quantization**|Hainan Wang et.al.|[2509.00914](http://arxiv.org/abs/2509.00914)|null|
+|**2025-09-04**|**AImoclips: A Benchmark for Evaluating Emotion Conveyance in Text-to-Music Generation**|Gyehun Go et.al.|[2509.00813](http://arxiv.org/abs/2509.00813)|null|
+|**2025-08-31**|**The Name-Free Gap: Policy-Aware Stylistic Control in Music Generation**|Ashwin Nagarajan et.al.|[2509.00654](http://arxiv.org/abs/2509.00654)|null|
+|**2025-08-24**|**A Survey on Evaluation Metrics for Music Generation**|Faria Binte Kader et.al.|[2509.00051](http://arxiv.org/abs/2509.00051)|null|
 |**2025-08-28**|**Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music**|Hongju Su et.al.|[2508.20665](http://arxiv.org/abs/2508.20665)|null|
 |**2025-08-27**|**The IRMA Dataset: A Structured Audio-MIDI Corpus for Iranian Classical Music**|Sepideh Shafiei et.al.|[2508.19876](http://arxiv.org/abs/2508.19876)|null|
 |**2025-08-27**|**CompLex: Music Theory Lexicon Constructed by Autonomous Agents for Automatic Music Generation**|Zhejing Hu et.al.|[2508.19603](http://arxiv.org/abs/2508.19603)|null|
@@ -160,6 +176,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al.|[2509.03465](http://arxiv.org/abs/2509.03465)|null|
+|**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
+|**2025-09-03**|**StableSleep: Source-Free Test-Time Adaptation for Sleep Staging with Lightweight Safety Rails**|Hritik Arasu et.al.|[2509.02982](http://arxiv.org/abs/2509.02982)|null|
+|**2025-09-02**|**Speech DF Arena: A Leaderboard for Speech DeepFake Detection Models**|Sandipana Dowerah et.al.|[2509.02859](http://arxiv.org/abs/2509.02859)|null|
+|**2025-09-01**|**Adaptive Learning Strategies for Mitotic Figure Classification in MIDOG2025 Challenge**|Biwen Meng et.al.|[2509.02640](http://arxiv.org/abs/2509.02640)|null|
+|**2025-09-02**|**TTA-Bench: A Comprehensive Benchmark for Evaluating Text-to-Audio Models**|Hui Wang et.al.|[2509.02398](http://arxiv.org/abs/2509.02398)|null|
+|**2025-09-02**|**ADVMEM: Adversarial Memory Initialization for Realistic Test-Time Adaptation via Tracklet-Based Benchmarking**|Shyma Alhuwaider et.al.|[2509.02182](http://arxiv.org/abs/2509.02182)|null|
+|**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
+|**2025-08-31**|**PicoAudio2: Temporal Controllable Text-to-Audio Generation with Natural Language Description**|Zihao Zheng et.al.|[2509.00683](http://arxiv.org/abs/2509.00683)|null|
+|**2025-08-29**|**Generalizable Audio Spoofing Detection using Non-Semantic Representations**|Arnab Das et.al.|[2509.00186](http://arxiv.org/abs/2509.00186)|null|
 |**2025-08-29**|**DRASP: A Dual-Resolution Attentive Statistics Pooling Framework for Automatic MOS Prediction**|Cheng-Yeh Yang et.al.|[2508.21407](http://arxiv.org/abs/2508.21407)|null|
 |**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
 |**2025-08-28**|**Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts**|Zixuan Hu et.al.|[2508.20488](http://arxiv.org/abs/2508.20488)|null|
@@ -247,6 +273,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-01**|**Real-Time Applicability of Emulated Virtual Circuits for Tokamak Plasma Shape Control**|Pedro Cavestany et.al.|[2509.01789](http://arxiv.org/abs/2509.01789)|null|
+|**2025-08-30**|**FreeTalk:A plug-and-play and black-box defense against speech synthesis attacks**|Yuwen Pu et.al.|[2509.00561](http://arxiv.org/abs/2509.00561)|null|
+|**2025-08-30**|**Entropy-based Coarse and Compressed Semantic Speech Representation Learning**|Jialong Zuo et.al.|[2509.00503](http://arxiv.org/abs/2509.00503)|null|
 |**2025-08-29**|**Epsilon-saturation for stable graphs and Littlestone classes**|Maryanthe Malliaris et.al.|[2508.21807](http://arxiv.org/abs/2508.21807)|null|
 |**2025-08-29**|**Towards Improved Speech Recognition through Optimized Synthetic Data Generation**|Yanis Perrin et.al.|[2508.21631](http://arxiv.org/abs/2508.21631)|null|
 |**2025-08-29**|**On the Number of Path Systems**|Daniel Cizma et.al.|[2508.21379](http://arxiv.org/abs/2508.21379)|null|
@@ -300,6 +329,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-01**|**O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing**|Yuqing Chen et.al.|[2509.01596](http://arxiv.org/abs/2509.01596)|null|
+|**2025-09-01**|**Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement**|Jiayi Gao et.al.|[2509.01362](http://arxiv.org/abs/2509.01362)|null|
+|**2025-09-01**|**Communicative Agents for Slideshow Storytelling Video Generation based on LLMs**|Jingxing Fan et.al.|[2509.01277](http://arxiv.org/abs/2509.01277)|null|
+|**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
+|**2025-09-03**|**CompSlider: Compositional Slider for Disentangled Multiple-Attribute Image Generation**|Zixin Zhu et.al.|[2509.01028](http://arxiv.org/abs/2509.01028)|null|
+|**2025-08-30**|**DevilSight: Augmenting Monocular Human Avatar Reconstruction through a Virtual Perspective**|Yushuo Chen et.al.|[2509.00403](http://arxiv.org/abs/2509.00403)|null|
 |**2025-08-27**|**ERTACache: Error Rectification and Timesteps Adjustment for Efficient Diffusion**|Xurui Peng et.al.|[2508.21091](http://arxiv.org/abs/2508.21091)|null|
 |**2025-08-28**|**Mixture of Contexts for Long Video Generation**|Shengqu Cai et.al.|[2508.21058](http://arxiv.org/abs/2508.21058)|null|
 |**2025-08-28**|**POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models**|Jiaxiang Cheng et.al.|[2508.21019](http://arxiv.org/abs/2508.21019)|null|
@@ -413,6 +448,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-03**|**Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage, but Not Direct the Play?**|Ouxiang Li et.al.|[2509.03516](http://arxiv.org/abs/2509.03516)|null|
+|**2025-09-03**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al.|[2509.03465](http://arxiv.org/abs/2509.03465)|null|
+|**2025-09-03**|**On the MIA Vulnerability Gap Between Private GANs and Diffusion Models**|Ilana Sebag et.al.|[2509.03341](http://arxiv.org/abs/2509.03341)|null|
+|**2025-09-03**|**Enhancing Robustness in Post-Processing Watermarking: An Ensemble Attack Network Using CNNs and Transformers**|Tzuhsuan Huang et.al.|[2509.03006](http://arxiv.org/abs/2509.03006)|null|
+|**2025-09-02**|**Unifi3D: A Study on 3D Representations for Generation and Reconstruction in a Common Framework**|Nina Wiedemann et.al.|[2509.02474](http://arxiv.org/abs/2509.02474)|null|
+|**2025-09-02**|**Exploring Diffusion Models for Generative Forecasting of Financial Charts**|Taegyeong Lee et.al.|[2509.02308](http://arxiv.org/abs/2509.02308)|null|
+|**2025-09-02**|**Data-Driven Loss Functions for Inference-Time Optimization in Text-to-Image Generation**|Sapir Esther Yiflach et.al.|[2509.02295](http://arxiv.org/abs/2509.02295)|null|
+|**2025-09-02**|**Improving atomic force microscopy structure discovery via style-translation**|Jie Huang et.al.|[2509.02240](http://arxiv.org/abs/2509.02240)|null|
+|**2025-09-02**|**Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data Generation: A Comparative Study with Image-To-Image Diffusion Models**|Pablo Ayuso-Albizu et.al.|[2509.02161](http://arxiv.org/abs/2509.02161)|null|
+|**2025-09-02**|**Differentiable Expectation-Maximisation and Applications to Gaussian Mixture Model Optimal Transport**|Samuel Boïté et.al.|[2509.02109](http://arxiv.org/abs/2509.02109)|null|
 |**2025-08-29**|**FLORA: Efficient Synthetic Data Generation for Object Detection in Low-Data Regimes via finetuning Flux LoRA**|Alvaro Patricio et.al.|[2508.21712](http://arxiv.org/abs/2508.21712)|null|
 |**2025-08-28**|**Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation**|Yidong Zhao et.al.|[2508.21254](http://arxiv.org/abs/2508.21254)|null|
 |**2025-08-28**|**OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning**|Yuan Gong et.al.|[2508.21066](http://arxiv.org/abs/2508.21066)|null|
@@ -601,6 +646,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-02**|**Analysis of Speaker Verification Performance Trade-offs with Neural Audio Codec Transmission**|Nirmalya Mallick Thakur et.al.|[2509.02771](http://arxiv.org/abs/2509.02771)|null|
+|**2025-09-04**|**AudioCodecBench: A Comprehensive Benchmark for Audio Codec Evaluation**|Lu Wang et.al.|[2509.02349](http://arxiv.org/abs/2509.02349)|null|
+|**2025-09-02**|**Spectrogram Patch Codec: A 2D Block-Quantized VQ-VAE and HiFi-GAN for Neural Speech Coding**|Luis Felipe Chary et.al.|[2509.02244](http://arxiv.org/abs/2509.02244)|null|
+|**2025-09-04**|**FireRedTTS-2: Towards Long Conversational Speech Generation for Podcast and Chatbot**|Kun Xie et.al.|[2509.02020](http://arxiv.org/abs/2509.02020)|null|
+|**2025-09-01**|**Analysing the Language of Neural Audio Codecs**|Joonyong Park et.al.|[2509.01390](http://arxiv.org/abs/2509.01390)|null|
 |**2025-08-28**|**WaveLLDM: Design and Development of a Lightweight Latent Diffusion Model for Speech Enhancement and Restoration**|Kevin Putra Santoso et.al.|[2508.21153](http://arxiv.org/abs/2508.21153)|null|
 |**2025-08-28**|**CodecBench: A Comprehensive Benchmark for Acoustic and Semantic Evaluation**|Ruifan Deng et.al.|[2508.20660](http://arxiv.org/abs/2508.20660)|null|
 |**2025-08-26**|**VibeVoice Technical Report**|Zhiliang Peng et.al.|[2508.19205](http://arxiv.org/abs/2508.19205)|null|
@@ -649,7 +699,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-08-29**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
+|**2025-09-02**|**A proximal augmented Lagrangian method for nonconvex optimization with equality and inequality constraints**|Adeyemi D. Adeoye et.al.|[2509.02894](http://arxiv.org/abs/2509.02894)|null|
+|**2025-09-01**|**AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions**|Yiwei Guo et.al.|[2509.01787](http://arxiv.org/abs/2509.01787)|null|
+|**2025-09-01**|**Error Notebook-Guided, Training-Free Part Retrieval in 3D CAD Assemblies via Vision-Language Models**|Yunqing Liu et.al.|[2509.01350](http://arxiv.org/abs/2509.01350)|null|
+|**2025-08-31**|**OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination**|Junzhe Chen et.al.|[2509.00723](http://arxiv.org/abs/2509.00723)|null|
+|**2025-09-02**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
 |**2025-08-28**|**WoW-Bench: Evaluating Fine-Grained Acoustic Perception in Audio-Language Models via Marine Mammal Vocalizations**|Jaeyeon Kim et.al.|[2508.20976](http://arxiv.org/abs/2508.20976)|null|
 |**2025-08-26**|**Emotion Omni: Enabling Empathetic Speech Response Generation through Large Language Models**|Haoyu Wang et.al.|[2508.18655](http://arxiv.org/abs/2508.18655)|null|
 |**2025-08-25**|**Alternating odd cycles and orientations of Kneser-like graphs**|Nóra Almási et.al.|[2508.18487](http://arxiv.org/abs/2508.18487)|null|
