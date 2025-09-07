@@ -1,4 +1,4 @@
-## Updated on 2025.09.06
+## Updated on 2025.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
 |**2025-08-18**|**Cooperative Sensing-Assisted Predictive Beam Tracking for MIMO-OFDM Networked ISAC Systems**|Xiaoyu Yang et.al.|[2508.12723](http://arxiv.org/abs/2508.12723)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-07-11**|**FreeAudio: Training-Free Timing Planning for Controllable Long-Form Text-to-Audio Generation**|Yuxuan Jiang et.al.|[2507.08557](http://arxiv.org/abs/2507.08557)|null|
 |**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530](http://arxiv.org/abs/2507.08530)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -156,7 +156,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -213,7 +213,7 @@
 |**2025-06-26**|**Avatars and Environments for Meetings in Social VR: What Styles and Choices Matter to People in Group Creativity Tasks?**|Anya Osborne et.al.|[2506.21780](http://arxiv.org/abs/2506.21780)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Video Generation
 
@@ -270,7 +270,7 @@
 |**2025-08-18**|**E3RG: Building Explicit Emotion-driven Empathetic Response Generation System with Multimodal Large Language Model**|Ronghao Lin et.al.|[2508.12854](http://arxiv.org/abs/2508.12854)|null|
 |**2025-08-18**|**MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration**|Yuanxin Wei et.al.|[2508.12691](http://arxiv.org/abs/2508.12691)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Image Generation
 
@@ -327,7 +327,7 @@
 |**2025-08-24**|**Bias Amplification in Stable Diffusion's Representation of Stigma Through Skin Tones and Their Homogeneity**|Kyra Wilson et.al.|[2508.17465](http://arxiv.org/abs/2508.17465)|null|
 |**2025-08-24**|**An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing**|Zihan Liang et.al.|[2508.17435](http://arxiv.org/abs/2508.17435)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Music Generation
 
@@ -373,7 +373,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -428,7 +428,7 @@
 |**2025-06-04**|**Bringing Interpretability to Neural Audio Codecs**|Samir Sadok et.al.|[2506.04492](http://arxiv.org/abs/2506.04492)|null|
 |**2025-06-13**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -485,7 +485,7 @@
 |**2025-06-29**|**VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems**|Ethan Smyth et.al.|[2507.00079](http://arxiv.org/abs/2507.00079)|null|
 |**2025-06-28**|**UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments**|Dayong Su et.al.|[2506.22736](http://arxiv.org/abs/2506.22736)|null|
 
-<p align=right>(<a href=#updated-on-20250906>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250907>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
