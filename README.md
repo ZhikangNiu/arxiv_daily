@@ -420,8 +420,8 @@
 |**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/abs/2506.14767)|**[link](https://github.com/b04901014/vae-gslm)**|
 |**2025-06-14**|**Towards Neural Audio Codec Source Parsing**|Orchid Chetia Phukan et.al.|[2506.12627](http://arxiv.org/abs/2506.12627)|null|
 |**2025-06-14**|**Speech-Language Models with Decoupled Tokenizers and Multi-Token Prediction**|Xiaoran Fan et.al.|[2506.12537](http://arxiv.org/abs/2506.12537)|null|
-|**2025-06-13**|**ViSAGe: Video-to-Spatial Audio Generation**|Jaeyeon Kim et.al.|[2506.12199](http://arxiv.org/abs/2506.12199)|null|
-|**2025-06-16**|**Discrete Audio Tokens: More Than a Survey!**|Pooneh Mousavi et.al.|[2506.10274](http://arxiv.org/abs/2506.10274)|null|
+|**2025-06-13**|**ViSAGe: Video-to-Spatial Audio Generation**|Jaeyeon Kim et.al.|[2506.12199](http://arxiv.org/abs/2506.12199)|**[link](https://github.com/jaeyeonkim99/visage)**|
+|**2025-06-16**|**Discrete Audio Tokens: More Than a Survey!**|Pooneh Mousavi et.al.|[2506.10274](http://arxiv.org/abs/2506.10274)|**[link](https://github.com/RaggingPotato/031921-)**|
 |**2025-06-13**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967](http://arxiv.org/abs/2506.08967)|null|
 |**2025-06-10**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
 |**2025-06-19**|**Streaming Endpointer for Spoken Dialogue using Neural Audio Codecs and Label-Delayed Training**|Sathvik Udupa et.al.|[2506.07081](http://arxiv.org/abs/2506.07081)|null|
