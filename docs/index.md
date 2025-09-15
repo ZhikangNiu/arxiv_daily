@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/DiFlow-TTS/DiFlow-TTS)**|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/DiFlow-TTS/DiFlow-TTS)**|
 |**2025-09-11**|**A Low-Rank tensor framework for THB-Splines**|Tom-Christian Riemer et.al.|[2509.09434](http://arxiv.org/abs/2509.09434)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
@@ -212,7 +212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-11**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julia et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
+|**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-10**|**Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
 |**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|Xiaoran Yang et.al.|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
@@ -757,8 +757,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
-|**2025-09-11**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julia et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
 |**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
 |**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|

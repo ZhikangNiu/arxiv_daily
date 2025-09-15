@@ -1,4 +1,4 @@
-## Updated on 2025.09.14
+## Updated on 2025.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/DiFlow-TTS/DiFlow-TTS)**|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/DiFlow-TTS/DiFlow-TTS)**|
 |**2025-09-11**|**A Low-Rank tensor framework for THB-Splines**|Tom-Christian Riemer et.al.|[2509.09434](http://arxiv.org/abs/2509.09434)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
@@ -71,13 +71,13 @@
 |**2025-08-25**|**SwiftF0: Fast and Accurate Monophonic Pitch Detection**|Lars Nieradzik et.al.|[2508.18440](http://arxiv.org/abs/2508.18440)|null|
 |**2025-08-25**|**Unseen Speaker and Language Adaptation for Lightweight Text-To-Speech with Adapters**|Alessio Falai et.al.|[2508.18006](http://arxiv.org/abs/2508.18006)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Text to Audio
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-11**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julia et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
+|**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-10**|**Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
 |**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|Xiaoran Yang et.al.|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
@@ -128,7 +128,7 @@
 |**2025-07-16**|**Evaluation of Neural Surrogates for Physical Modelling Synthesis of Nonlinear Elastic Plates**|Carlos De La Vega Martin et.al.|[2507.12563](http://arxiv.org/abs/2507.12563)|null|
 |**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -158,7 +158,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -215,7 +215,7 @@
 |**2025-07-09**|**Speech Tokenizer is Key to Consistent Representation**|Wonjin Jung et.al.|[2507.06802](http://arxiv.org/abs/2507.06802)|null|
 |**2025-07-07**|**Fast-VGAN: Lightweight Voice Conversion with Explicit Control of F0 and Duration Parameters**|Mathilde Abrassart et.al.|[2507.04817](http://arxiv.org/abs/2507.04817)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Video Generation
 
@@ -272,7 +272,7 @@
 |**2025-08-19**|**InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing**|Shaoshu Yang et.al.|[2508.14033](http://arxiv.org/abs/2508.14033)|null|
 |**2025-08-19**|**Physics-Based 3D Simulation for Synthetic Data Generation and Failure Analysis in Packaging Stability Assessment**|Samuel Seligardi et.al.|[2508.13989](http://arxiv.org/abs/2508.13989)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Image Generation
 
@@ -329,7 +329,7 @@
 |**2025-09-02**|**Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data Generation: A Comparative Study with Image-To-Image Diffusion Models**|Pablo Ayuso-Albizu et.al.|[2509.02161](http://arxiv.org/abs/2509.02161)|null|
 |**2025-09-02**|**Differentiable Expectation-Maximisation and Applications to Gaussian Mixture Model Optimal Transport**|Samuel Boïté et.al.|[2509.02109](http://arxiv.org/abs/2509.02109)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Music Generation
 
@@ -379,14 +379,14 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Audio Codec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
-|**2025-09-11**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julia et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
 |**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
 |**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|
@@ -436,7 +436,7 @@
 |**2025-06-13**|**Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model**|Ailin Huang et.al.|[2506.08967](http://arxiv.org/abs/2506.08967)|null|
 |**2025-06-10**|**Towards Generalized Source Tracing for Codec-Based Deepfake Speech**|Xuanjun Chen et.al.|[2506.07294](http://arxiv.org/abs/2506.07294)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -493,7 +493,7 @@
 |**2025-07-10**|**Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models**|Arushi Goel et.al.|[2507.08128](http://arxiv.org/abs/2507.08128)|null|
 |**2025-07-09**|**Omni-Fusion of Spatial and Spectral for Hyperspectral Image Segmentation**|Qing Zhang et.al.|[2507.06606](http://arxiv.org/abs/2507.06606)|null|
 
-<p align=right>(<a href=#updated-on-20250914>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250915>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
