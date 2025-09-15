@@ -352,7 +352,7 @@
 |**2025-08-08**|**MuSpike: A Benchmark and Evaluation Framework for Symbolic Music Generation with Spiking Neural Networks**|Qian Liang et.al.|[2508.19251](http://arxiv.org/abs/2508.19251)|null|
 |**2025-08-12**|**QAMRO: Quality-aware Adaptive Margin Ranking Optimization for Human-aligned Assessment of Audio Generation Systems**|Chien-Chun Wang et.al.|[2508.08957](http://arxiv.org/abs/2508.08957)|null|
 |**2025-08-12**|**Opening Musical Creativity? Embedded Ideologies in Generative-AI Music Systems**|Liam Pram et.al.|[2508.08805](http://arxiv.org/abs/2508.08805)|null|
-|**2025-08-08**|**Live Music Models**|Lyria Team et.al.|[2508.04651](http://arxiv.org/abs/2508.04651)|null|
+|**2025-08-08**|**Live Music Models**|Lyria Team et.al.|[2508.04651](http://arxiv.org/abs/2508.04651)|**[link](https://github.com/cirosantilli/china-dictatorship)**|
 |**2025-08-03**|**Automatic Melody Reduction via Shortest Path Finding**|Ziyu Wang et.al.|[2508.01571](http://arxiv.org/abs/2508.01571)|null|
 |**2025-07-31**|**DeformTune: A Deformable XAI Music Prototype for Non-Musicians**|Ziqing Xu et.al.|[2508.00160](http://arxiv.org/abs/2508.00160)|null|
 |**2025-07-31**|**"I made this (sort of)": Negotiating authorship, confronting fraudulence, and exploring new musical spaces with prompt-based AI music generation**|Bob L. T. Sturm et.al.|[2507.23365](http://arxiv.org/abs/2507.23365)|null|
