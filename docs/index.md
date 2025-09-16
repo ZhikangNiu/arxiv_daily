@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.09.15
+## Updated on 2025.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers**|Akshat Pandey et.al.|[2509.10452](http://arxiv.org/abs/2509.10452)|null|
+|**2025-09-12**|**Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps**|Xin Wang et.al.|[2509.10086](http://arxiv.org/abs/2509.10086)|null|
+|**2025-09-11**|**DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration**|Yanru Huo et.al.|[2509.09748](http://arxiv.org/abs/2509.09748)|null|
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/DiFlow-TTS/DiFlow-TTS)**|
 |**2025-09-11**|**A Low-Rank tensor framework for THB-Splines**|Tom-Christian Riemer et.al.|[2509.09434](http://arxiv.org/abs/2509.09434)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
@@ -212,6 +215,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-11**|**Purge-Gate: Backpropagation-Free Test-Time Adaptation for Point Clouds Classification via Token Purging**|Moslem Yazdanpanah et.al.|[2509.09785](http://arxiv.org/abs/2509.09785)|null|
 |**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-10**|**Beyond Distribution Shifts: Adaptive Hyperspectral Image Classification at Test Time**|Xia Yue et.al.|[2509.08436](http://arxiv.org/abs/2509.08436)|null|
 |**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
@@ -388,6 +392,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching**|Zhixin Zheng et.al.|[2509.10312](http://arxiv.org/abs/2509.10312)|null|
 |**2025-09-11**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
 |**2025-09-11**|**Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders**|Dohun Lee et.al.|[2509.09547](http://arxiv.org/abs/2509.09547)|null|
 |**2025-09-10**|**RewardDance: Reward Scaling in Visual Generation**|Jie Wu et.al.|[2509.08826](http://arxiv.org/abs/2509.08826)|null|
@@ -519,6 +524,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-12**|**InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis**|Tao Han et.al.|[2509.10441](http://arxiv.org/abs/2509.10441)|null|
+|**2025-09-12**|**Immunizing Images from Text to Image Editing via Adversarial Cross-Attention**|Matteo Trippodo et.al.|[2509.10359](http://arxiv.org/abs/2509.10359)|null|
+|**2025-09-12**|**MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation**|Jia Wang et.al.|[2509.10260](http://arxiv.org/abs/2509.10260)|null|
+|**2025-09-12**|**Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization**|Yifan Chang et.al.|[2509.10140](http://arxiv.org/abs/2509.10140)|null|
+|**2025-09-12**|**Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation**|Sung-Lin Tsai et.al.|[2509.10058](http://arxiv.org/abs/2509.10058)|null|
 |**2025-09-11**|**FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark**|Rongyao Fang et.al.|[2509.09680](http://arxiv.org/abs/2509.09680)|null|
 |**2025-09-11**|**Can Understanding and Generation Truly Benefit Together -- or Just Coexist?**|Zhiyuan Yan et.al.|[2509.09666](http://arxiv.org/abs/2509.09666)|null|
 |**2025-09-11**|**Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth**|Daria Laslo et.al.|[2509.09610](http://arxiv.org/abs/2509.09610)|null|
@@ -815,6 +825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-09**|**VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions**|Jun Zhan et.al.|[2509.09716](http://arxiv.org/abs/2509.09716)|null|
 |**2025-09-11**|**AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs**|Sidharth Surapaneni et.al.|[2509.08031](http://arxiv.org/abs/2509.08031)|null|
 |**2025-09-09**|**Competitive Audio-Language Models with Data-Efficient Single-Stage Training on Public Data**|Gokul Karthik Kumar et.al.|[2509.07526](http://arxiv.org/abs/2509.07526)|null|
 |**2025-09-09**|**OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics**|Yinan Deng et.al.|[2509.07500](http://arxiv.org/abs/2509.07500)|null|
