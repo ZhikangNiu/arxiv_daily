@@ -1,4 +1,4 @@
-## Updated on 2025.09.20
+## Updated on 2025.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-09-05**|**Cloning a Conversational Voice AI Agent from Call\,Recording Datasets for Telesales**|Krittanon Kaewtawee et.al.|[2509.04871](http://arxiv.org/abs/2509.04871)|null|
 |**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-08-11**|**Pindrop it! Audio and Visual Deepfake Countermeasures for Robust Detection and Fine Grained-Localization**|Nicholas Klein et.al.|[2508.08141](http://arxiv.org/abs/2508.08141)|null|
 |**2025-08-11**|**Adaptive Cache Enhancement for Test-Time Adaptation of Vision-Language Models**|Khanh-Binh Nguyen et.al.|[2508.07570](http://arxiv.org/abs/2508.07570)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -158,7 +158,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -215,7 +215,7 @@
 |**2025-07-16**|**Multipass Linear Sketches for Geometric LP-Type Problems**|N. Efe Çekirge et.al.|[2507.11484](http://arxiv.org/abs/2507.11484)|null|
 |**2025-07-15**|**On Tight Robust Coresets for $k$ -Medians Clustering**|Lingxiao Huang et.al.|[2507.11260](http://arxiv.org/abs/2507.11260)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Video Generation
 
@@ -272,7 +272,7 @@
 |**2025-08-24**|**MoCo: Motion-Consistent Human Video Generation via Structure-Appearance Decoupling**|Haoyu Wang et.al.|[2508.17404](http://arxiv.org/abs/2508.17404)|null|
 |**2025-08-24**|**DiCache: Let Diffusion Model Determine Its Own Cache**|Jiazi Bu et.al.|[2508.17356](http://arxiv.org/abs/2508.17356)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Image Generation
 
@@ -329,7 +329,7 @@
 |**2025-09-10**|**Physics-Guided Rectified Flow for Low-light RAW Image Enhancement**|Juntai Zeng et.al.|[2509.08330](http://arxiv.org/abs/2509.08330)|null|
 |**2025-09-09**|**Feature Space Analysis by Guided Diffusion Model**|Kimiaki Shirahama et.al.|[2509.07936](http://arxiv.org/abs/2509.07936)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Music Generation
 
@@ -383,7 +383,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -440,7 +440,7 @@
 |**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/abs/2506.14767)|**[link](https://github.com/b04901014/vae-gslm)**|
 |**2025-06-14**|**Towards Neural Audio Codec Source Parsing**|Orchid Chetia Phukan et.al.|[2506.12627](http://arxiv.org/abs/2506.12627)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -497,7 +497,7 @@
 |**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 
-<p align=right>(<a href=#updated-on-20250920>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
