@@ -2,15 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.09.22
+## Updated on 2025.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Fed-PISA: Federated Voice Cloning via Personalized Identity-Style Adaptation**|Qi Wang et.al.|[2509.16010](http://arxiv.org/abs/2509.16010)|null|
+|**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|**[link](https://github.com/herimor/voxtream)**|
+|**2025-09-19**|**Deep Dubbing: End-to-End Auto-Audiobook System with Text-to-Timbre and Context-Aware Instruct-TTS**|Ziqi Dai et.al.|[2509.15845](http://arxiv.org/abs/2509.15845)|null|
+|**2025-09-19**|**LibriTTS-VI: A Public Corpus and Novel Methods for Efficient Voice Impression Control**|Junki Ohmura et.al.|[2509.15626](http://arxiv.org/abs/2509.15626)|null|
+|**2025-09-19**|**Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech**|Xinlei Niu et.al.|[2509.15492](http://arxiv.org/abs/2509.15492)|**[link](https://github.com/XinleiNIU/BVS-demo)**|
+|**2025-09-18**|**A Novel Semantic Compression Approach for Ultra-low Bandwidth Voice Communication**|Ryan Collette et.al.|[2509.15462](http://arxiv.org/abs/2509.15462)|null|
+|**2025-09-18**|**Frustratingly Easy Data Augmentation for Low-Resource ASR**|Katsumi Ibaraki et.al.|[2509.15373](http://arxiv.org/abs/2509.15373)|null|
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
-|**2025-09-18**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|**[link](https://github.com/ShawnPi233/SynParaSpeech)**|
+|**2025-09-20**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|null|
 |**2025-09-18**|**MELA-TTS: Joint transformer-diffusion model with representation alignment for speech synthesis**|Keyu An et.al.|[2509.14784](http://arxiv.org/abs/2509.14784)|null|
 |**2025-09-18**|**Effect of construction steels on PMTs detection efficiency at JUNO**|T. Yan et.al.|[2509.14733](http://arxiv.org/abs/2509.14733)|null|
 |**2025-09-18**|**DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2509.14684](http://arxiv.org/abs/2509.14684)|null|
@@ -241,6 +248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech**|Xinlei Niu et.al.|[2509.15492](http://arxiv.org/abs/2509.15492)|null|
 |**2025-09-18**|**Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance**|Francisco Messina et.al.|[2509.14934](http://arxiv.org/abs/2509.14934)|null|
 |**2025-09-17**|**Class-invariant Test-Time Augmentation for Domain Generalization**|Zhicheng Lin et.al.|[2509.14420](http://arxiv.org/abs/2509.14420)|null|
 |**2025-09-17**|**Lightweight Implicit Neural Network for Binaural Audio Synthesis**|Xikun Lu et.al.|[2509.14069](http://arxiv.org/abs/2509.14069)|null|
@@ -328,6 +336,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech**|Xinlei Niu et.al.|[2509.15492](http://arxiv.org/abs/2509.15492)|null|
+|**2025-09-19**|**RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes**|Fang Li et.al.|[2509.15123](http://arxiv.org/abs/2509.15123)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|Xiaoran Yang et.al.|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
 |**2025-09-05**|**Efficient Video-to-Audio Generation via Multiple Foundation Models Mapper**|Gehui Chen et.al.|[2509.04957](http://arxiv.org/abs/2509.04957)|null|
 |**2025-08-23**|**HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation**|Sizhe Shan et.al.|[2508.16930](http://arxiv.org/abs/2508.16930)|null|
@@ -356,9 +366,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Fed-PISA: Federated Voice Cloning via Personalized Identity-Style Adaptation**|Qi Wang et.al.|[2509.16010](http://arxiv.org/abs/2509.16010)|null|
+|**2025-09-19**|**The Singing Voice Conversion Challenge 2025: From Singer Identity Conversion To Singing Style Conversion**|Lester Phillip Violeta et.al.|[2509.15629](http://arxiv.org/abs/2509.15629)|null|
 |**2025-09-18**|**FCPE: A Fast Context-based Pitch Estimation Model**|Yuxin Luo et.al.|[2509.15140](http://arxiv.org/abs/2509.15140)|null|
 |**2025-09-18**|**MELA-TTS: Joint transformer-diffusion model with representation alignment for speech synthesis**|Keyu An et.al.|[2509.14784](http://arxiv.org/abs/2509.14784)|null|
-|**2025-09-18**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
+|**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
 |**2025-09-17**|**VCBench: Benchmarking LLMs in Venture Capital**|Rick Chen et.al.|[2509.14448](http://arxiv.org/abs/2509.14448)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 |**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
@@ -432,6 +444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution**|Chang Soo Lim et.al.|[2509.15781](http://arxiv.org/abs/2509.15781)|null|
+|**2025-09-19**|**Lynx: Towards High-Fidelity Personalized Video Generation**|Shen Sang et.al.|[2509.15496](http://arxiv.org/abs/2509.15496)|null|
+|**2025-09-18**|**OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data**|Björn Möller et.al.|[2509.15479](http://arxiv.org/abs/2509.15479)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Yuming Jiang et.al.|[2509.15212](http://arxiv.org/abs/2509.15212)|null|
 |**2025-09-18**|**WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance**|Chenxi Song et.al.|[2509.15130](http://arxiv.org/abs/2509.15130)|null|
 |**2025-09-18**|**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images**|Kazuma Nagata et.al.|[2509.14685](http://arxiv.org/abs/2509.14685)|null|
@@ -581,6 +596,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**|Yanghao Li et.al.|[2509.16197](http://arxiv.org/abs/2509.16197)|null|
+|**2025-09-19**|**AcT2I: Evaluating and Improving Action Depiction in Text-to-Image Models**|Vatsal Malaviya et.al.|[2509.16141](http://arxiv.org/abs/2509.16141)|null|
+|**2025-09-19**|**Structured Information for Improving Spatial Relationships in Text-to-Image Generation**|Sander Schildermans et.al.|[2509.15962](http://arxiv.org/abs/2509.15962)|null|
+|**2025-09-19**|**CIDER: A Causal Cure for Brand-Obsessed Text-to-Image Models**|Fangjian Shen et.al.|[2509.15803](http://arxiv.org/abs/2509.15803)|null|
+|**2025-09-19**|**Layout Stroke Imitation: A Layout Guided Handwriting Stroke Generation for Style Imitation with Diffusion Model**|Sidra Hanif et.al.|[2509.15678](http://arxiv.org/abs/2509.15678)|null|
+|**2025-09-19**|**Latent Zoning Network: A Unified Principle for Generative Modeling, Representation Learning, and Classification**|Zinan Lin et.al.|[2509.15591](http://arxiv.org/abs/2509.15591)|null|
+|**2025-09-19**|**PolyJuice Makes It Real: Black-Box, Universal Red Teaming for Synthetic Image Detectors**|Sepehr Dehdashtian et.al.|[2509.15551](http://arxiv.org/abs/2509.15551)|null|
+|**2025-09-18**|**RaceGAN: A Framework for Preserving Individuality while Converting Racial Information for Image-to-Image Translation**|Mst Tasnim Pervin et.al.|[2509.15391](http://arxiv.org/abs/2509.15391)|null|
+|**2025-09-18**|**MaskAttn-SDXL: Controllable Region-Level Text-To-Image Generation**|Yu Chang et.al.|[2509.15357](http://arxiv.org/abs/2509.15357)|null|
+|**2025-09-18**|**LowDiff: Efficient Diffusion Sampling with Low-Resolution Condition**|Jiuyi Xu et.al.|[2509.15342](http://arxiv.org/abs/2509.15342)|null|
 |**2025-09-18**|**Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation**|Xiaoyu Yue et.al.|[2509.15185](http://arxiv.org/abs/2509.15185)|null|
 |**2025-09-18**|**Forecasting and Visualizing Air Quality from Sky Images with Vision-Language Models**|Mohammad Saleh Vahdatpour et.al.|[2509.15076](http://arxiv.org/abs/2509.15076)|null|
 |**2025-09-18**|**AutoEdit: Automatic Hyperparameter Tuning for Image Editing**|Chau Pham et.al.|[2509.15031](http://arxiv.org/abs/2509.15031)|null|
@@ -858,6 +883,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**FocalCodec-Stream: Streaming Low-Bitrate Speech Coding via Causal Distillation**|Luca Della Libera et.al.|[2509.16195](http://arxiv.org/abs/2509.16195)|null|
+|**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|null|
+|**2025-09-18**|**A Novel Semantic Compression Approach for Ultra-low Bandwidth Voice Communication**|Ryan Collette et.al.|[2509.15462](http://arxiv.org/abs/2509.15462)|null|
 |**2025-09-18**|**MELA-TTS: Joint transformer-diffusion model with representation alignment for speech synthesis**|Keyu An et.al.|[2509.14784](http://arxiv.org/abs/2509.14784)|null|
 |**2025-09-17**|**A High-Quality and Low-Complexity Streamable Neural Speech Codec with Knowledge Distillation**|En-Wei Zhang et.al.|[2509.13670](http://arxiv.org/abs/2509.13670)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
@@ -921,6 +949,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-19**|**Direct Simultaneous Translation Activation for Large Audio-Language Models**|Pei Zhang et.al.|[2509.15692](http://arxiv.org/abs/2509.15692)|null|
+|**2025-09-19**|**Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion**|Yinong Cao et.al.|[2509.15673](http://arxiv.org/abs/2509.15673)|null|
+|**2025-09-19**|**Jamendo-QA: A Large-Scale Music Question Answering Dataset**|Junyoung Koh et.al.|[2509.15662](http://arxiv.org/abs/2509.15662)|null|
+|**2025-09-19**|**SightSound-R1: Cross-Modal Reasoning Distillation from Vision to Audio Language Models**|Qiaolin Wang et.al.|[2509.15661](http://arxiv.org/abs/2509.15661)|null|
+|**2025-09-19**|**EMO-RL: Emotion-Rule-Based Reinforcement Learning Enhanced Audio-Language Model for Generalized Speech Emotion Recognition**|Pengcheng Li et.al.|[2509.15654](http://arxiv.org/abs/2509.15654)|null|
+|**2025-09-19**|**Thinking in cocktail party: Chain-of-Thought and reinforcement learning for target speaker automatic speech recognition**|Yiru Zhang et.al.|[2509.15612](http://arxiv.org/abs/2509.15612)|null|
+|**2025-09-19**|**Adversarially Robust Assembly Language Model for Packed Executables Detection**|Shijia Li et.al.|[2509.15499](http://arxiv.org/abs/2509.15499)|null|
+|**2025-09-18**|**Evaluating Multimodal Large Language Models on Spoken Sarcasm Understanding**|Zhu Li et.al.|[2509.15476](http://arxiv.org/abs/2509.15476)|null|
+|**2025-09-18**|**Exploring Fine-Tuning of Large Audio Language Models for Spoken Language Understanding under Limited Speech data**|Youngwon Choi et.al.|[2509.15389](http://arxiv.org/abs/2509.15389)|null|
+|**2025-09-18**|**Hybrid Learning and Optimization methods for solving Capacitated Vehicle Routing Problem**|Monit Sharma et.al.|[2509.15262](http://arxiv.org/abs/2509.15262)|null|
 |**2025-09-18**|**Can Large Audio Language Models Understand Audio Well? Speech, Scene and Events Understanding Benchmark for LALMs**|Han Yin et.al.|[2509.13148](http://arxiv.org/abs/2509.13148)|null|
 |**2025-09-18**|**Omni-CLST: Error-aware Curriculum Learning with guided Selective chain-of-Thought for audio question answering**|Jinghua Zhao et.al.|[2509.12275](http://arxiv.org/abs/2509.12275)|null|
 |**2025-09-15**|**OASIS: A Deep Learning Framework for Universal Spectroscopic Analysis Driven by Novel Loss Functions**|Chris Young et.al.|[2509.11499](http://arxiv.org/abs/2509.11499)|null|
