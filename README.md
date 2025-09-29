@@ -1,4 +1,4 @@
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |---|---|---|---|---|
 |**2025-09-25**|**UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice**|Sitong Cheng et.al.|[2509.21144](http://arxiv.org/abs/2509.21144)|**[link](https://github.com/cmots/UniSS)**|
 |**2025-09-25**|**i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents**|Anupam Purwar et.al.|[2509.20971](http://arxiv.org/abs/2509.20971)|null|
-|**2025-09-25**|**SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS**|Tan Dat Nguyen et.al.|[2509.20802](http://arxiv.org/abs/2509.20802)|null|
+|**2025-09-26**|**SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS**|Tan Dat Nguyen et.al.|[2509.20802](http://arxiv.org/abs/2509.20802)|null|
 |**2025-09-24**|**Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems**|Samer Alshaer et.al.|[2509.20513](http://arxiv.org/abs/2509.20513)|null|
 |**2025-09-24**|**Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens**|Ismail Rasim Ulgen et.al.|[2509.20485](http://arxiv.org/abs/2509.20485)|null|
 |**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
@@ -71,7 +71,7 @@
 |**2025-09-18**|**Mitigating Intra-Speaker Variability in Diarization with Style-Controllable Speech Augmentation**|Miseul Kim et.al.|[2509.14632](http://arxiv.org/abs/2509.14632)|null|
 |**2025-09-18**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-08-21**|**DualMark: Identifying Model and Training Data Origins in Generated Audio**|Xuefeng Yang et.al.|[2508.15521](http://arxiv.org/abs/2508.15521)|null|
 |**2025-08-19**|**MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence**|Sonal Kumar et.al.|[2508.13992](http://arxiv.org/abs/2508.13992)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -162,7 +162,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -219,7 +219,7 @@
 |**2025-08-15**|**Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS**|M Anuprabha et.al.|[2508.05102](http://arxiv.org/abs/2508.05102)|null|
 |**2025-08-08**|**REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers**|Yuepeng Jiang et.al.|[2508.04996](http://arxiv.org/abs/2508.04996)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Video Generation
 
@@ -227,7 +227,7 @@
 |---|---|---|---|---|
 |**2025-09-25**|**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics**|Yu Yuan et.al.|[2509.21309](http://arxiv.org/abs/2509.21309)|null|
 |**2025-09-25**|**MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation**|Guojun Lei et.al.|[2509.21119](http://arxiv.org/abs/2509.21119)|null|
-|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
+|**2025-09-25**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
 |**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
 |**2025-09-24**|**CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion**|Chenhao Ji et.al.|[2509.19979](http://arxiv.org/abs/2509.19979)|null|
@@ -276,7 +276,7 @@
 |**2025-09-04**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
 |**2025-09-01**|**O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing**|Yuqing Chen et.al.|[2509.01596](http://arxiv.org/abs/2509.01596)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Image Generation
 
@@ -333,7 +333,7 @@
 |**2025-09-19**|**Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation**|Vasiliki Ismiroglou et.al.|[2509.15011](http://arxiv.org/abs/2509.15011)|null|
 |**2025-09-18**|**NeRF-based Visualization of 3D Cues Supporting Data-Driven Spacecraft Pose Estimation**|Antoine Legrand et.al.|[2509.14890](http://arxiv.org/abs/2509.14890)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Music Generation
 
@@ -388,7 +388,7 @@
 |**2025-06-23**|**Large-Scale Training Data Attribution for Music Generative Models via Unlearning**|Woosung Choi et.al.|[2506.18312](http://arxiv.org/abs/2506.18312)|null|
 |**2025-06-20**|**From Generality to Mastery: Composer-Style Symbolic Music Generation via Large-Scale Pre-training**|Mingyang Yao et.al.|[2506.17497](http://arxiv.org/abs/2506.17497)|**[link](https://github.com/AndyWeasley2004/Generality-to-Mastery)**|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -445,7 +445,7 @@
 |**2025-07-22**|**Step-Audio 2 Technical Report**|Boyong Wu et.al.|[2507.16632](http://arxiv.org/abs/2507.16632)|null|
 |**2025-07-17**|**Autoregressive Speech Enhancement via Acoustic Tokens**|Luca Della Libera et.al.|[2507.12825](http://arxiv.org/abs/2507.12825)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -454,7 +454,7 @@
 |**2025-09-25**|**Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets**|Team Hunyuan3D et.al.|[2509.21245](http://arxiv.org/abs/2509.21245)|null|
 |**2025-09-25**|**Acoustic-based Gender Differentiation in Speech-aware Language Models**|Junhyuk Choi et.al.|[2509.21125](http://arxiv.org/abs/2509.21125)|null|
 |**2025-09-25**|**VoiceBBQ: Investigating Effect of Content and Acoustics in Social Bias of Spoken Language Model**|Junhyuk Choi et.al.|[2509.21108](http://arxiv.org/abs/2509.21108)|null|
-|**2025-09-25**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|Haolin He et.al.|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
+|**2025-09-26**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|Haolin He et.al.|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
 |**2025-09-25**|**MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with Closed-Source Large-Audio Language Model**|Hsiao-Ying Huang et.al.|[2509.20706](http://arxiv.org/abs/2509.20706)|null|
 |**2025-09-25**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
 |**2025-09-24**|**On the formation of star-forming galaxies having anomalously low-metallicity regions: the role of galaxy interaction and CGM/IGM accretion**|Yibo Cao et.al.|[2509.19795](http://arxiv.org/abs/2509.19795)|null|
@@ -502,7 +502,7 @@
 |**2025-08-19**|**Modeling and Control of AWOISV: A Filtered Tube-Based MPC Approach for Simultaneous Tracking of Lateral Position and Heading Angle**|Xu Yang et.al.|[2508.13457](http://arxiv.org/abs/2508.13457)|null|
 |**2025-08-18**|**Omni Survey for Multimodality Analysis in Visual Object Tracking**|Zhangyong Tang et.al.|[2508.13000](http://arxiv.org/abs/2508.13000)|null|
 
-<p align=right>(<a href=#updated-on-20250928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

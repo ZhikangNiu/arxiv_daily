@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.28
+## Updated on 2025.09.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-25**|**UniSS: Unified Expressive Speech-to-Speech Translation with Your Voice**|Sitong Cheng et.al.|[2509.21144](http://arxiv.org/abs/2509.21144)|**[link](https://github.com/cmots/UniSS)**|
 |**2025-09-25**|**i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents**|Anupam Purwar et.al.|[2509.20971](http://arxiv.org/abs/2509.20971)|null|
-|**2025-09-25**|**SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS**|Tan Dat Nguyen et.al.|[2509.20802](http://arxiv.org/abs/2509.20802)|null|
+|**2025-09-26**|**SPADE: Structured Pruning and Adaptive Distillation for Efficient LLM-TTS**|Tan Dat Nguyen et.al.|[2509.20802](http://arxiv.org/abs/2509.20802)|null|
 |**2025-09-24**|**Reconstruction-Based Adaptive Scheduling Using AI Inferences in Safety-Critical Systems**|Samer Alshaer et.al.|[2509.20513](http://arxiv.org/abs/2509.20513)|null|
 |**2025-09-24**|**Objective Evaluation of Prosody and Intelligibility in Speech Synthesis via Conditional Prediction of Discrete Tokens**|Ismail Rasim Ulgen et.al.|[2509.20485](http://arxiv.org/abs/2509.20485)|null|
 |**2025-09-24**|**OLaPh: Optimal Language Phonemizer**|Johannes Wirth et.al.|[2509.20086](http://arxiv.org/abs/2509.20086)|null|
@@ -498,7 +498,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-25**|**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics**|Yu Yuan et.al.|[2509.21309](http://arxiv.org/abs/2509.21309)|null|
 |**2025-09-25**|**MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation**|Guojun Lei et.al.|[2509.21119](http://arxiv.org/abs/2509.21119)|null|
-|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
+|**2025-09-25**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
 |**2025-09-24**|**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation**|Chen Wang et.al.|[2509.20358](http://arxiv.org/abs/2509.20358)|null|
 |**2025-09-24**|**4D Driving Scene Generation With Stereo Forcing**|Hao Lu et.al.|[2509.20251](http://arxiv.org/abs/2509.20251)|null|
 |**2025-09-24**|**CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion**|Chenhao Ji et.al.|[2509.19979](http://arxiv.org/abs/2509.19979)|null|
@@ -1068,7 +1068,7 @@ layout: default
 |**2025-09-25**|**Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets**|Team Hunyuan3D et.al.|[2509.21245](http://arxiv.org/abs/2509.21245)|null|
 |**2025-09-25**|**Acoustic-based Gender Differentiation in Speech-aware Language Models**|Junhyuk Choi et.al.|[2509.21125](http://arxiv.org/abs/2509.21125)|null|
 |**2025-09-25**|**VoiceBBQ: Investigating Effect of Content and Acoustics in Social Bias of Spoken Language Model**|Junhyuk Choi et.al.|[2509.21108](http://arxiv.org/abs/2509.21108)|null|
-|**2025-09-25**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|Haolin He et.al.|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
+|**2025-09-26**|**Measuring Audio's Impact on Correctness: Audio-Contribution-Aware Post-Training of Large Audio Language Models**|Haolin He et.al.|[2509.21060](http://arxiv.org/abs/2509.21060)|null|
 |**2025-09-25**|**MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with Closed-Source Large-Audio Language Model**|Hsiao-Ying Huang et.al.|[2509.20706](http://arxiv.org/abs/2509.20706)|null|
 |**2025-09-25**|**Measuring Prosody Diversity in Zero-Shot TTS: A New Metric, Benchmark, and Exploration**|Yifan Yang et.al.|[2509.19928](http://arxiv.org/abs/2509.19928)|null|
 |**2025-09-24**|**On the formation of star-forming galaxies having anomalously low-metallicity regions: the role of galaxy interaction and CGM/IGM accretion**|Yibo Cao et.al.|[2509.19795](http://arxiv.org/abs/2509.19795)|null|
