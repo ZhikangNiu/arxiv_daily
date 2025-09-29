@@ -146,7 +146,7 @@ layout: default
 |**2025-08-22**|**Your Reward Function for RL is Your Best PRM for Search: Unifying RL and Search-Based TTS**|Can Jin et.al.|[2508.14313](http://arxiv.org/abs/2508.14313)|null|
 |**2025-08-19**|**Exponential Ergodicity for McKean-Vlasov SDEs with Singular Interactions**|Xing Huang et.al.|[2508.13924](http://arxiv.org/abs/2508.13924)|null|
 |**2025-08-20**|**DiffIER: Optimizing Diffusion Models with Iterative Error Reduction**|Ao Chen et.al.|[2508.13628](http://arxiv.org/abs/2508.13628)|null|
-|**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|null|
+|**2025-08-19**|**Who Gets the Mic? Investigating Gender Bias in the Speaker Assignment of a Speech-LLM**|Dariia Puhach et.al.|[2508.13603](http://arxiv.org/abs/2508.13603)|**[link](https://github.com/daschablume/speech-gender-bias)**|
 |**2025-08-18**|**A Surveillance Based Interactive Robot**|Kshitij Kavimandan et.al.|[2508.13319](http://arxiv.org/abs/2508.13319)|**[link](https://github.com/Vardhan02/IoT-Based-Web-Controlled-Surveillance-Robot)**|
 |**2025-08-18**|**MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components**|Sangjun Cha et.al.|[2508.13262](http://arxiv.org/abs/2508.13262)|null|
 |**2025-08-18**|**Integrating Feedback Loss from Bi-modal Sarcasm Detector for Sarcastic Speech Synthesis**|Zhu Li et.al.|[2508.13028](http://arxiv.org/abs/2508.13028)|null|
@@ -207,7 +207,7 @@ layout: default
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
 |**2025-07-08**|**The Balmer spectrum of integral permutation modules**|Umesh V Dubey et.al.|[2507.05892](http://arxiv.org/abs/2507.05892)|null|
-|**2025-07-08**|**OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
+|**2025-07-08**|**OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|**[link](https://github.com/CASIA-LM/OpenS2S)**|
 |**2025-07-07**|**LAPS-Diff: A Diffusion-Based Framework for Singing Voice Synthesis With Language Aware Prosody-Style Guided Learning**|Sandipan Dhar et.al.|[2507.04966](http://arxiv.org/abs/2507.04966)|null|
 |**2025-07-07**|**Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2507.04598](http://arxiv.org/abs/2507.04598)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
@@ -646,8 +646,8 @@ layout: default
 |**2025-07-07**|**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations**|Yuji Wang et.al.|[2507.04705](http://arxiv.org/abs/2507.04705)|null|
 |**2025-07-06**|**MambaVideo for Discrete Video Tokenization with Channel-Split Quantization**|Dawit Mureja Argaw et.al.|[2507.04559](http://arxiv.org/abs/2507.04559)|null|
 |**2025-07-06**|**CLIP-RL: Surgical Scene Segmentation Using Contrastive Language-Vision Pretraining & Reinforcement Learning**|Fatmaelzahraa Ali Ahmed et.al.|[2507.04317](http://arxiv.org/abs/2507.04317)|null|
-|**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
-|**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|null|
+|**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|**[link](https://github.com/AIGeeksGroup/PresentAgent)**|
+|**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|**[link](https://github.com/antgroup/echomimic_v3)**|
 |**2025-07-08**|**StreamDiT: Real-Time Streaming Text-to-Video Generation**|Akio Kodaira et.al.|[2507.03745](http://arxiv.org/abs/2507.03745)|null|
 |**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
 |**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
@@ -1134,7 +1134,7 @@ layout: default
 |**2025-07-17**|**DiffOSeg: Omni Medical Image Segmentation via Multi-Expert Collaboration Diffusion Model**|Han Zhang et.al.|[2507.13087](http://arxiv.org/abs/2507.13087)|null|
 |**2025-07-17**|**AnyCap Project: A Unified Framework, Dataset, and Benchmark for Controllable Omni-modal Captioning**|Yiming Ren et.al.|[2507.12841](http://arxiv.org/abs/2507.12841)|null|
 |**2025-07-16**|**An augmented Lagrangian method for strongly regular minimizers in a class of convex composite optimization problems**|Chengjing Wang et.al.|[2507.12040](http://arxiv.org/abs/2507.12040)|null|
-|**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
+|**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|**[link](https://github.com/phutq341/PhuDepTrai)**|
 |**2025-07-14**|**MultiVox: Benchmarking Voice Assistants for Multimodal Interactions**|Ramaneswaran Selvakumar et.al.|[2507.10859](http://arxiv.org/abs/2507.10859)|null|
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
 |**2025-07-14**|**The electronic and transport properties in the Haldane-Hubbard with odd-parity altermagnetism**|Minghuan Zeng et.al.|[2507.09906](http://arxiv.org/abs/2507.09906)|null|
