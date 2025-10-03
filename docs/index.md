@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -469,7 +469,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
-|**2025-09-29**|**Cofinal families of finite VC-dimension**|Omer Ben-Neria et.al.|[2509.24744](http://arxiv.org/abs/2509.24744)|null|
+|**2025-10-02**|**Cofinal families of finite VC-dimension**|Omer Ben-Neria et.al.|[2509.24744](http://arxiv.org/abs/2509.24744)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
 |**2025-09-29**|**ISSE: An Instruction-Guided Speech Style Editing Dataset And Benchmark**|Yun Chen et.al.|[2509.24570](http://arxiv.org/abs/2509.24570)|null|
 |**2025-09-29**|**Strong enhancement of d-wave superconductivity in an extended checkerboard Hubbard ladder**|Xichen Huang et.al.|[2509.24415](http://arxiv.org/abs/2509.24415)|null|
@@ -561,7 +561,7 @@ layout: default
 |**2025-09-30**|**Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation**|Agneet Chatterjee et.al.|[2509.26555](http://arxiv.org/abs/2509.26555)|null|
 |**2025-09-30**|**MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation**|Chenhui Zhu et.al.|[2509.26391](http://arxiv.org/abs/2509.26391)|null|
 |**2025-09-30**|**PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution**|Shian Du et.al.|[2509.26025](http://arxiv.org/abs/2509.26025)|null|
-|**2025-09-30**|**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**|Abdelilah Aitrouga et.al.|[2509.25998](http://arxiv.org/abs/2509.25998)|null|
+|**2025-10-02**|**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**|Abdelilah Aitrouga et.al.|[2509.25998](http://arxiv.org/abs/2509.25998)|null|
 |**2025-09-30**|**Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation**|Mingyu Kang et.al.|[2509.25776](http://arxiv.org/abs/2509.25776)|null|
 |**2025-09-29**|**FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation**|Yunyang Ge et.al.|[2509.25187](http://arxiv.org/abs/2509.25187)|null|
 |**2025-09-29**|**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**|Junyu Chen et.al.|[2509.25182](http://arxiv.org/abs/2509.25182)|null|

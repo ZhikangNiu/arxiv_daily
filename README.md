@@ -1,4 +1,4 @@
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-09-23**|**Group Relative Policy Optimization for Text-to-Speech with Large Language Models**|Chang Liu et.al.|[2509.18798](http://arxiv.org/abs/2509.18798)|null|
 |**2025-09-23**|**Explore the Reinforcement Learning for the LLM based ASR and TTS system**|Changfeng Gao et.al.|[2509.18569](http://arxiv.org/abs/2509.18569)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-09-01**|**The AudioMOS Challenge 2025**|Wen-Chin Huang et.al.|[2509.01336](http://arxiv.org/abs/2509.01336)|null|
 |**2025-08-31**|**PicoAudio2: Temporal Controllable Text-to-Audio Generation with Natural Language Description**|Zihao Zheng et.al.|[2509.00683](http://arxiv.org/abs/2509.00683)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -166,14 +166,14 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Voice Conversion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
-|**2025-09-29**|**Cofinal families of finite VC-dimension**|Omer Ben-Neria et.al.|[2509.24744](http://arxiv.org/abs/2509.24744)|null|
+|**2025-10-02**|**Cofinal families of finite VC-dimension**|Omer Ben-Neria et.al.|[2509.24744](http://arxiv.org/abs/2509.24744)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
 |**2025-09-29**|**ISSE: An Instruction-Guided Speech Style Editing Dataset And Benchmark**|Yun Chen et.al.|[2509.24570](http://arxiv.org/abs/2509.24570)|null|
 |**2025-09-29**|**Strong enhancement of d-wave superconductivity in an extended checkerboard Hubbard ladder**|Xichen Huang et.al.|[2509.24415](http://arxiv.org/abs/2509.24415)|null|
@@ -223,7 +223,7 @@
 |**2025-08-13**|**Perturbed Public Voices (P $^{2}$ V): A Dataset for Robust Audio Deepfake Detection**|Chongyang Gao et.al.|[2508.10949](http://arxiv.org/abs/2508.10949)|null|
 |**2025-08-13**|**Regularity for hypergraphs with bounded VC $_2$ dimension**|Lior Gishboliner et.al.|[2508.09969](http://arxiv.org/abs/2508.09969)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Video Generation
 
@@ -232,7 +232,7 @@
 |**2025-09-30**|**Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation**|Agneet Chatterjee et.al.|[2509.26555](http://arxiv.org/abs/2509.26555)|null|
 |**2025-09-30**|**MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation**|Chenhui Zhu et.al.|[2509.26391](http://arxiv.org/abs/2509.26391)|null|
 |**2025-09-30**|**PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution**|Shian Du et.al.|[2509.26025](http://arxiv.org/abs/2509.26025)|null|
-|**2025-09-30**|**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**|Abdelilah Aitrouga et.al.|[2509.25998](http://arxiv.org/abs/2509.25998)|null|
+|**2025-10-02**|**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing**|Abdelilah Aitrouga et.al.|[2509.25998](http://arxiv.org/abs/2509.25998)|null|
 |**2025-09-30**|**Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation**|Mingyu Kang et.al.|[2509.25776](http://arxiv.org/abs/2509.25776)|null|
 |**2025-09-29**|**FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation**|Yunyang Ge et.al.|[2509.25187](http://arxiv.org/abs/2509.25187)|null|
 |**2025-09-29**|**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder**|Junyu Chen et.al.|[2509.25182](http://arxiv.org/abs/2509.25182)|null|
@@ -280,7 +280,7 @@
 |**2025-09-18**|**WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance**|Chenxi Song et.al.|[2509.15130](http://arxiv.org/abs/2509.15130)|null|
 |**2025-09-18**|**DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images**|Kazuma Nagata et.al.|[2509.14685](http://arxiv.org/abs/2509.14685)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Image Generation
 
@@ -337,7 +337,7 @@
 |**2025-09-23**|**OverLayBench: A Benchmark for Layout-to-Image Generation with Dense Overlaps**|Bingnan Li et.al.|[2509.19282](http://arxiv.org/abs/2509.19282)|null|
 |**2025-09-24**|**Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation**|Shufan Li et.al.|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Music Generation
 
@@ -394,7 +394,7 @@
 |**2025-06-29**|**TOMI: Transforming and Organizing Music Ideas for Multi-Track Compositions with Full-Song Structure**|Qi He et.al.|[2506.23094](http://arxiv.org/abs/2506.23094)|null|
 |**2025-06-26**|**Exploring Adapter Design Tradeoffs for Low Resource Music Generation**|Atharva Mehta et.al.|[2506.21298](http://arxiv.org/abs/2506.21298)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -451,7 +451,7 @@
 |**2025-08-15**|**Benchmarking Prosody Encoding in Discrete Speech Tokens**|Kentaro Onda et.al.|[2508.11224](http://arxiv.org/abs/2508.11224)|null|
 |**2025-08-13**|**DualSpeechLM: Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models**|Yuanyuan Wang et.al.|[2508.08961](http://arxiv.org/abs/2508.08961)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -508,7 +508,7 @@
 |**2025-08-31**|**OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination**|Junzhe Chen et.al.|[2509.00723](http://arxiv.org/abs/2509.00723)|null|
 |**2025-09-02**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
 
-<p align=right>(<a href=#updated-on-20251002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
