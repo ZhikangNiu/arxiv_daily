@@ -336,7 +336,7 @@ layout: default
 |**2025-07-31**|**DeformTune: A Deformable XAI Music Prototype for Non-Musicians**|Ziqing Xu et.al.|[2508.00160](http://arxiv.org/abs/2508.00160)|null|
 |**2025-07-31**|**"I made this (sort of)": Negotiating authorship, confronting fraudulence, and exploring new musical spaces with prompt-based AI music generation**|Bob L. T. Sturm et.al.|[2507.23365](http://arxiv.org/abs/2507.23365)|null|
 |**2025-07-28**|**Music Arena: Live Evaluation for Text-to-Music**|Yonghyun Kim et.al.|[2507.20900](http://arxiv.org/abs/2507.20900)|null|
-|**2025-07-28**|**Controllable Video-to-Music Generation with Multiple Time-Varying Conditions**|Junxian Wu et.al.|[2507.20627](http://arxiv.org/abs/2507.20627)|null|
+|**2025-07-28**|**Controllable Video-to-Music Generation with Multiple Time-Varying Conditions**|Junxian Wu et.al.|[2507.20627](http://arxiv.org/abs/2507.20627)|**[link](https://github.com/kita-wjx/MTCV2M)**|
 |**2025-07-27**|**Diffusion-based Symbolic Music Generation with Structured State Space Models**|Shenghua Yuan et.al.|[2507.20128](http://arxiv.org/abs/2507.20128)|null|
 |**2025-08-07**|**SAMUeL: Efficient Vocal-Conditioned Music Generation via Soft Alignment Attention and Latent Diffusion**|Hei Shing Cheung et.al.|[2507.19991](http://arxiv.org/abs/2507.19991)|null|
 |**2025-07-17**|**A new XML conversion process for mensural music encoding : CMME\_to\_MEI (via Verovio)**|David Fiala et.al.|[2507.15991](http://arxiv.org/abs/2507.15991)|null|
@@ -814,7 +814,7 @@ layout: default
 |**2025-07-22**|**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation**|Yanchen Liu et.al.|[2507.16310](http://arxiv.org/abs/2507.16310)|null|
 |**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116](http://arxiv.org/abs/2507.16116)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
-|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|null|
+|**2025-07-21**|**TokensGen: Harnessing Condensed Tokens for Long Video Generation**|Wenqi Ouyang et.al.|[2507.15728](http://arxiv.org/abs/2507.15728)|**[link](https://github.com/Vicky0522/TokensGen)**|
 |**2025-07-21**|**Conditional Video Generation for High-Efficiency Video Compression**|Fangqiu Yi et.al.|[2507.15269](http://arxiv.org/abs/2507.15269)|null|
 |**2025-07-19**|**BusterX++: Towards Unified Cross-Modal AI-Generated Content Detection and Explanation with MLLM**|Haiquan Wen et.al.|[2507.14632](http://arxiv.org/abs/2507.14632)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
@@ -1287,7 +1287,7 @@ layout: default
 |**2025-10-04**|**Soft Disentanglement in Frequency Bands for Neural Audio Codecs**|Benoit Ginies et.al.|[2510.03735](http://arxiv.org/abs/2510.03735)|null|
 |**2025-10-02**|**High-Fidelity Speech Enhancement via Discrete Audio Tokens**|Luca A. Lanzendörfer et.al.|[2510.02187](http://arxiv.org/abs/2510.02187)|null|
 |**2025-10-02**|**MelCap: A Unified Single-Codebook Neural Codec for High-Fidelity Audio Compression**|Jingyi Li et.al.|[2510.01903](http://arxiv.org/abs/2510.01903)|null|
-|**2025-10-02**|**FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates**|Jiaqi Li et.al.|[2510.00981](http://arxiv.org/abs/2510.00981)|null|
+|**2025-10-02**|**FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates**|Jiaqi Li et.al.|[2510.00981](http://arxiv.org/abs/2510.00981)|**[link](https://github.com/AmphionTeam/FlexiCodec)**|
 |**2025-10-07**|**Baseline Systems For The 2025 Low-Resource Audio Codec Challenge**|Yusuf Ziya Isik et.al.|[2510.00264](http://arxiv.org/abs/2510.00264)|null|
 |**2025-09-30**|**Scaling Spoken Language Models with Syllabic Speech Tokenization**|Nicholas Lee et.al.|[2509.26634](http://arxiv.org/abs/2509.26634)|null|
 |**2025-09-30**|**Optimizing Speech Language Models for Acoustic Consistency**|Morteza Rohanian et.al.|[2509.26276](http://arxiv.org/abs/2509.26276)|null|
