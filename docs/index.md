@@ -2,13 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|**[link](https://github.com/Cominclip/OmniVerifier)**|
+|**2025-10-15**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
+|**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
+|**2025-10-15**|**Functional tensor train neural network for solving high-dimensional PDEs**|Yani Feng et.al.|[2510.13386](http://arxiv.org/abs/2510.13386)|null|
+|**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
+|**2025-10-15**|**StressTransfer: Stress-Aware Speech-to-Speech Translation with Emphasis Preservation**|Xi Chen et.al.|[2510.13194](http://arxiv.org/abs/2510.13194)|null|
+|**2025-10-14**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
+|**2025-10-14**|**Toward First-Principles Multi-Messenger Predictions: Coupling Nuclear Networks with GR Radiation-MHD in {\tt Gmunu}**|Patrick Chi-Kit Cheong et.al.|[2510.12978](http://arxiv.org/abs/2510.12978)|null|
 |**2025-10-14**|**Content Anonymization for Privacy in Long-form Audio**|Cristina Aggazzotti et.al.|[2510.12780](http://arxiv.org/abs/2510.12780)|null|
 |**2025-10-14**|**TerraCodec: Compressing Earth Observations**|Julen Costa-Watanabe et.al.|[2510.12670](http://arxiv.org/abs/2510.12670)|null|
 |**2025-10-14**|**Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation**|Greta Damo et.al.|[2510.12316](http://arxiv.org/abs/2510.12316)|null|
@@ -313,6 +321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE**|Zhenyu Liu et.al.|[2510.13344](http://arxiv.org/abs/2510.13344)|null|
 |**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
 |**2025-10-11**|**ProGress: Structured Music Generation via Graph Diffusion and Hierarchical Music Analysis**|Stephen Ni-Hahn et.al.|[2510.10249](http://arxiv.org/abs/2510.10249)|null|
 |**2025-10-07**|**LARA-Gen: Enabling Continuous Emotion Control for Music Generation Models via Latent Affective Representation Alignment**|Jiahao Mei et.al.|[2510.05875](http://arxiv.org/abs/2510.05875)|null|
@@ -380,6 +389,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE**|Zhenyu Liu et.al.|[2510.13344](http://arxiv.org/abs/2510.13344)|null|
+|**2025-10-15**|**DP-TTA: Test-time Adaptation for Transient Electromagnetic Signal Denoising via Dictionary-driven Prior Regularization**|Meng Yang et.al.|[2510.13160](http://arxiv.org/abs/2510.13160)|null|
 |**2025-10-14**|**Controllable Collision Scenario Generation via Collision Pattern Prediction**|Pin-Lun Chen et.al.|[2510.12206](http://arxiv.org/abs/2510.12206)|null|
 |**2025-10-14**|**Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis**|Junnuo Wang et.al.|[2510.12175](http://arxiv.org/abs/2510.12175)|null|
 |**2025-10-13**|**UALM: Unified Audio Language Model for Understanding, Generation and Reasoning**|Jinchuan Tian et.al.|[2510.12000](http://arxiv.org/abs/2510.12000)|null|
@@ -560,6 +571,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-16**|**VC-Dimension vs Degree: An Uncertainty Principle for Boolean Functions**|Fan Chang et.al.|[2510.13705](http://arxiv.org/abs/2510.13705)|null|
+|**2025-10-15**|**Model-assisted estimation for MRV: How to boost the economics of SOC sequestration projects without compromising on scientific integrity**|Ahmad Awad et.al.|[2510.13609](http://arxiv.org/abs/2510.13609)|null|
+|**2025-10-15**|**Target Controllability Score**|Kazuhiro Sato et.al.|[2510.13354](http://arxiv.org/abs/2510.13354)|null|
+|**2025-10-14**|**VCTR: A Transformer-Based Model for Non-parallel Voice Conversion**|Maharnab Saikia et.al.|[2510.12964](http://arxiv.org/abs/2510.12964)|null|
 |**2025-10-15**|**(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm**|Kevin Krings et.al.|[2510.12364](http://arxiv.org/abs/2510.12364)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
 |**2025-10-13**|**VCB Bench: An Evaluation Benchmark for Audio-Grounded Large Language Model Conversational Agents**|Jiliang Hu et.al.|[2510.11098](http://arxiv.org/abs/2510.11098)|null|
@@ -664,6 +679,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|Sihui Ji et.al.|[2510.13809](http://arxiv.org/abs/2510.13809)|null|
+|**2025-10-15**|**CanvasMAR: Improving Masked Autoregressive Video Generation With Canvas**|Zian Li et.al.|[2510.13669](http://arxiv.org/abs/2510.13669)|null|
+|**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go et.al.|[2510.13454](http://arxiv.org/abs/2510.13454)|null|
+|**2025-10-15**|**Edit-Your-Interest: Efficient Video Editing via Feature Most-Similar Propagation**|Yi Zuo et.al.|[2510.13084](http://arxiv.org/abs/2510.13084)|null|
+|**2025-10-15**|**Counting Hallucinations in Diffusion Models**|Shuai Fu et.al.|[2510.13080](http://arxiv.org/abs/2510.13080)|null|
+|**2025-10-14**|**SeqBench: Benchmarking Sequential Narrative Generation in Text-to-Video Models**|Zhengxu Tang et.al.|[2510.13042](http://arxiv.org/abs/2510.13042)|null|
 |**2025-10-14**|**MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars**|Felix Taubner et.al.|[2510.12785](http://arxiv.org/abs/2510.12785)|null|
 |**2025-10-14**|**Time-Correlated Video Bridge Matching**|Viacheslav Vasilev et.al.|[2510.12453](http://arxiv.org/abs/2510.12453)|null|
 |**2025-10-14**|**Vectorized Video Representation with Easy Editing via Hierarchical Spatio-Temporally Consistent Proxy Embedding**|Ye Chen et.al.|[2510.12256](http://arxiv.org/abs/2510.12256)|null|
@@ -918,6 +939,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
+|**2025-10-15**|**Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation**|Yifu Luo et.al.|[2510.13418](http://arxiv.org/abs/2510.13418)|null|
+|**2025-10-15**|**End-to-End Multi-Modal Diffusion Mamba**|Chunhao Lu et.al.|[2510.13253](http://arxiv.org/abs/2510.13253)|null|
+|**2025-10-15**|**Edit-Your-Interest: Efficient Video Editing via Feature Most-Similar Propagation**|Yi Zuo et.al.|[2510.13084](http://arxiv.org/abs/2510.13084)|null|
+|**2025-10-15**|**Counting Hallucinations in Diffusion Models**|Shuai Fu et.al.|[2510.13080](http://arxiv.org/abs/2510.13080)|null|
 |**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li et.al.|[2510.12789](http://arxiv.org/abs/2510.12789)|null|
 |**2025-10-14**|**SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models**|Weiyang Jin et.al.|[2510.12784](http://arxiv.org/abs/2510.12784)|null|
 |**2025-10-14**|**LayerSync: Self-aligning Intermediate Layers**|Yasaman Haghighi et.al.|[2510.12581](http://arxiv.org/abs/2510.12581)|null|
@@ -1353,6 +1379,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Acoustic Teleportation via Disentangled Neural Audio Codec Representations**|Philipp Grundhuber et.al.|[2510.13221](http://arxiv.org/abs/2510.13221)|null|
 |**2025-10-13**|**UALM: Unified Audio Language Model for Understanding, Generation and Reasoning**|Jinchuan Tian et.al.|[2510.12000](http://arxiv.org/abs/2510.12000)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-12**|**FAC-FACodec: Controllable Zero-Shot Foreign Accent Conversion with Factorized Speech Codec**|Yurii Halychanskyi et.al.|[2510.10785](http://arxiv.org/abs/2510.10785)|null|
@@ -1457,6 +1484,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
+|**2025-10-15**|**InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue**|Wenwen Tong et.al.|[2510.13747](http://arxiv.org/abs/2510.13747)|null|
+|**2025-10-16**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](http://arxiv.org/abs/2510.13721)|null|
+|**2025-10-14**|**Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models**|Tsung-En Lin et.al.|[2510.12851](http://arxiv.org/abs/2510.12851)|null|
 |**2025-10-14**|**Detect Anything via Next Point Prediction**|Qing Jiang et.al.|[2510.12798](http://arxiv.org/abs/2510.12798)|null|
 |**2025-10-14**|**Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception**|Ziyang Ma et.al.|[2510.12720](http://arxiv.org/abs/2510.12720)|null|
 |**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|Lin Lin et.al.|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
