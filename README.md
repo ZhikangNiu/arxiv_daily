@@ -1,4 +1,4 @@
-## Updated on 2025.10.25
+## Updated on 2025.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-10-09**|**From Noisy to Native: LLM-driven Graph Restoration for Test-Time Graph Domain Adaptation**|Xiangwei Lv et.al.|[2510.07762](http://arxiv.org/abs/2510.07762)|null|
 |**2025-10-09**|**Parallel Test-Time Scaling for Latent Reasoning Models**|Runyang You et.al.|[2510.07745](http://arxiv.org/abs/2510.07745)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-09-24**|**SCORE: Scaling audio generation using Standardized COmposite REwards**|Jaemin Jung et.al.|[2509.19831](http://arxiv.org/abs/2509.19831)|null|
 |**2025-09-23**|**SynSonic: Augmenting Sound Event Detection through Text-to-Audio Diffusion ControlNet and Effective Sample Filtering**|Jiarui Hai et.al.|[2509.18603](http://arxiv.org/abs/2509.18603)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -173,7 +173,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -230,7 +230,7 @@
 |**2025-09-15**|**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**|Marek Kubis et.al.|[2509.12171](http://arxiv.org/abs/2509.12171)|null|
 |**2025-09-14**|**Rate-Distortion Limits for Multimodal Retrieval: Theory, Optimal Codes, and Finite-Sample Guarantees**|Thomas Y. Chen et.al.|[2509.11054](http://arxiv.org/abs/2509.11054)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Video Generation
 
@@ -287,7 +287,7 @@
 |**2025-10-13**|**IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment**|Yinan Chen et.al.|[2510.11647](http://arxiv.org/abs/2510.11647)|null|
 |**2025-10-13**|**MoMaps: Semantics-Aware Scene Motion Generation with Motion Maps**|Jiahui Lei et.al.|[2510.11107](http://arxiv.org/abs/2510.11107)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Image Generation
 
@@ -344,7 +344,7 @@
 |**2025-10-16**|**Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models**|Yunze Tong et.al.|[2510.14526](http://arxiv.org/abs/2510.14526)|null|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Music Generation
 
@@ -401,7 +401,7 @@
 |**2025-07-17**|**A new XML conversion process for mensural music encoding : CMME\_to\_MEI (via Verovio)**|David Fiala et.al.|[2507.15991](http://arxiv.org/abs/2507.15991)|null|
 |**2025-07-17**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -458,7 +458,7 @@
 |**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|null|
 |**2025-09-18**|**A Novel Semantic Compression Approach for Ultra-low Bandwidth Voice Communication**|Ryan Collette et.al.|[2509.15462](http://arxiv.org/abs/2509.15462)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -515,7 +515,7 @@
 |**2025-09-30**|**OmniDFA: A Unified Framework for Open Set Synthesis Image Detection and Few-Shot Attribution**|Shiyu Wu et.al.|[2509.25682](http://arxiv.org/abs/2509.25682)|null|
 |**2025-09-29**|**EMO-TTA: Improving Test-Time Adaptation of Audio-Language Models for Speech Emotion Recognition**|Jiacheng Shi et.al.|[2509.25495](http://arxiv.org/abs/2509.25495)|null|
 
-<p align=right>(<a href=#updated-on-20251025>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
