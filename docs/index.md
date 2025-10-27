@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -721,7 +721,7 @@ layout: default
 |**2025-10-22**|**A new wave of vehicle insurance fraud fueled by generative AI**|Amir Hever et.al.|[2510.19957](http://arxiv.org/abs/2510.19957)|null|
 |**2025-10-22**|**PoseCrafter: Extreme Pose Estimation with Hybrid Video Synthesis**|Qing Mao et.al.|[2510.19527](http://arxiv.org/abs/2510.19527)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team et.al.|[2510.19430](http://arxiv.org/abs/2510.19430)|null|
-|**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
+|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
 |**2025-10-23**|**Video Consistency Distance: Enhancing Temporal Consistency for Image-to-Video Generation via Reward-Based Fine-Tuning**|Takehiro Aoshima et.al.|[2510.19193](http://arxiv.org/abs/2510.19193)|null|
 |**2025-10-21**|**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models**|Aritra Bhowmik et.al.|[2510.19022](http://arxiv.org/abs/2510.19022)|null|
 |**2025-10-21**|**UltraGen: High-Resolution Video Generation with Hierarchical Attention**|Teng Hu et.al.|[2510.18775](http://arxiv.org/abs/2510.18775)|null|
@@ -1019,7 +1019,7 @@ layout: default
 |**2025-10-23**|**GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models**|Muhammad Atif Butt et.al.|[2510.20586](http://arxiv.org/abs/2510.20586)|null|
 |**2025-10-23**|**EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization**|Yixiong Yang et.al.|[2510.20512](http://arxiv.org/abs/2510.20512)|null|
 |**2025-10-23**|**Positional Encoding Field**|Yunpeng Bai et.al.|[2510.20385](http://arxiv.org/abs/2510.20385)|null|
-|**2025-10-23**|**What do AI-Generated Images Want?**|Amanda Wasielewski et.al.|[2510.20350](http://arxiv.org/abs/2510.20350)|null|
+|**2025-10-24**|**What Do AI-Generated Images Want?**|Amanda Wasielewski et.al.|[2510.20350](http://arxiv.org/abs/2510.20350)|null|
 |**2025-10-22**|**Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing**|Yusu Qian et.al.|[2510.19808](http://arxiv.org/abs/2510.19808)|null|
 |**2025-10-22**|**The Intricate Dance of Prompt Complexity, Quality, Diversity, and Consistency in T2I Models**|Xiaofeng Zhang et.al.|[2510.19557](http://arxiv.org/abs/2510.19557)|null|
 |**2025-10-22**|**Predicting before Reconstruction: A generative prior framework for MRI acceleration**|Juhyung Park et.al.|[2510.19472](http://arxiv.org/abs/2510.19472)|null|
