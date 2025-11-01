@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.10.31
+## Updated on 2025.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks**|Jikang Deng et.al.|[2510.26578](http://arxiv.org/abs/2510.26578)|null|
+|**2025-10-30**|**SP-MCQA: Evaluating Intelligibility of TTS Beyond the Word Level**|Hitomi Jin Ling Tee et.al.|[2510.26190](http://arxiv.org/abs/2510.26190)|null|
+|**2025-10-30**|**Reasoning Path Divergence: A New Metric and Curation Strategy to Unlock LLM Diverse Thinking**|Feng Ju et.al.|[2510.26122](http://arxiv.org/abs/2510.26122)|**[link](https://github.com/fengjujf/Reasoning-Path-Divergence)**|
 |**2025-10-30**|**Evaluating the Role of Verifiers in Test-Time Scaling for Legal Reasoning Tasks**|Davide Romano et.al.|[2510.25623](http://arxiv.org/abs/2510.25623)|null|
 |**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2025-10-28**|**Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**|Jiachen Zhao et.al.|[2510.24941](http://arxiv.org/abs/2510.24941)|null|
@@ -428,6 +431,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**UniTok-Audio: A Unified Audio Generation Framework via Generative Modeling on Discrete Codec Tokens**|Chengwei Liu et.al.|[2510.26372](http://arxiv.org/abs/2510.26372)|null|
+|**2025-10-30**|**Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation**|Woojin Kim et.al.|[2510.26200](http://arxiv.org/abs/2510.26200)|null|
 |**2025-10-29**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|null|
 |**2025-10-29**|**Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation**|Wenhao Zheng et.al.|[2510.25163](http://arxiv.org/abs/2510.25163)|null|
 |**2025-10-28**|**Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation**|Kang Zhang et.al.|[2510.24103](http://arxiv.org/abs/2510.24103)|null|
@@ -624,6 +629,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**UniTok-Audio: A Unified Audio Generation Framework via Generative Modeling on Discrete Codec Tokens**|Chengwei Liu et.al.|[2510.26372](http://arxiv.org/abs/2510.26372)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
 |**2025-10-24**|**StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks**|Jingyue Huang et.al.|[2510.21685](http://arxiv.org/abs/2510.21685)|null|
 |**2025-10-23**|**Charge-density waves and stripes in quarter metals of graphene heterostructures**|Sk Asrap Murshed et.al.|[2510.20816](http://arxiv.org/abs/2510.20816)|null|
@@ -744,6 +750,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark**|Ziyu Guo et.al.|[2510.26802](http://arxiv.org/abs/2510.26802)|null|
+|**2025-10-30**|**SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting**|Dongyue Lu et.al.|[2510.26796](http://arxiv.org/abs/2510.26796)|null|
+|**2025-10-30**|**The Quest for Generalizable Motion Generation: Data, Model, and Evaluation**|Jing Lin et.al.|[2510.26794](http://arxiv.org/abs/2510.26794)|null|
+|**2025-10-30**|**Co-Evolving Latent Action World Models**|Yucen Wang et.al.|[2510.26433](http://arxiv.org/abs/2510.26433)|null|
+|**2025-10-30**|**LoCoT2V-Bench: A Benchmark for Long-Form and Complex Text-to-Video Generation**|Xiangqing Zheng et.al.|[2510.26412](http://arxiv.org/abs/2510.26412)|null|
 |**2025-10-29**|**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**|Baolu Li et.al.|[2510.25772](http://arxiv.org/abs/2510.25772)|null|
 |**2025-10-28**|**VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos**|Qiucheng Wu et.al.|[2510.24904](http://arxiv.org/abs/2510.24904)|null|
 |**2025-10-28**|**Generative View Stitching**|Chonghyuk Song et.al.|[2510.24718](http://arxiv.org/abs/2510.24718)|null|
@@ -1056,6 +1067,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**ResMatching: Noise-Resilient Computational Super-Resolution via Guided Conditional Flow Matching**|Anirban Ray et.al.|[2510.26601](http://arxiv.org/abs/2510.26601)|null|
+|**2025-10-30**|**Emu3.5: Native Multimodal Models are World Learners**|Yufeng Cui et.al.|[2510.26583](http://arxiv.org/abs/2510.26583)|null|
+|**2025-10-30**|**EEG-Driven Image Reconstruction with Saliency-Guided Diffusion Models**|Igor Abramov et.al.|[2510.26391](http://arxiv.org/abs/2510.26391)|null|
+|**2025-10-30**|**Security Risk of Misalignment between Text and Image in Multi-modal Model**|Xiaosen Wang et.al.|[2510.26105](http://arxiv.org/abs/2510.26105)|null|
+|**2025-10-29**|**SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing**|Sung-Hoon Yoon et.al.|[2510.25970](http://arxiv.org/abs/2510.25970)|null|
+|**2025-10-29**|**MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency**|Nicolas Dufour et.al.|[2510.25897](http://arxiv.org/abs/2510.25897)|null|
+|**2025-10-29**|**ScaleDiff: Higher-Resolution Image Synthesis via Efficient and Model-Agnostic Diffusion**|Sungho Koh et.al.|[2510.25818](http://arxiv.org/abs/2510.25818)|null|
 |**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|Chumeng Liang et.al.|[2510.25761](http://arxiv.org/abs/2510.25761)|null|
 |**2025-10-29**|**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation**|Zhi-Kai Chen et.al.|[2510.25739](http://arxiv.org/abs/2510.25739)|null|
 |**2025-10-29**|**BOLT-GAN: Bayes-Optimal Loss for Stable GAN Training**|Mohammadreza Tavasoli Naeini et.al.|[2510.25609](http://arxiv.org/abs/2510.25609)|null|
@@ -1578,6 +1596,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**UniTok-Audio: A Unified Audio Generation Framework via Generative Modeling on Discrete Codec Tokens**|Chengwei Liu et.al.|[2510.26372](http://arxiv.org/abs/2510.26372)|null|
+|**2025-10-30**|**Modeling strategies for speech enhancement in the latent space of a neural audio codec**|Sofiene Kammoun et.al.|[2510.26299](http://arxiv.org/abs/2510.26299)|null|
 |**2025-10-29**|**PitchFlower: A flow-based neural audio codec with pitch controllability**|Diego Torres et.al.|[2510.25566](http://arxiv.org/abs/2510.25566)|null|
 |**2025-10-29**|**Explainable Disentanglement on Discrete Speech Representations for Noise-Robust ASR**|Shreyas Gopal et.al.|[2510.25150](http://arxiv.org/abs/2510.25150)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
@@ -1699,6 +1719,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-30**|**ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models**|Weifei Jin et.al.|[2510.26096](http://arxiv.org/abs/2510.26096)|null|
 |**2025-10-29**|**Convergence of a Relative-type Inexact Proximal ALM for Convex Nonlinear Programming**|Lei Yang et.al.|[2510.25261](http://arxiv.org/abs/2510.25261)|null|
 |**2025-10-28**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
 |**2025-10-28**|**Generative View Stitching**|Chonghyuk Song et.al.|[2510.24718](http://arxiv.org/abs/2510.24718)|null|
