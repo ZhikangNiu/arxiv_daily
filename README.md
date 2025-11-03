@@ -1,4 +1,4 @@
-## Updated on 2025.11.02
+## Updated on 2025.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-10-13**|**Actor-Enriched Time Series Forecasting of Process Performance**|Aurelie Leribaux et.al.|[2510.11856](http://arxiv.org/abs/2510.11856)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-09-29**|**When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks**|Zeyu Xie et.al.|[2509.24635](http://arxiv.org/abs/2509.24635)|null|
 |**2025-09-29**|**Training-Free Multimodal Guidance for Video to Audio Generation**|Eleonora Grassucci et.al.|[2509.24550](http://arxiv.org/abs/2509.24550)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -174,7 +174,7 @@
 |**2025-06-03**|**OmniAudio: Generating Spatial Audio from 360-Degree Video**|Huadai Liu et.al.|[2504.14906](http://arxiv.org/abs/2504.14906)|**[link](https://github.com/liuhuadai/omniaudio)**|
 |**2025-04-17**|**CAFA: a Controllable Automatic Foley Artist**|Roi Benita et.al.|[2504.06778](http://arxiv.org/abs/2504.06778)|**[link](https://github.com/finmickey/CAFA)**|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -231,7 +231,7 @@
 |**2025-09-17**|**VCBench: Benchmarking LLMs in Venture Capital**|Rick Chen et.al.|[2509.14448](http://arxiv.org/abs/2509.14448)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Video Generation
 
@@ -288,7 +288,7 @@
 |**2025-10-16**|**RealDPO: Real or Not Real, that is the Preference**|Guo Cheng et.al.|[2510.14955](http://arxiv.org/abs/2510.14955)|null|
 |**2025-10-16**|**DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal Generation**|Yu Zhou et.al.|[2510.14949](http://arxiv.org/abs/2510.14949)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Image Generation
 
@@ -345,7 +345,7 @@
 |**2025-10-23**|**Positional Encoding Field**|Yunpeng Bai et.al.|[2510.20385](http://arxiv.org/abs/2510.20385)|null|
 |**2025-10-24**|**What Do AI-Generated Images Want?**|Amanda Wasielewski et.al.|[2510.20350](http://arxiv.org/abs/2510.20350)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Music Generation
 
@@ -402,7 +402,7 @@
 |**2025-07-28**|**Controllable Video-to-Music Generation with Multiple Time-Varying Conditions**|Junxian Wu et.al.|[2507.20627](http://arxiv.org/abs/2507.20627)|null|
 |**2025-07-27**|**Diffusion-based Symbolic Music Generation with Structured State Space Models**|Shenghua Yuan et.al.|[2507.20128](http://arxiv.org/abs/2507.20128)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -459,7 +459,7 @@
 |**2025-09-24**|**Eliminating stability hallucinations in llm-based tts models via attention guidance**|ShiMing Wang et.al.|[2509.19852](http://arxiv.org/abs/2509.19852)|null|
 |**2025-09-23**|**Improving Test-Time Performance of RVQ-based Neural Codecs**|Hyeongju Kim et.al.|[2509.19186](http://arxiv.org/abs/2509.19186)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -516,7 +516,7 @@
 |**2025-10-09**|**An efficient algorithm for kernel quantile regression**|Shengxiang Deng et.al.|[2510.07929](http://arxiv.org/abs/2510.07929)|null|
 |**2025-10-08**|**AV-EMO-Reasoning: Benchmarking Emotional Reasoning Capabilities in Omni-modal LLMS with Audio-visual Cues**|Krish Patel et.al.|[2510.07355](http://arxiv.org/abs/2510.07355)|null|
 
-<p align=right>(<a href=#updated-on-20251102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251103>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
