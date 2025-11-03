@@ -907,8 +907,8 @@ layout: default
 |**2025-09-24**|**CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion**|Chenhao Ji et.al.|[2509.19979](http://arxiv.org/abs/2509.19979)|null|
 |**2025-09-23**|**Video Killed the Energy Budget: Characterizing the Latency and Power Regimes of Open Text-to-Video Models**|Julien Delavande et.al.|[2509.19222](http://arxiv.org/abs/2509.19222)|null|
 |**2025-09-23**|**Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters**|Pin-Yen Chiu et.al.|[2509.18831](http://arxiv.org/abs/2509.18831)|null|
-|**2025-09-22**|**VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models**|Geonung Kim et.al.|[2509.17985](http://arxiv.org/abs/2509.17985)|null|
-|**2025-09-22**|**I2VWM: Robust Watermarking for Image to Video Generation**|Guanjie Wang et.al.|[2509.17773](http://arxiv.org/abs/2509.17773)|null|
+|**2025-09-22**|**VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models**|Geonung Kim et.al.|[2509.17985](http://arxiv.org/abs/2509.17985)|**[link](https://github.com/KIMGEONUNG/VideoFrom3D)**|
+|**2025-09-22**|**I2VWM: Robust Watermarking for Image to Video Generation**|Guanjie Wang et.al.|[2509.17773](http://arxiv.org/abs/2509.17773)|**[link](https://github.com/MrCrims/I2VWM-Robust-Watermarking-for-Image-to-Video-Generation)**|
 |**2025-09-21**|**Echo-Path: Pathology-Conditioned Echo Video Generation**|Kabir Hamzah Muhammad et.al.|[2509.17190](http://arxiv.org/abs/2509.17190)|null|
 |**2025-09-21**|**VidCLearn: A Continual Learning Approach for Text-to-Video Generation**|Luca Zanchetta et.al.|[2509.16956](http://arxiv.org/abs/2509.16956)|null|
 |**2025-09-21**|**$\mathtt{M^3VIR}$ : A Large-Scale Multi-Modality Multi-View Synthesized Benchmark Dataset for Image Restoration and Content Creation**|Yuanzhi Li et.al.|[2509.16873](http://arxiv.org/abs/2509.16873)|null|
@@ -916,7 +916,7 @@ layout: default
 |**2025-09-20**|**RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation**|Tianyi Yan et.al.|[2509.16500](http://arxiv.org/abs/2509.16500)|null|
 |**2025-09-19**|**Neural Atlas Graphs for Dynamic Scene Decomposition and Editing**|Jan Philipp Schneider et.al.|[2509.16336](http://arxiv.org/abs/2509.16336)|null|
 |**2025-09-19**|**Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution**|Chang Soo Lim et.al.|[2509.15781](http://arxiv.org/abs/2509.15781)|null|
-|**2025-09-19**|**Lynx: Towards High-Fidelity Personalized Video Generation**|Shen Sang et.al.|[2509.15496](http://arxiv.org/abs/2509.15496)|null|
+|**2025-09-19**|**Lynx: Towards High-Fidelity Personalized Video Generation**|Shen Sang et.al.|[2509.15496](http://arxiv.org/abs/2509.15496)|**[link](https://github.com/bytedance/lynx)**|
 |**2025-09-18**|**OpenViGA: Video Generation for Automotive Driving Scenes by Streamlining and Fine-Tuning Open Source Models with Public Data**|Björn Möller et.al.|[2509.15479](http://arxiv.org/abs/2509.15479)|null|
 |**2025-09-18**|**RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation**|Yuming Jiang et.al.|[2509.15212](http://arxiv.org/abs/2509.15212)|null|
 |**2025-09-18**|**WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance**|Chenxi Song et.al.|[2509.15130](http://arxiv.org/abs/2509.15130)|null|
