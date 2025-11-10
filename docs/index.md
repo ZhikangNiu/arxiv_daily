@@ -428,7 +428,7 @@ layout: default
 |**2025-07-17**|**A new XML conversion process for mensural music encoding : CMME\_to\_MEI (via Verovio)**|David Fiala et.al.|[2507.15991](http://arxiv.org/abs/2507.15991)|null|
 |**2025-07-17**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 |**2025-07-07**|**Evaluating Fake Music Detection Performance Under Audio Augmentations**|Tomasz Sroka et.al.|[2507.10447](http://arxiv.org/abs/2507.10447)|null|
-|**2025-07-14**|**ASTAR-NTU solution to AudioMOS Challenge 2025 Track1**|Fabian Ritter-Gutierrez et.al.|[2507.09904](http://arxiv.org/abs/2507.09904)|null|
+|**2025-07-14**|**ASTAR-NTU solution to AudioMOS Challenge 2025 Track1**|Fabian Ritter-Gutierrez et.al.|[2507.09904](http://arxiv.org/abs/2507.09904)|**[link](https://github.com/FabianRitter/ASTAR-NTU-AUDIOMOS2025-TRACK1)**|
 |**2025-07-09**|**Exploring State-Space-Model based Language Model in Music Generation**|Wei-Jaw Lee et.al.|[2507.06674](http://arxiv.org/abs/2507.06674)|null|
 |**2025-07-08**|**MusiScene: Leveraging MU-LLaMA for Scene Imagination and Enhanced Video Background Music Generation**|Fathinah Izzati et.al.|[2507.05894](http://arxiv.org/abs/2507.05894)|null|
 |**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
@@ -893,10 +893,10 @@ layout: default
 |**2025-10-07**|**When and How to Cut Classical Concerts? A Multimodal Automated Video Editing Approach**|Daniel Gonzálbez-Biosca et.al.|[2510.05661](http://arxiv.org/abs/2510.05661)|null|
 |**2025-10-06**|**LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation**|Yang Xiao et.al.|[2510.05367](http://arxiv.org/abs/2510.05367)|null|
 |**2025-10-06**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
-|**2025-10-06**|**VChain: Chain-of-Visual-Thought for Reasoning in Video Generation**|Ziqi Huang et.al.|[2510.05094](http://arxiv.org/abs/2510.05094)|null|
+|**2025-10-06**|**VChain: Chain-of-Visual-Thought for Reasoning in Video Generation**|Ziqi Huang et.al.|[2510.05094](http://arxiv.org/abs/2510.05094)|**[link](https://github.com/Eyeline-Labs/VChain)**|
 |**2025-10-06**|**Character Mixing for Video Generation**|Tingting Liao et.al.|[2510.05093](http://arxiv.org/abs/2510.05093)|null|
 |**2025-10-06**|**Bridging Text and Video Generation: A Survey**|Nilay Kumar et.al.|[2510.04999](http://arxiv.org/abs/2510.04999)|null|
-|**2025-10-05**|**ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation**|Jay Zhangjie Wu et.al.|[2510.04290](http://arxiv.org/abs/2510.04290)|null|
+|**2025-10-05**|**ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation**|Jay Zhangjie Wu et.al.|[2510.04290](http://arxiv.org/abs/2510.04290)|**[link](https://github.com/nv-tlabs/ChronoEdit)**|
 |**2025-10-05**|**Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers**|Shikang Zheng et.al.|[2510.04188](http://arxiv.org/abs/2510.04188)|null|
 |**2025-10-04**|**Generating Human Motion Videos using a Cascaded Text-to-Video Framework**|Hyelin Nam et.al.|[2510.03909](http://arxiv.org/abs/2510.03909)|null|
 |**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li et.al.|[2510.03135](http://arxiv.org/abs/2510.03135)|null|
@@ -904,7 +904,7 @@ layout: default
 |**2025-10-06**|**What Drives Compositional Generalization in Visual Generative Models?**|Karim Farid et.al.|[2510.03075](http://arxiv.org/abs/2510.03075)|null|
 |**2025-10-03**|**When and Where do Events Switch in Multi-Event Video Generation?**|Ruotong Liao et.al.|[2510.03049](http://arxiv.org/abs/2510.03049)|null|
 |**2025-10-02**|**Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation**|Beijia Lu et.al.|[2510.02617](http://arxiv.org/abs/2510.02617)|null|
-|**2025-10-02**|**How Confident are Video Models? Empowering Video Models to Express their Uncertainty**|Zhiting Mei et.al.|[2510.02571](http://arxiv.org/abs/2510.02571)|null|
+|**2025-10-02**|**How Confident are Video Models? Empowering Video Models to Express their Uncertainty**|Zhiting Mei et.al.|[2510.02571](http://arxiv.org/abs/2510.02571)|**[link](https://github.com/irom-princeton/s-qubed)**|
 |**2025-10-02**|**Inferring Dynamic Physical Properties from Video Foundation Models**|Guanqi Zhan et.al.|[2510.02311](http://arxiv.org/abs/2510.02311)|null|
 |**2025-10-02**|**MultiModal Action Conditioned Video Generation**|Yichen Li et.al.|[2510.02287](http://arxiv.org/abs/2510.02287)|null|
 |**2025-10-02**|**Learning to Generate Object Interactions with Physics-Guided Video Diffusion**|David Romero et.al.|[2510.02284](http://arxiv.org/abs/2510.02284)|null|
@@ -1218,8 +1218,8 @@ layout: default
 |**2025-10-16**|**WithAnyone: Towards Controllable and ID Consistent Image Generation**|Hengyuan Xu et.al.|[2510.14975](http://arxiv.org/abs/2510.14975)|null|
 |**2025-10-16**|**ScaleWeaver: Weaving Efficient Controllable T2I Generation with Multi-Scale Reference Attention**|Keli Liu et.al.|[2510.14882](http://arxiv.org/abs/2510.14882)|null|
 |**2025-10-16**|**FraQAT: Quantization Aware Training with Fractional bits**|Luca Morreale et.al.|[2510.14823](http://arxiv.org/abs/2510.14823)|null|
-|**2025-10-16**|**In-Context Learning with Unpaired Clips for Instruction-based Video Editing**|Xinyao Liao et.al.|[2510.14648](http://arxiv.org/abs/2510.14648)|null|
-|**2025-10-16**|**Adapting Self-Supervised Representations as a Latent Space for Efficient Generation**|Ming Gui et.al.|[2510.14630](http://arxiv.org/abs/2510.14630)|null|
+|**2025-10-16**|**In-Context Learning with Unpaired Clips for Instruction-based Video Editing**|Xinyao Liao et.al.|[2510.14648](http://arxiv.org/abs/2510.14648)|**[link](https://github.com/leoisufa/ICVE)**|
+|**2025-10-16**|**Adapting Self-Supervised Representations as a Latent Space for Efficient Generation**|Ming Gui et.al.|[2510.14630](http://arxiv.org/abs/2510.14630)|**[link](https://github.com/CompVis/RepTok)**|
 |**2025-10-16**|**Consistent text-to-image generation via scene de-contextualization**|Song Tang et.al.|[2510.14553](http://arxiv.org/abs/2510.14553)|null|
 |**2025-10-16**|**Exploring Image Representation with Decoupled Classical Visual Descriptors**|Chenyuan Qu et.al.|[2510.14536](http://arxiv.org/abs/2510.14536)|null|
 |**2025-10-16**|**Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models**|Yunze Tong et.al.|[2510.14526](http://arxiv.org/abs/2510.14526)|null|
@@ -1902,16 +1902,16 @@ layout: default
 |**2025-09-11**|**AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs**|Sidharth Surapaneni et.al.|[2509.08031](http://arxiv.org/abs/2509.08031)|null|
 |**2025-09-09**|**Competitive Audio-Language Models with Data-Efficient Single-Stage Training on Public Data**|Gokul Karthik Kumar et.al.|[2509.07526](http://arxiv.org/abs/2509.07526)|null|
 |**2025-09-09**|**OmniMap: A General Mapping Framework Integrating Optics, Geometry, and Semantics**|Yinan Deng et.al.|[2509.07500](http://arxiv.org/abs/2509.07500)|null|
-|**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
+|**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|**[link](https://github.com/jettbrains/-L-)**|
 |**2025-09-15**|**CogGuide: Human-Like Guidance for Zero-Shot Omni-Modal Reasoning**|Zhou-Peng Shou et.al.|[2509.06641](http://arxiv.org/abs/2509.06641)|null|
-|**2025-09-07**|**Neural Enhancement of the Traditional Wang-Sheeley-Arge Solar Wind Relation**|Prateek Mayank et.al.|[2509.06181](http://arxiv.org/abs/2509.06181)|null|
+|**2025-09-07**|**Neural Enhancement of the Traditional Wang-Sheeley-Arge Solar Wind Relation**|Prateek Mayank et.al.|[2509.06181](http://arxiv.org/abs/2509.06181)|**[link](https://github.com/PrateekMayank/wsaplus)**|
 |**2025-09-02**|**A proximal augmented Lagrangian method for nonconvex optimization with equality and inequality constraints**|Adeyemi D. Adeoye et.al.|[2509.02894](http://arxiv.org/abs/2509.02894)|null|
 |**2025-09-01**|**AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions**|Yiwei Guo et.al.|[2509.01787](http://arxiv.org/abs/2509.01787)|null|
 |**2025-09-08**|**Error Notebook-Guided, Training-Free Part Retrieval in 3D CAD Assemblies via Vision-Language Models**|Yunqing Liu et.al.|[2509.01350](http://arxiv.org/abs/2509.01350)|null|
 |**2025-08-31**|**OmniDPO: A Preference Optimization Framework to Address Omni-Modal Hallucination**|Junzhe Chen et.al.|[2509.00723](http://arxiv.org/abs/2509.00723)|null|
 |**2025-09-02**|**AHELM: A Holistic Evaluation of Audio-Language Models**|Tony Lee et.al.|[2508.21376](http://arxiv.org/abs/2508.21376)|null|
 |**2025-08-28**|**WoW-Bench: Evaluating Fine-Grained Acoustic Perception in Audio-Language Models via Marine Mammal Vocalizations**|Jaeyeon Kim et.al.|[2508.20976](http://arxiv.org/abs/2508.20976)|null|
-|**2025-09-08**|**Critical quantum liquids and the cuprate high temperature superconductors**|Pietro M. Bonetti et.al.|[2508.20164](http://arxiv.org/abs/2508.20164)|null|
+|**2025-09-08**|**Critical quantum liquids and the cuprate high temperature superconductors**|Pietro M. Bonetti et.al.|[2508.20164](http://arxiv.org/abs/2508.20164)|**[link](https://github.com/aemysites/abhishek20164043-250805)**|
 |**2025-08-26**|**Emotion Omni: Enabling Empathetic Speech Response Generation through Large Language Models**|Haoyu Wang et.al.|[2508.18655](http://arxiv.org/abs/2508.18655)|null|
 |**2025-08-25**|**Alternating odd cycles and orientations of Kneser-like graphs**|Nóra Almási et.al.|[2508.18487](http://arxiv.org/abs/2508.18487)|null|
 |**2025-08-25**|**MetaGen: A DSL, Database, and Benchmark for VLM-Assisted Metamaterial Generation**|Liane Makatura et.al.|[2508.17568](http://arxiv.org/abs/2508.17568)|null|

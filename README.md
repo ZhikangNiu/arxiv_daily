@@ -436,7 +436,7 @@
 |**2025-10-11**|**SyncLipMAE: Contrastive Masked Pretraining for Audio-Visual Talking-Face Representation**|Zeyu Ling et.al.|[2510.10069](http://arxiv.org/abs/2510.10069)|null|
 |**2025-10-11**|**MTP-S2UT: Enhancing Speech-to-Speech Translation Quality with Multi-token Prediction**|Jianjin Wang et.al.|[2510.10003](http://arxiv.org/abs/2510.10003)|null|
 |**2025-10-10**|**SynthVC: Leveraging Synthetic Data for End-to-End Low Latency Streaming Voice Conversion**|Zhao Guo et.al.|[2510.09245](http://arxiv.org/abs/2510.09245)|null|
-|**2025-10-08**|**AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs**|Peize He et.al.|[2510.07293](http://arxiv.org/abs/2510.07293)|null|
+|**2025-10-08**|**AudioMarathon: A Comprehensive Benchmark for Long-Context Audio Understanding and Efficiency in Audio LLMs**|Peize He et.al.|[2510.07293](http://arxiv.org/abs/2510.07293)|**[link](https://github.com/DabDans/AudioMarathon)**|
 |**2025-10-07**|**Latent Speech-Text Transformer**|Yen-Ju Lu et.al.|[2510.06195](http://arxiv.org/abs/2510.06195)|null|
 |**2025-10-07**|**EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS**|Haoxun Li et.al.|[2510.05758](http://arxiv.org/abs/2510.05758)|null|
 |**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
