@@ -1721,7 +1721,7 @@ layout: default
 |**2025-09-24**|**CAMILA: Context-Aware Masking for Image Editing with Language Alignment**|Hyunseung Kim et.al.|[2509.19731](http://arxiv.org/abs/2509.19731)|**[link](https://github.com/hk-repo/CAMILA)**|
 |**2025-09-24**|**Selective Classifier-free Guidance for Zero-shot Text-to-speech**|John Zheng et.al.|[2509.19668](http://arxiv.org/abs/2509.19668)|null|
 |**2025-09-23**|**Synthesizing Artifact Dataset for Pixel-level Detection**|Dennis Menn et.al.|[2509.19589](http://arxiv.org/abs/2509.19589)|null|
-|**2025-09-23**|**OverLayBench: A Benchmark for Layout-to-Image Generation with Dense Overlaps**|Bingnan Li et.al.|[2509.19282](http://arxiv.org/abs/2509.19282)|null|
+|**2025-09-23**|**OverLayBench: A Benchmark for Layout-to-Image Generation with Dense Overlaps**|Bingnan Li et.al.|[2509.19282](http://arxiv.org/abs/2509.19282)|**[link](https://github.com/mlpc-ucsd/OverLayBench)**|
 |**2025-09-24**|**Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation**|Shufan Li et.al.|[2509.19244](http://arxiv.org/abs/2509.19244)|null|
 |**2025-09-23**|**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation**|Yanzuo Lu et.al.|[2509.18824](http://arxiv.org/abs/2509.18824)|null|
 |**2025-09-23**|**Towards Application Aligned Synthetic Surgical Image Synthesis**|Danush Kumar Venkatesh et.al.|[2509.18796](http://arxiv.org/abs/2509.18796)|null|
@@ -1735,8 +1735,8 @@ layout: default
 |**2025-09-22**|**Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance**|Hongxing Fan et.al.|[2509.17757](http://arxiv.org/abs/2509.17757)|null|
 |**2025-09-22**|**SISMA: Semantic Face Image Synthesis with Mamba**|Filippo Botti et.al.|[2509.17651](http://arxiv.org/abs/2509.17651)|null|
 |**2025-09-22**|**CARINOX: Inference-time Scaling with Category-Aware Reward-based Initial Noise Optimization and Exploration**|Seyed Amir Kasaei et.al.|[2509.17458](http://arxiv.org/abs/2509.17458)|null|
-|**2025-09-21**|**Graph Signal Generative Diffusion Models**|Yigit Berkay Uslu et.al.|[2509.17250](http://arxiv.org/abs/2509.17250)|null|
-|**2025-09-21**|**AlignedGen: Aligning Style Across Generated Images**|Jiexuan Zhang et.al.|[2509.17088](http://arxiv.org/abs/2509.17088)|null|
+|**2025-09-21**|**Graph Signal Generative Diffusion Models**|Yigit Berkay Uslu et.al.|[2509.17250](http://arxiv.org/abs/2509.17250)|**[link](https://github.com/yigit-uslu/GNN-Diffusion-Stock-Forecasting)**|
+|**2025-09-21**|**AlignedGen: Aligning Style Across Generated Images**|Jiexuan Zhang et.al.|[2509.17088](http://arxiv.org/abs/2509.17088)|**[link](https://github.com/Jiexuanz/AlignedGen)**|
 |**2025-09-21**|**DocIQ: A Benchmark Dataset and Feature Fusion Network for Document Image Quality Assessment**|Zhichao Ma et.al.|[2509.17012](http://arxiv.org/abs/2509.17012)|null|
 |**2025-09-19**|**MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer**|Yanghao Li et.al.|[2509.16197](http://arxiv.org/abs/2509.16197)|null|
 |**2025-09-19**|**AcT2I: Evaluating and Improving Action Depiction in Text-to-Image Models**|Vatsal Malaviya et.al.|[2509.16141](http://arxiv.org/abs/2509.16141)|null|
@@ -1910,7 +1910,7 @@ layout: default
 |**2025-08-15**|**SPG: Style-Prompting Guidance for Style-Specific Content Creation**|Qian Liang et.al.|[2508.11476](http://arxiv.org/abs/2508.11476)|null|
 |**2025-08-15**|**MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation**|Qian Liang et.al.|[2508.11433](http://arxiv.org/abs/2508.11433)|null|
 |**2025-08-15**|**AnatoMaskGAN: GNN-Driven Slice Feature Fusion and Noise Augmentation for Medical Semantic Image Synthesis**|Zonglin Wu et.al.|[2508.11375](http://arxiv.org/abs/2508.11375)|null|
-|**2025-08-18**|**TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation**|Yilin Mi et.al.|[2508.11284](http://arxiv.org/abs/2508.11284)|null|
+|**2025-08-18**|**TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation**|Yilin Mi et.al.|[2508.11284](http://arxiv.org/abs/2508.11284)|**[link](https://github.com/choobek/timemachine)**|
 |**2025-08-15**|**Efficient Image-to-Image Schrödinger Bridge for CT Field of View Extension**|Zhenhao Li et.al.|[2508.11211](http://arxiv.org/abs/2508.11211)|null|
 |**2025-08-15**|**StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image Translation**|Seungmi Lee et.al.|[2508.11203](http://arxiv.org/abs/2508.11203)|null|
 |**2025-08-15**|**LEARN: A Story-Driven Layout-to-Image Generation Framework for STEM Instruction**|Maoquan Zhang et.al.|[2508.11153](http://arxiv.org/abs/2508.11153)|null|
