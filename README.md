@@ -1,4 +1,4 @@
-## Updated on 2025.11.29
+## Updated on 2025.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-11-18**|**FxSearcher: gradient-free text-driven audio transformation**|Hojoon Ki et.al.|[2511.14138](http://arxiv.org/abs/2511.14138)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-11-18**|**A Controllable Perceptual Feature Generative Model for Melody Harmonization via Conditional Variational Autoencoder**|Dengyun Huang et.al.|[2511.14600](http://arxiv.org/abs/2511.14600)|null|
 |**2025-11-18**|**Tell Me: An LLM-powered Mental Well-being Assistant with RAG, Synthetic Dialogue Generation, and Agentic Planning**|Trishala Jayesh Ahalpara et.al.|[2511.14445](http://arxiv.org/abs/2511.14445)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -185,7 +185,7 @@
 |**2025-11-13**|**Reinforcing Trustworthiness in Multimodal Emotional Support Systems**|Huy M. Le et.al.|[2511.10011](http://arxiv.org/abs/2511.10011)|null|
 |**2025-11-13**|**Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation**|Xiangyi Wei et.al.|[2511.09958](http://arxiv.org/abs/2511.09958)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -242,7 +242,7 @@
 |**2025-10-15**|**(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm**|Kevin Krings et.al.|[2510.12364](http://arxiv.org/abs/2510.12364)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Video Generation
 
@@ -299,7 +299,7 @@
 |**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Yi Yang et.al.|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
 |**2025-11-20**|**Video2Layout: Recall and Reconstruct Metric-Grounded Cognitive Map for Spatial Reasoning**|Yibin Huang et.al.|[2511.16160](http://arxiv.org/abs/2511.16160)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Image Generation
 
@@ -356,7 +356,7 @@
 |**2025-11-20**|**Formal Abductive Latent Explanations for Prototype-Based Networks**|Jules Soria et.al.|[2511.16588](http://arxiv.org/abs/2511.16588)|null|
 |**2025-11-20**|**PolyMinHash: Efficient Area-Based MinHashing of Polygons for Approximate Nearest Neighbor Search**|Alima Subedi et.al.|[2511.16576](http://arxiv.org/abs/2511.16576)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Music Generation
 
@@ -413,7 +413,7 @@
 |**2025-10-16**|**Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?**|Qixin Deng et.al.|[2510.14249](http://arxiv.org/abs/2510.14249)|null|
 |**2025-10-15**|**UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity MoE**|Zhenyu Liu et.al.|[2510.13344](http://arxiv.org/abs/2510.13344)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -470,7 +470,7 @@
 |**2025-10-20**|**LongCat-Audio-Codec: An Audio Tokenizer and Detokenizer Solution Designed for Speech Large Language Models**|Xiaohan Zhao et.al.|[2510.15227](http://arxiv.org/abs/2510.15227)|null|
 |**2025-10-16**|**TASLA: Text-Aligned Speech Tokens with Multiple Layer-Aggregation**|Ming-Hao Hsu et.al.|[2510.14934](http://arxiv.org/abs/2510.14934)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -527,7 +527,7 @@
 |**2025-11-06**|**WST: Weakly Supervised Transducer for Automatic Speech Recognition**|Dongji Gao et.al.|[2511.04035](http://arxiv.org/abs/2511.04035)|null|
 |**2025-11-05**|**Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything**|Huawei Lin et.al.|[2511.02834](http://arxiv.org/abs/2511.02834)|null|
 
-<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
