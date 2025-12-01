@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -469,8 +469,8 @@ layout: default
 |**2025-11-26**|**FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation**|Kaixing Yang et.al.|[2511.21029](http://arxiv.org/abs/2511.21029)|null|
 |**2025-11-26**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|null|
 |**2025-11-25**|**Efficient and Fast Generative-Based Singing Voice Separation using a Latent Diffusion Model**|Genís Plaja-Roglans et.al.|[2511.20470](http://arxiv.org/abs/2511.20470)|null|
-|**2025-11-25**|**DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation**|Rui Lin et.al.|[2511.20224](http://arxiv.org/abs/2511.20224)|null|
-|**2025-11-24**|**Explicit Tonal Tension Conditioning via Dual-Level Beam Search for Symbolic Music Generation**|Maral Ebrahimzadeh et.al.|[2511.19342](http://arxiv.org/abs/2511.19342)|null|
+|**2025-11-25**|**DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation**|Rui Lin et.al.|[2511.20224](http://arxiv.org/abs/2511.20224)|**[link](https://github.com/Eps-Acoustic-Revolution-Lab/DUO_TOK)**|
+|**2025-11-24**|**Explicit Tonal Tension Conditioning via Dual-Level Beam Search for Symbolic Music Generation**|Maral Ebrahimzadeh et.al.|[2511.19342](http://arxiv.org/abs/2511.19342)|**[link](https://github.com/MaraalE/tension-beamsearch)**|
 |**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
 |**2025-11-24**|**Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation**|Shuyang Liu et.al.|[2511.18869](http://arxiv.org/abs/2511.18869)|null|
 |**2025-11-23**|**InstructAudio: Unified speech and music generation with natural language instruction**|Chunyu Qiang et.al.|[2511.18487](http://arxiv.org/abs/2511.18487)|null|
