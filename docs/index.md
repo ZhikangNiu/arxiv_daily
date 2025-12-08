@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.07
+## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -943,13 +943,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-04**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|**[link](https://github.com/Alibaba-Quark/LiveAvatar)**|
+|**2025-12-04**|**Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length**|Yubo Huang et.al.|[2512.04677](http://arxiv.org/abs/2512.04677)|null|
 |**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
 |**2025-12-04**|**Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning**|Dongchao Yang et.al.|[2512.03783](http://arxiv.org/abs/2512.03783)|null|
 |**2025-12-03**|**Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation**|Yuchen Deng et.al.|[2512.03590](http://arxiv.org/abs/2512.03590)|null|
 |**2025-12-03**|**Dynamic Content Moderation in Livestreams: Combining Supervised Classification with MLLM-Boosted Similarity Matching**|Wei Chee Yew et.al.|[2512.03553](http://arxiv.org/abs/2512.03553)|null|
 |**2025-12-03**|**Characterizing Language Use in a Collaborative Situated Game**|Nicholas Tomlin et.al.|[2512.03381](http://arxiv.org/abs/2512.03381)|null|
-|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|**[link](https://github.com/kszpxxzmc/ViSAudio)**|
+|**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
 |**2025-12-02**|**BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion**|Sai Koneru et.al.|[2512.02817](http://arxiv.org/abs/2512.02817)|null|
 |**2025-12-02**|**Towards Language-Independent Face-Voice Association with Multimodal Foundation Models**|Aref Farhadipour et.al.|[2512.02759](http://arxiv.org/abs/2512.02759)|null|
