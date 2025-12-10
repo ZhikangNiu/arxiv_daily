@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.12.09
+## Updated on 2025.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-05**|**Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting**|Menghua Jiang et.al.|[2512.05619](http://arxiv.org/abs/2512.05619)|null|
+|**2025-12-08**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
+|**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
+|**2025-12-08**|**MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection**|Xueping Zhang et.al.|[2512.07352](http://arxiv.org/abs/2512.07352)|null|
+|**2025-12-06**|**Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction**|Kush Revankar et.al.|[2512.06485](http://arxiv.org/abs/2512.06485)|null|
+|**2025-12-05**|**Enhancing Local Search for MaxSAT with Deep Differentiation Clause Weighting**|Menghua Jiang et.al.|[2512.05619](http://arxiv.org/abs/2512.05619)|**[link](https://github.com/jmhmaxsat/DeepDist)**|
 |**2025-12-05**|**Interaction Tensor Shap**|Hiroki Hasegawa et.al.|[2512.05338](http://arxiv.org/abs/2512.05338)|null|
 |**2025-12-04**|**A Framework for Quantum Simulations of Energy-Loss and Hadronization in Non-Abelian Gauge Theories: SU(2) Lattice Gauge Theory in 1+1D**|Zhiyao Li et.al.|[2512.05210](http://arxiv.org/abs/2512.05210)|null|
 |**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|**[link](https://github.com/bicheng1225/HIPPO)**|
@@ -650,6 +654,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Towards Reliable Test-Time Adaptation: Style Invariance as a Correctness Likelihood**|Gilhyun Nam et.al.|[2512.07390](http://arxiv.org/abs/2512.07390)|null|
+|**2025-12-08**|**Squeezed-Eff-Net: Edge-Computed Boost of Tomography Based Brain Tumor Classification leveraging Hybrid Neural Network Architecture**|Md. Srabon Chowdhury et.al.|[2512.07241](http://arxiv.org/abs/2512.07241)|null|
+|**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
+|**2025-12-08**|**A Theoretical Framework of Student Agency in AI- Assisted Learning: A Grounded Theory Approach**|Yun Dai et.al.|[2512.07143](http://arxiv.org/abs/2512.07143)|null|
+|**2025-12-04**|**DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation**|Fu Li et.al.|[2512.06022](http://arxiv.org/abs/2512.06022)|null|
 |**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|null|
 |**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779](http://arxiv.org/abs/2512.04779)|null|
 |**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
@@ -948,6 +957,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection**|Sayeem Been Zaman et.al.|[2512.07351](http://arxiv.org/abs/2512.07351)|null|
+|**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
+|**2025-12-07**|**Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation**|Jisoo Park et.al.|[2512.06689](http://arxiv.org/abs/2512.06689)|null|
+|**2025-12-06**|**Towards Stable Cross-Domain Depression Recognition under Missing Modalities**|Jiuyi Chen et.al.|[2512.06447](http://arxiv.org/abs/2512.06447)|null|
+|**2025-12-04**|**DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation**|Fu Li et.al.|[2512.06022](http://arxiv.org/abs/2512.06022)|null|
 |**2025-12-05**|**ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior**|Weikai Lu et.al.|[2512.05745](http://arxiv.org/abs/2512.05745)|null|
 |**2025-12-05**|**CLIO: A Tour Guide Robot with Co-speech Actions for Visual Attention Guidance and Enhanced User Engagement**|Yuxuan Chen et.al.|[2512.05389](http://arxiv.org/abs/2512.05389)|null|
 |**2025-12-04**|**Systematically Evaluating Equivalent Purpose for Digital Maps**|Brandon Biggs et.al.|[2512.05310](http://arxiv.org/abs/2512.05310)|null|
@@ -1093,8 +1107,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**Training-free Clothing Region of Interest Self-correction for Virtual Try-On**|Shengjie Lu et.al.|[2512.07126](http://arxiv.org/abs/2512.07126)|null|
+|**2025-12-06**|**Degrading Voice: A Comprehensive Overview of Robust Voice Conversion Through Input Manipulation**|Xining Song et.al.|[2512.06304](http://arxiv.org/abs/2512.06304)|null|
 |**2025-12-05**|**PAC One-Step Safety Certification for Black-Box Discrete-Time Stochastic Systems**|Taoran Wu et.al.|[2512.05549](http://arxiv.org/abs/2512.05549)|null|
-|**2025-12-05**|**Simulating Life Paths with Digital Twins: AI-Generated Future Selves Influence Decision-Making and Expand Human Choice**|Rachel Poonsiriwong et.al.|[2512.05397](http://arxiv.org/abs/2512.05397)|null|
+|**2025-12-08**|**Simulating Life Paths with Digital Twins: AI-Generated Future Selves Influence Decision-Making and Expand Human Choice**|Rachel Poonsiriwong et.al.|[2512.05397](http://arxiv.org/abs/2512.05397)|null|
 |**2025-12-04**|**YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases**|Gongyu Chen et.al.|[2512.04793](http://arxiv.org/abs/2512.04793)|null|
 |**2025-12-03**|**Learning Steerable Clarification Policies with Collaborative Self-play**|Jonathan Berant et.al.|[2512.04068](http://arxiv.org/abs/2512.04068)|null|
 |**2025-12-02**|**Spoken Conversational Agents with Large Language Models**|Chao-Han Huck Yang et.al.|[2512.02593](http://arxiv.org/abs/2512.02593)|null|
@@ -1262,6 +1278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[2512.07831](http://arxiv.org/abs/2512.07831)|null|
+|**2025-12-08**|**OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing**|Haoyang He et.al.|[2512.07826](http://arxiv.org/abs/2512.07826)|null|
+|**2025-12-08**|**WorldReel: 4D Video Generation with Consistent Geometry and Motion Modeling**|Shaoheng Fang et.al.|[2512.07821](http://arxiv.org/abs/2512.07821)|null|
+|**2025-12-08**|**OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory**|Zhaochong An et.al.|[2512.07802](http://arxiv.org/abs/2512.07802)|null|
+|**2025-12-08**|**ViSA: 3D-Aware Video Shading for Real-Time Upper-Body Avatar Creation**|Fan Yang et.al.|[2512.07720](http://arxiv.org/abs/2512.07720)|null|
+|**2025-12-08**|**Unified Video Editing with Temporal Reasoner**|Xiangpeng Yang et.al.|[2512.07469](http://arxiv.org/abs/2512.07469)|null|
+|**2025-12-08**|**Communication-Efficient Serving for Video Diffusion Models with Latent Parallelism**|Zhiyuan Wu et.al.|[2512.07350](http://arxiv.org/abs/2512.07350)|null|
+|**2025-12-08**|**ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation**|Ziyang Mai et.al.|[2512.07328](http://arxiv.org/abs/2512.07328)|null|
+|**2025-12-08**|**Unified Camera Positional Encoding for Controlled Video Generation**|Cheng Zhang et.al.|[2512.07237](http://arxiv.org/abs/2512.07237)|null|
+|**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
 |**2025-12-05**|**World Models That Know When They Don't Know: Controllable Video Generation with Calibrated Uncertainty**|Zhiting Mei et.al.|[2512.05927](http://arxiv.org/abs/2512.05927)|null|
 |**2025-12-05**|**Bring Your Dreams to Life: Continual Text-to-Video Customization**|Jiahua Dong et.al.|[2512.05802](http://arxiv.org/abs/2512.05802)|null|
 |**2025-12-05**|**USV: Unified Sparsification for Accelerating Video Diffusion Models**|Xinjian Wu et.al.|[2512.05754](http://arxiv.org/abs/2512.05754)|null|
@@ -1765,6 +1791,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation**|Yuan Gao et.al.|[2512.07829](http://arxiv.org/abs/2512.07829)|null|
+|**2025-12-08**|**OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing**|Haoyang He et.al.|[2512.07826](http://arxiv.org/abs/2512.07826)|null|
+|**2025-12-08**|**Distribution Matching Variational AutoEncoder**|Sen Ye et.al.|[2512.07778](http://arxiv.org/abs/2512.07778)|null|
+|**2025-12-08**|**Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment**|Sangha Park et.al.|[2512.07702](http://arxiv.org/abs/2512.07702)|null|
+|**2025-12-08**|**LongCat-Image Technical Report**|Meituan LongCat Team et.al.|[2512.07584](http://arxiv.org/abs/2512.07584)|null|
+|**2025-12-08**|**SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation**|Yao Teng et.al.|[2512.07503](http://arxiv.org/abs/2512.07503)|null|
+|**2025-12-08**|**MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition**|Xinyu Wei et.al.|[2512.07348](http://arxiv.org/abs/2512.07348)|null|
+|**2025-12-08**|**Debiasing Diffusion Priors via 3D Attention for Consistent Gaussian Splatting**|Shilong Jin et.al.|[2512.07345](http://arxiv.org/abs/2512.07345)|null|
+|**2025-12-08**|**AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing**|Ziming Hong et.al.|[2512.07247](http://arxiv.org/abs/2512.07247)|null|
+|**2025-12-08**|**Generating Storytelling Images with Rich Chains-of-Reasoning**|Xiujie Song et.al.|[2512.07198](http://arxiv.org/abs/2512.07198)|null|
 |**2025-12-05**|**EditThinker: Unlocking Iterative Reasoning for Any Image Editor**|Hongyu Li et.al.|[2512.05965](http://arxiv.org/abs/2512.05965)|null|
 |**2025-12-05**|**HQ-DM: Single Hadamard Transformation-Based Quantization-Aware Training for Low-Bit Diffusion Models**|Shizhuo Mao et.al.|[2512.05746](http://arxiv.org/abs/2512.05746)|null|
 |**2025-12-05**|**Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models**|Ana-Maria Cretu et.al.|[2512.05707](http://arxiv.org/abs/2512.05707)|null|
@@ -2490,6 +2526,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-08**|**A Simple Method to Enhance Pre-trained Language Models with Speech Tokens for Classification**|Nicolas Calbucura et.al.|[2512.07571](http://arxiv.org/abs/2512.07571)|null|
+|**2025-12-08**|**JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention**|Georgios Ioannides et.al.|[2512.07168](http://arxiv.org/abs/2512.07168)|null|
+|**2025-12-04**|**DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation**|Fu Li et.al.|[2512.06022](http://arxiv.org/abs/2512.06022)|null|
 |**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
 |**2025-12-04**|**Large Speech Model Enabled Semantic Communication**|Yun Tian et.al.|[2512.04711](http://arxiv.org/abs/2512.04711)|null|
 |**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
@@ -2672,7 +2711,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-04**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
+|**2025-12-07**|**Omni-Referring Image Segmentation**|Qiancheng Zheng et.al.|[2512.06862](http://arxiv.org/abs/2512.06862)|null|
+|**2025-12-06**|**Protecting Bystander Privacy via Selective Hearing in LALMs**|Xiao Zhan et.al.|[2512.06380](http://arxiv.org/abs/2512.06380)|null|
+|**2025-12-06**|**A Low-rank Augmented Lagrangian Method for Polyhedral-SDP and Moment-SOS Relaxations of Polynomial Optimization**|Di Hou et.al.|[2512.06359](http://arxiv.org/abs/2512.06359)|null|
+|**2025-12-08**|**TV2TV: A Unified Framework for Interleaved Language and Video Generation**|Xiaochuang Han et.al.|[2512.05103](http://arxiv.org/abs/2512.05103)|null|
 |**2025-12-04**|**Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding**|Tsai-Ning Wang et.al.|[2512.04847](http://arxiv.org/abs/2512.04847)|null|
 |**2025-12-04**|**Shift-Window Meets Dual Attention: A Multi-Model Architecture for Specular Highlight Removal**|Tianci Huo et.al.|[2512.04496](http://arxiv.org/abs/2512.04496)|null|
 |**2025-12-04**|**Omni-AutoThink: Adaptive Multimodal Reasoning via Reinforcement Learning**|Dongchao Yang et.al.|[2512.03783](http://arxiv.org/abs/2512.03783)|null|
