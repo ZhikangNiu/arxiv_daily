@@ -1,4 +1,4 @@
-## Updated on 2025.12.13
+## Updated on 2025.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-11-30**|**Supporting Productivity Skill Development in College Students through Social Robot Coaching: A Proof-of-Concept**|Himanshi Lalwani et.al.|[2512.01105](http://arxiv.org/abs/2512.01105)|null|
 |**2025-11-30**|**Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis**|Lars Nippert et.al.|[2512.00937](http://arxiv.org/abs/2512.00937)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-12-01**|**DefenSee: Dissecting Threat from Sight and Text - A Multi-View Defensive Pipeline for Multi-modal Jailbreaks**|Zihao Wang et.al.|[2512.01185](http://arxiv.org/abs/2512.01185)|null|
 |**2025-11-29**|**Melody or Machine: Detecting Synthetic Music with Dual-Stream Contrastive Learning**|Arnesh Batra et.al.|[2512.00621](http://arxiv.org/abs/2512.00621)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -185,7 +185,7 @@
 |**2025-11-27**|**Orthogonal Disentanglement with Projected Feature Alignment for Multimodal Emotion Recognition in Conversation**|Xinyi Che et.al.|[2511.22463](http://arxiv.org/abs/2511.22463)|null|
 |**2025-11-27**|**Beyond Real versus Fake Towards Intent-Aware Video Analysis**|Saurabh Atreya et.al.|[2511.22455](http://arxiv.org/abs/2511.22455)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -242,7 +242,7 @@
 |**2025-10-20**|**Joint upper Banach density, VC dimensions and Euclidean point configurations**|Bruno Predojević et.al.|[2510.17453](http://arxiv.org/abs/2510.17453)|null|
 |**2025-10-23**|**The Parameterized Complexity of Computing the VC-Dimension**|Florent Foucaud et.al.|[2510.17451](http://arxiv.org/abs/2510.17451)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Video Generation
 
@@ -250,11 +250,11 @@
 |---|---|---|---|---|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](http://arxiv.org/abs/2512.10940)|null|
-|**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|**[link](https://github.com/ostadabbas/Lang2Motion)**|
+|**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
 |**2025-12-11**|**Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner**|Haojie Zheng et.al.|[2512.10571](http://arxiv.org/abs/2512.10571)|null|
-|**2025-12-11**|**ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions**|Xiaoxue Wu et.al.|[2512.10286](http://arxiv.org/abs/2512.10286)|**[link](https://github.com/UknowSth/ShotDirector)**|
-|**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|**[link](https://github.com/elainew728/motion-edit)**|
-|**2025-12-11**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|**[link](https://github.com/Liuxinyv/ReViSE)**|
+|**2025-12-11**|**ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions**|Xiaoxue Wu et.al.|[2512.10286](http://arxiv.org/abs/2512.10286)|null|
+|**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
+|**2025-12-11**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
 |**2025-12-10**|**Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis**|Zhe Li et.al.|[2512.09418](http://arxiv.org/abs/2512.09418)|null|
@@ -299,7 +299,7 @@
 |**2025-12-04**|**Exploring YouTube's Political Communication Networks during the 2024 French Elections**|Caroline Violot et.al.|[2512.04971](http://arxiv.org/abs/2512.04971)|null|
 |**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Image Generation
 
@@ -356,7 +356,7 @@
 |**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|
 |**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Music Generation
 
@@ -413,7 +413,7 @@
 |**2025-11-11**|**Chord-conditioned Melody and Bass Generation**|Alexandra C Salem et.al.|[2511.08755](http://arxiv.org/abs/2511.08755)|null|
 |**2025-11-14**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -470,7 +470,7 @@
 |**2025-11-10**|**Aligning Attention with Human Rationales for Self-Explaining Hate Speech Detection**|Brage Eilertsen et.al.|[2511.07065](http://arxiv.org/abs/2511.07065)|null|
 |**2025-11-08**|**BSCodec: A Band-Split Neural Codec for High-Quality Universal Audio Reconstruction**|Haoran Wang et.al.|[2511.06150](http://arxiv.org/abs/2511.06150)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -527,7 +527,7 @@
 |**2025-11-18**|**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**|Wei Liu et.al.|[2511.14410](http://arxiv.org/abs/2511.14410)|null|
 |**2025-11-18**|**Audio Question Answering with GRPO-Based Fine-Tuning and Calibrated Segment-Level Predictions**|Marcel Gibier et.al.|[2511.14307](http://arxiv.org/abs/2511.14307)|null|
 
-<p align=right>(<a href=#updated-on-20251213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

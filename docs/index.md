@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.13
+## Updated on 2025.12.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -1312,11 +1312,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-11**|**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation**|Sharath Girish et.al.|[2512.10943](http://arxiv.org/abs/2512.10943)|null|
 |**2025-12-11**|**OmniView: An All-Seeing Diffusion Model for 3D and 4D View Synthesis**|Xiang Fan et.al.|[2512.10940](http://arxiv.org/abs/2512.10940)|null|
-|**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|**[link](https://github.com/ostadabbas/Lang2Motion)**|
+|**2025-12-11**|**Lang2Motion: Bridging Language and Motion through Joint Embedding Spaces**|Bishoy Galoaa et.al.|[2512.10617](http://arxiv.org/abs/2512.10617)|null|
 |**2025-12-11**|**Audio-sync Video Instance Editing with Granularity-Aware Mask Refiner**|Haojie Zheng et.al.|[2512.10571](http://arxiv.org/abs/2512.10571)|null|
-|**2025-12-11**|**ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions**|Xiaoxue Wu et.al.|[2512.10286](http://arxiv.org/abs/2512.10286)|**[link](https://github.com/UknowSth/ShotDirector)**|
-|**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|**[link](https://github.com/elainew728/motion-edit)**|
-|**2025-12-11**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|**[link](https://github.com/Liuxinyv/ReViSE)**|
+|**2025-12-11**|**ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions**|Xiaoxue Wu et.al.|[2512.10286](http://arxiv.org/abs/2512.10286)|null|
+|**2025-12-11**|**MotionEdit: Benchmarking and Learning Motion-Centric Image Editing**|Yixin Wan et.al.|[2512.10284](http://arxiv.org/abs/2512.10284)|null|
+|**2025-12-11**|**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning**|Xinyu Liu et.al.|[2512.09924](http://arxiv.org/abs/2512.09924)|null|
 |**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](http://arxiv.org/abs/2512.09646)|null|
 |**2025-12-10**|**Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis**|Zhe Li et.al.|[2512.09418](http://arxiv.org/abs/2512.09418)|null|
