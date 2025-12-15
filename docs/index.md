@@ -910,12 +910,12 @@ layout: default
 |**2025-08-29**|**DRASP: A Dual-Resolution Attentive Statistics Pooling Framework for Automatic MOS Prediction**|Cheng-Yeh Yang et.al.|[2508.21407](http://arxiv.org/abs/2508.21407)|null|
 |**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
 |**2025-08-28**|**Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts**|Zixuan Hu et.al.|[2508.20488](http://arxiv.org/abs/2508.20488)|null|
-|**2025-08-27**|**AudioStory: Generating Long-Form Narrative Audio with Large Language Models**|Yuxin Guo et.al.|[2508.20088](http://arxiv.org/abs/2508.20088)|null|
+|**2025-08-27**|**AudioStory: Generating Long-Form Narrative Audio with Large Language Models**|Yuxin Guo et.al.|[2508.20088](http://arxiv.org/abs/2508.20088)|**[link](https://github.com/TencentARC/AudioStory)**|
 |**2025-08-27**|**Segmentation Assisted Incremental Test Time Adaptation in an Open World**|Manogna Sreenivas et.al.|[2508.20029](http://arxiv.org/abs/2508.20029)|null|
 |**2025-08-26**|**A Closer Look at Edema Area Segmentation in SD-OCT Images Using Adversarial Framework**|Yuhui Tao et.al.|[2508.18790](http://arxiv.org/abs/2508.18790)|null|
 |**2025-08-26**|**Stabilizing Open-Set Test-Time Adaptation via Primary-Auxiliary Filtering and Knowledge-Integrated Prediction**|Byung-Joon Lee et.al.|[2508.18751](http://arxiv.org/abs/2508.18751)|null|
 |**2025-08-24**|**Constrained Prompt Enhancement for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2508.17417](http://arxiv.org/abs/2508.17417)|null|
-|**2025-08-23**|**HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation**|Sizhe Shan et.al.|[2508.16930](http://arxiv.org/abs/2508.16930)|null|
+|**2025-08-23**|**HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation**|Sizhe Shan et.al.|[2508.16930](http://arxiv.org/abs/2508.16930)|**[link](https://github.com/Tencent-Hunyuan/HunyuanVideo-Foley)**|
 |**2025-08-21**|**Low Power, Scalable Nanofabrication via Photon Upconversion**|Qi Zhou et.al.|[2508.16668](http://arxiv.org/abs/2508.16668)|null|
 |**2025-08-22**|**Backpropagation-Free Test-Time Adaptation via Probabilistic Gaussian Alignment**|Youjia Zhang et.al.|[2508.15568](http://arxiv.org/abs/2508.15568)|null|
 |**2025-08-21**|**DualMark: Identifying Model and Training Data Origins in Generated Audio**|Xuefeng Yang et.al.|[2508.15521](http://arxiv.org/abs/2508.15521)|null|
@@ -1172,7 +1172,7 @@ layout: default
 |**2025-11-12**|**HQ-SVC: Towards High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios**|Bingsong Bai et.al.|[2511.08496](http://arxiv.org/abs/2511.08496)|null|
 |**2025-11-10**|**ConvFill: Model Collaboration for Responsive Conversational Voice Agents**|Vidya Srinivas et.al.|[2511.07397](http://arxiv.org/abs/2511.07397)|null|
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
-|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|**[link](https://github.com/wxzyd123/E2E-VGuard)**|
 |**2025-11-10**|**Personalizing Emotion-aware Conversational Agents? Exploring User Traits-driven Conversational Strategies for Enhanced Interaction**|Yuchong Zhang et.al.|[2511.06954](http://arxiv.org/abs/2511.06954)|null|
 |**2025-11-09**|**How Founder Expertise Shapes the Impact of Generative Artificial Intelligence on Digital Ventures**|Ruiqing Cao et.al.|[2511.06545](http://arxiv.org/abs/2511.06545)|null|
 |**2025-11-06**|**Vector Traits Shape Disease Persistence: A Predator Prey Approach to Dengue**|Piyumi Chathurangika et.al.|[2511.04276](http://arxiv.org/abs/2511.04276)|null|
@@ -1557,13 +1557,13 @@ layout: default
 |**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li et.al.|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://github.com/Ma-Zhuang/OmniNWM)**|
 |**2025-10-20**|**World-in-World: World Models in a Closed-Loop World**|Jiahan Zhang et.al.|[2510.18135](http://arxiv.org/abs/2510.18135)|**[link](https://github.com/World-In-World/world-in-world)**|
 |**2025-10-20**|**Demystifying Transition Matching: When and Why It Can Beat Flow Matching**|Jaihoon Kim et.al.|[2510.17991](http://arxiv.org/abs/2510.17991)|null|
-|**2025-10-20**|**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing**|Zixin Yin et.al.|[2510.17803](http://arxiv.org/abs/2510.17803)|null|
-|**2025-10-22**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|null|
+|**2025-10-20**|**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing**|Zixin Yin et.al.|[2510.17803](http://arxiv.org/abs/2510.17803)|**[link](https://github.com/zxYin/ConsistEdit_Code)**|
+|**2025-10-22**|**MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation Models**|Yongshun Zhang et.al.|[2510.17519](http://arxiv.org/abs/2510.17519)|**[link](https://github.com/Shopee-MUG/MUG-V)**|
 |**2025-10-20**|**From Preferences to Prejudice: The Role of Alignment Tuning in Shaping Social Bias in Video Diffusion Models**|Zefan Cai et.al.|[2510.17247](http://arxiv.org/abs/2510.17247)|null|
 |**2025-10-19**|**An empirical study of the effect of video encoders on Temporal Video Grounding**|Ignacio M. De la Jara et.al.|[2510.17007](http://arxiv.org/abs/2510.17007)|null|
 |**2025-10-19**|**From Mannequin to Human: A Pose-Aware and Identity-Preserving Video Generation Framework for Lifelike Clothing Display**|Xiangyu Mu et.al.|[2510.16833](http://arxiv.org/abs/2510.16833)|null|
 |**2025-10-17**|**VISTA: A Test-Time Self-Improving Video Generation Agent**|Do Xuan Long et.al.|[2510.15831](http://arxiv.org/abs/2510.15831)|null|
-|**2025-10-17**|**Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset**|Qingyan Bai et.al.|[2510.15742](http://arxiv.org/abs/2510.15742)|null|
+|**2025-10-17**|**Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset**|Qingyan Bai et.al.|[2510.15742](http://arxiv.org/abs/2510.15742)|**[link](https://github.com/EzioBy/Ditto)**|
 |**2025-10-17**|**DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion**|Weijie Wang et.al.|[2510.15264](http://arxiv.org/abs/2510.15264)|null|
 |**2025-10-16**|**TGT: Text-Grounded Trajectories for Locally Controlled Video Generation**|Guofeng Zhang et.al.|[2510.15104](http://arxiv.org/abs/2510.15104)|null|
 |**2025-10-16**|**RealDPO: Real or Not Real, that is the Preference**|Guo Cheng et.al.|[2510.14955](http://arxiv.org/abs/2510.14955)|null|
@@ -1996,7 +1996,7 @@ layout: default
 |**2025-11-19**|**When to Think and When to Look: Uncertainty-Guided Lookback**|Jing Bi et.al.|[2511.15613](http://arxiv.org/abs/2511.15613)|null|
 |**2025-11-19**|**MaskMed: Decoupled Mask and Class Prediction for Medical Image Segmentation**|Bin Xie et.al.|[2511.15603](http://arxiv.org/abs/2511.15603)|null|
 |**2025-11-19**|**US-X Complete: A Multi-Modal Approach to Anatomical 3D Shape Recovery**|Miruna-Alexandra Gafencu et.al.|[2511.15600](http://arxiv.org/abs/2511.15600)|null|
-|**2025-11-19**|**Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector**|Weiheng Zhu et.al.|[2511.15571](http://arxiv.org/abs/2511.15571)|null|
+|**2025-11-19**|**Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector**|Weiheng Zhu et.al.|[2511.15571](http://arxiv.org/abs/2511.15571)|**[link](https://github.com/multimediaFor/DuFIA)**|
 |**2025-11-19**|**Multimodal Evaluation of Russian-language Architectures**|Artem Chervyakov et.al.|[2511.15552](http://arxiv.org/abs/2511.15552)|null|
 |**2025-11-19**|**UltraDP: Generalizable Carotid Ultrasound Scanning with Force-Aware Diffusion Policy**|Ruoqu Chen et.al.|[2511.15550](http://arxiv.org/abs/2511.15550)|null|
 |**2025-11-18**|**ARC Is a Vision Problem!**|Keya Hu et.al.|[2511.14761](http://arxiv.org/abs/2511.14761)|null|
@@ -2268,7 +2268,7 @@ layout: default
 |**2025-09-26**|**Transport Based Mean Flows for Generative Modeling**|Elaheh Akbari et.al.|[2509.22592](http://arxiv.org/abs/2509.22592)|null|
 |**2025-09-26**|**UniMIC: Token-Based Multimodal Interactive Coding for Human-AI Collaboration**|Qi Mao et.al.|[2509.22570](http://arxiv.org/abs/2509.22570)|null|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|null|
-|**2025-09-26**|**Group Critical-token Policy Optimization for Autoregressive Image Generation**|Guohui Zhang et.al.|[2509.22485](http://arxiv.org/abs/2509.22485)|null|
+|**2025-09-26**|**Group Critical-token Policy Optimization for Autoregressive Image Generation**|Guohui Zhang et.al.|[2509.22485](http://arxiv.org/abs/2509.22485)|**[link](https://github.com/zghhui/GCPO)**|
 |**2025-09-26**|**Bézier Meets Diffusion: Robust Generation Across Domains for Medical Image Segmentation**|Chen Li et.al.|[2509.22476](http://arxiv.org/abs/2509.22476)|null|
 |**2025-09-26**|**Overclocking Electrostatic Generative Models**|Daniil Shlenskii et.al.|[2509.22454](http://arxiv.org/abs/2509.22454)|null|
 |**2025-09-26**|**Closing the Safety Gap: Surgical Concept Erasure in Visual Autoregressive Models**|Xinhao Zhong et.al.|[2509.22400](http://arxiv.org/abs/2509.22400)|null|
@@ -2565,11 +2565,11 @@ layout: default
 |**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/abs/2507.06137)|null|
 |**2025-07-08**|**TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision**|Syeda Anshrah Gillani et.al.|[2507.06033](http://arxiv.org/abs/2507.06033)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
-|**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|null|
+|**2025-07-08**|**2D Instance Editing in 3D Space**|Yuhuan Xie et.al.|[2507.05819](http://arxiv.org/abs/2507.05819)|**[link](https://github.com/Panaoxuan/2D-SpaceEdit)**|
 |**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627](http://arxiv.org/abs/2507.05627)|null|
 |**2025-07-08**|**AdaptaGen: Domain-Specific Image Generation through Hierarchical Semantic Optimization Framework**|Suoxiang Zhang et.al.|[2507.05621](http://arxiv.org/abs/2507.05621)|null|
 |**2025-07-08**|**Model-free Optical Processors using In Situ Reinforcement Learning with Proximal Policy Optimization**|Yuhang Li et.al.|[2507.05583](http://arxiv.org/abs/2507.05583)|null|
-|**2025-07-08**|**SingLoRA: Low Rank Adaptation Using a Single Matrix**|David Bensaïd et.al.|[2507.05566](http://arxiv.org/abs/2507.05566)|null|
+|**2025-07-08**|**SingLoRA: Low Rank Adaptation Using a Single Matrix**|David Bensaïd et.al.|[2507.05566](http://arxiv.org/abs/2507.05566)|**[link](https://github.com/kyegomez/SingLoRA)**|
 |**2025-07-07**|**LoomNet: Enhancing Multi-View Image Generation via Latent Space Weaving**|Giulio Federico et.al.|[2507.05499](http://arxiv.org/abs/2507.05499)|null|
 |**2025-07-07**|**Cloud Diffusion Part 1: Theory and Motivation**|Andrew Randono et.al.|[2507.05496](http://arxiv.org/abs/2507.05496)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|

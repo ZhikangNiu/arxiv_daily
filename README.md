@@ -225,7 +225,7 @@
 |**2025-11-12**|**HQ-SVC: Towards High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios**|Bingsong Bai et.al.|[2511.08496](http://arxiv.org/abs/2511.08496)|null|
 |**2025-11-10**|**ConvFill: Model Collaboration for Responsive Conversational Voice Agents**|Vidya Srinivas et.al.|[2511.07397](http://arxiv.org/abs/2511.07397)|null|
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
-|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|**[link](https://github.com/wxzyd123/E2E-VGuard)**|
 |**2025-11-10**|**Personalizing Emotion-aware Conversational Agents? Exploring User Traits-driven Conversational Strategies for Enhanced Interaction**|Yuchong Zhang et.al.|[2511.06954](http://arxiv.org/abs/2511.06954)|null|
 |**2025-11-09**|**How Founder Expertise Shapes the Impact of Generative Artificial Intelligence on Digital Ventures**|Ruiqing Cao et.al.|[2511.06545](http://arxiv.org/abs/2511.06545)|null|
 |**2025-11-06**|**Vector Traits Shape Disease Persistence: A Predator Prey Approach to Dengue**|Piyumi Chathurangika et.al.|[2511.04276](http://arxiv.org/abs/2511.04276)|null|
@@ -380,8 +380,8 @@
 |**2025-11-26**|**CartoonSing: Unifying Human and Nonhuman Timbres in Singing Generation**|Jionghao Han et.al.|[2511.21045](http://arxiv.org/abs/2511.21045)|null|
 |**2025-11-26**|**FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation**|Kaixing Yang et.al.|[2511.21029](http://arxiv.org/abs/2511.21029)|null|
 |**2025-11-26**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|null|
-|**2025-11-25**|**Efficient and Fast Generative-Based Singing Voice Separation using a Latent Diffusion Model**|Genís Plaja-Roglans et.al.|[2511.20470](http://arxiv.org/abs/2511.20470)|null|
-|**2025-11-25**|**DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation**|Rui Lin et.al.|[2511.20224](http://arxiv.org/abs/2511.20224)|null|
+|**2025-11-25**|**Efficient and Fast Generative-Based Singing Voice Separation using a Latent Diffusion Model**|Genís Plaja-Roglans et.al.|[2511.20470](http://arxiv.org/abs/2511.20470)|**[link](https://github.com/diffusion-separation/ldm-vocal-extraction)**|
+|**2025-11-25**|**DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation**|Rui Lin et.al.|[2511.20224](http://arxiv.org/abs/2511.20224)|**[link](https://github.com/Eps-Acoustic-Revolution-Lab/DUO_TOK)**|
 |**2025-11-24**|**Explicit Tonal Tension Conditioning via Dual-Level Beam Search for Symbolic Music Generation**|Maral Ebrahimzadeh et.al.|[2511.19342](http://arxiv.org/abs/2511.19342)|null|
 |**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
 |**2025-11-24**|**Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation**|Shuyang Liu et.al.|[2511.18869](http://arxiv.org/abs/2511.18869)|null|
