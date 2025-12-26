@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.25
+## Updated on 2025.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -699,6 +699,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation**|Zhe Cao et.al.|[2512.21094](http://arxiv.org/abs/2512.21094)|null|
 |**2025-12-23**|**MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model**|Ye Tao et.al.|[2512.20339](http://arxiv.org/abs/2512.20339)|null|
 |**2025-12-23**|**TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation**|Ji-Hoon Kim et.al.|[2512.20296](http://arxiv.org/abs/2512.20296)|null|
 |**2025-12-23**|**Aliasing-Free Neural Audio Synthesis**|Yicheng Gu et.al.|[2512.20211](http://arxiv.org/abs/2512.20211)|null|
@@ -706,7 +707,7 @@ layout: default
 |**2025-12-20**|**CTTA-T: Continual Test-Time Adaptation for Text Understanding via Teacher-Student with a Domain-aware and Generalized Teacher**|Tianlun Liu et.al.|[2512.18321](http://arxiv.org/abs/2512.18321)|null|
 |**2025-12-12**|**Cross-Sample Augmented Test-Time Adaptation for Personalized Intraoperative Hypotension Prediction**|Kanxue Li et.al.|[2512.15762](http://arxiv.org/abs/2512.15762)|null|
 |**2025-12-17**|**BEAT2AASIST model with layer fusion for ESDD 2026 Challenge**|Sanghyeok Chung et.al.|[2512.15180](http://arxiv.org/abs/2512.15180)|null|
-|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|**[link](https://github.com/Visual-AI/JoVA)**|
+|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
 |**2025-12-14**|**PerNodeDrop: A Method Balancing Specialized Subnets and Regularization in Deep Neural Networks**|Gelesh G Omathil et.al.|[2512.12663](http://arxiv.org/abs/2512.12663)|null|
 |**2025-12-14**|**From Tokens to Photons: Test-Time Physical Prompting for Vison-Language Models**|Boyeong Im et.al.|[2512.12571](http://arxiv.org/abs/2512.12571)|null|
 |**2025-12-13**|**UniMark: Artificial Intelligence Generated Content Identification Toolkit**|Meilin Li et.al.|[2512.12324](http://arxiv.org/abs/2512.12324)|null|
@@ -1026,9 +1027,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation**|Zhe Cao et.al.|[2512.21094](http://arxiv.org/abs/2512.21094)|null|
 |**2025-12-23**|**AUDRON: A Deep Learning Framework with Fused Acoustic Signatures for Drone Type Recognition**|Rajdeep Chatterjee et.al.|[2512.20407](http://arxiv.org/abs/2512.20407)|null|
 |**2025-12-23**|**TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation**|Ji-Hoon Kim et.al.|[2512.20296](http://arxiv.org/abs/2512.20296)|null|
-|**2025-12-23**|**M $^3$ KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**|Hyeongcheol Park et.al.|[2512.20136](http://arxiv.org/abs/2512.20136)|null|
+|**2025-12-24**|**M $^3$ KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation**|Hyeongcheol Park et.al.|[2512.20136](http://arxiv.org/abs/2512.20136)|null|
 |**2025-12-23**|**DDAVS: Disentangled Audio Semantics and Delayed Bidirectional Alignment for Audio-Visual Segmentation**|Jingqi Tian et.al.|[2512.20117](http://arxiv.org/abs/2512.20117)|null|
 |**2025-12-23**|**FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**|Andreas Zinonos et.al.|[2512.20033](http://arxiv.org/abs/2512.20033)|null|
 |**2025-12-22**|**ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars**|Ziqiao Peng et.al.|[2512.19546](http://arxiv.org/abs/2512.19546)|null|
@@ -1214,6 +1216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**AIAuditTrack: A Framework for AI Security system**|Zixun Luo et.al.|[2512.20649](http://arxiv.org/abs/2512.20649)|null|
 |**2025-12-23**|**LP-CFM: Perceptual Invariance-Aware Conditional Flow Matching for Speech Modeling**|Doyeop Kwak et.al.|[2512.20314](http://arxiv.org/abs/2512.20314)|null|
 |**2025-12-23**|**QuarkAudio Technical Report**|Chengwei Liu et.al.|[2512.20151](http://arxiv.org/abs/2512.20151)|null|
 |**2025-12-22**|**Dunkl-Corrected Deformation of RN-AdS Black Hole Thermodynamics**|Maryem Jemri et.al.|[2512.19200](http://arxiv.org/abs/2512.19200)|null|
@@ -1396,7 +1399,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-23**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
+|**2025-12-24**|**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming**|Haonan Qiu et.al.|[2512.21338](http://arxiv.org/abs/2512.21338)|null|
+|**2025-12-24**|**ACD: Direct Conditional Control for Video Diffusion Models via Attention Supervision**|Weiqi Li et.al.|[2512.21268](http://arxiv.org/abs/2512.21268)|null|
+|**2025-12-24**|**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation**|Jiawei Liu et.al.|[2512.21252](http://arxiv.org/abs/2512.21252)|null|
+|**2025-12-24**|**T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation**|Zhe Cao et.al.|[2512.21094](http://arxiv.org/abs/2512.21094)|null|
+|**2025-12-24**|**FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing**|Mingshu Cai et.al.|[2512.21015](http://arxiv.org/abs/2512.21015)|null|
+|**2025-12-24**|**SemanticGen: Video Generation in Semantic Space**|Jianhong Bai et.al.|[2512.20619](http://arxiv.org/abs/2512.20619)|null|
 |**2025-12-23**|**Repurposing Video Diffusion Transformers for Robust Point Tracking**|Soowon Son et.al.|[2512.20606](http://arxiv.org/abs/2512.20606)|null|
 |**2025-12-23**|**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection**|Qingdong He et.al.|[2512.20340](http://arxiv.org/abs/2512.20340)|null|
 |**2025-12-23**|**Learning Skills from Action-Free Videos**|Hung-Chieh Fang et.al.|[2512.20052](http://arxiv.org/abs/2512.20052)|null|
@@ -1984,6 +1992,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**GriDiT: Factorized Grid-Based Diffusion for Efficient Long Image Sequence Generation**|Snehal Singh Tomar et.al.|[2512.21276](http://arxiv.org/abs/2512.21276)|null|
+|**2025-12-24**|**A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation**|Chenghao Xu et.al.|[2512.21174](http://arxiv.org/abs/2512.21174)|null|
+|**2025-12-24**|**Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control**|Minghao Han et.al.|[2512.21058](http://arxiv.org/abs/2512.21058)|null|
+|**2025-12-24**|**Enhancing diffusion models with Gaussianization preprocessing**|Li Cunzhi et.al.|[2512.21020](http://arxiv.org/abs/2512.21020)|null|
+|**2025-12-24**|**FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing**|Mingshu Cai et.al.|[2512.21015](http://arxiv.org/abs/2512.21015)|null|
 |**2025-12-23**|**Multi-temporal Adaptive Red-Green-Blue and Long-Wave Infrared Fusion for You Only Look Once-Based Landmine Detection from Unmanned Aerial Systems**|James E. Gallagher et.al.|[2512.20487](http://arxiv.org/abs/2512.20487)|null|
 |**2025-12-23**|**UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images**|Yiming Zhao et.al.|[2512.20479](http://arxiv.org/abs/2512.20479)|null|
 |**2025-12-23**|**CRAFT: Continuous Reasoning and Agentic Feedback Tuning for Multimodal Text-to-Image Generation**|V. Kovalev et.al.|[2512.20362](http://arxiv.org/abs/2512.20362)|null|
@@ -2812,6 +2825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**SACodec: Asymmetric Quantization with Semantic Anchoring for Low-Bitrate High-Fidelity Neural Speech Codecs**|Zhongren Dong et.al.|[2512.20944](http://arxiv.org/abs/2512.20944)|null|
 |**2025-12-23**|**Fun-Audio-Chat Technical Report**|Qian Chen et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-23**|**QuarkAudio Technical Report**|Chengwei Liu et.al.|[2512.20151](http://arxiv.org/abs/2512.20151)|null|
 |**2025-12-18**|**BEST-STD2.0: Balanced and Efficient Speech Tokenizer for Spoken Term Detection**|Anup Singh et.al.|[2512.16395](http://arxiv.org/abs/2512.16395)|null|
