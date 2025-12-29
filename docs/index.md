@@ -250,7 +250,7 @@ layout: default
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
 |**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
-|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
+|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|**[link](https://github.com/MRSAudio/MRSAudio_Main)**|
 |**2025-10-11**|**Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey**|Jiaqi Wei et.al.|[2510.09988](http://arxiv.org/abs/2510.09988)|null|
 |**2025-10-10**|**Tensor-based compression of the sea temperature data**|Ilya Kosolapov et.al.|[2510.09778](http://arxiv.org/abs/2510.09778)|null|
 |**2025-10-10**|**Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in Spoken Language Models**|Donghang Wu et.al.|[2510.09592](http://arxiv.org/abs/2510.09592)|null|
@@ -578,8 +578,8 @@ layout: default
 |**2025-11-26**|**CartoonSing: Unifying Human and Nonhuman Timbres in Singing Generation**|Jionghao Han et.al.|[2511.21045](http://arxiv.org/abs/2511.21045)|null|
 |**2025-11-26**|**FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation**|Kaixing Yang et.al.|[2511.21029](http://arxiv.org/abs/2511.21029)|null|
 |**2025-11-26**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|null|
-|**2025-11-25**|**Efficient and Fast Generative-Based Singing Voice Separation using a Latent Diffusion Model**|Genís Plaja-Roglans et.al.|[2511.20470](http://arxiv.org/abs/2511.20470)|null|
-|**2025-11-25**|**DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation**|Rui Lin et.al.|[2511.20224](http://arxiv.org/abs/2511.20224)|null|
+|**2025-11-25**|**Efficient and Fast Generative-Based Singing Voice Separation using a Latent Diffusion Model**|Genís Plaja-Roglans et.al.|[2511.20470](http://arxiv.org/abs/2511.20470)|**[link](https://github.com/diffusion-separation/ldm-vocal-extraction)**|
+|**2025-11-25**|**DUO-TOK: Dual-Track Semantic Music Tokenizer for Vocal-Accompaniment Generation**|Rui Lin et.al.|[2511.20224](http://arxiv.org/abs/2511.20224)|**[link](https://github.com/Eps-Acoustic-Revolution-Lab/DUO_TOK)**|
 |**2025-11-24**|**Explicit Tonal Tension Conditioning via Dual-Level Beam Search for Symbolic Music Generation**|Maral Ebrahimzadeh et.al.|[2511.19342](http://arxiv.org/abs/2511.19342)|null|
 |**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
 |**2025-11-24**|**Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation**|Shuyang Liu et.al.|[2511.18869](http://arxiv.org/abs/2511.18869)|null|
@@ -1190,7 +1190,7 @@ layout: default
 |**2025-07-13**|**Hear-Your-Click: Interactive Object-Specific Video-to-Audio Generation**|Yingshan Liang et.al.|[2507.04959](http://arxiv.org/abs/2507.04959)|null|
 |**2025-06-23**|**Advancing Talking Head Generation: A Comprehensive Survey of Multi-Modal Methodologies, Datasets, Evaluation Metrics, and Loss Functions**|Vineet Kumar Rakesh et.al.|[2507.02900](http://arxiv.org/abs/2507.02900)|null|
 |**2025-07-03**|**Spotlighting Partially Visible Cinematic Language for Video-to-Audio Generation via Self-distillation**|Feizhen Huang et.al.|[2507.02271](http://arxiv.org/abs/2507.02271)|null|
-|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
+|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|**[link](https://github.com/sruckh/IndexTTS2-Runpod)**|
 |**2025-06-28**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
 |**2025-06-27**|**Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance**|Akio Hayakawa et.al.|[2506.20995](http://arxiv.org/abs/2506.20995)|null|
 |**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
@@ -2292,7 +2292,7 @@ layout: default
 |**2025-10-30**|**Security Risk of Misalignment between Text and Image in Multi-modal Model**|Xiaosen Wang et.al.|[2510.26105](http://arxiv.org/abs/2510.26105)|null|
 |**2025-10-29**|**SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing**|Sung-Hoon Yoon et.al.|[2510.25970](http://arxiv.org/abs/2510.25970)|null|
 |**2025-10-29**|**MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency**|Nicolas Dufour et.al.|[2510.25897](http://arxiv.org/abs/2510.25897)|null|
-|**2025-10-29**|**ScaleDiff: Higher-Resolution Image Synthesis via Efficient and Model-Agnostic Diffusion**|Sungho Koh et.al.|[2510.25818](http://arxiv.org/abs/2510.25818)|null|
+|**2025-10-29**|**ScaleDiff: Higher-Resolution Image Synthesis via Efficient and Model-Agnostic Diffusion**|Sungho Koh et.al.|[2510.25818](http://arxiv.org/abs/2510.25818)|**[link](https://github.com/KSH00906/ScaleDiff)**|
 |**2025-10-29**|**DiagramEval: Evaluating LLM-Generated Diagrams via Graphs**|Chumeng Liang et.al.|[2510.25761](http://arxiv.org/abs/2510.25761)|null|
 |**2025-10-29**|**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation**|Zhi-Kai Chen et.al.|[2510.25739](http://arxiv.org/abs/2510.25739)|null|
 |**2025-10-29**|**BOLT-GAN: Bayes-Optimal Loss for Stable GAN Training**|Mohammadreza Tavasoli Naeini et.al.|[2510.25609](http://arxiv.org/abs/2510.25609)|null|
@@ -2951,7 +2951,7 @@ layout: default
 |**2025-09-17**|**A High-Quality and Low-Complexity Streamable Neural Speech Codec with Knowledge Distillation**|En-Wei Zhang et.al.|[2509.13670](http://arxiv.org/abs/2509.13670)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 |**2025-09-22**|**Neural Audio Codecs for Prompt-Driven Universal Source Separation**|Adhiraj Banerjee et.al.|[2509.11717](http://arxiv.org/abs/2509.11717)|null|
-|**2025-09-14**|**FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs**|Md Mubtasim Ahasan et.al.|[2509.11425](http://arxiv.org/abs/2509.11425)|null|
+|**2025-09-14**|**FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs**|Md Mubtasim Ahasan et.al.|[2509.11425](http://arxiv.org/abs/2509.11425)|**[link](https://github.com/mubtasimahasan/FuseCodec)**|
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
 |**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
@@ -3057,7 +3057,7 @@ layout: default
 |**2025-11-29**|**Design and Evaluation of a Multi-Agent Perception System for Autonomous Flying Networks**|Diogo Ferreira et.al.|[2512.00259](http://arxiv.org/abs/2512.00259)|null|
 |**2025-11-28**|**OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion**|Sai Koneru et.al.|[2512.00234](http://arxiv.org/abs/2512.00234)|null|
 |**2025-11-28**|**Scaling HuBERT for African Languages: From Base to Large and XL**|Antoine Caubrière et.al.|[2511.23370](http://arxiv.org/abs/2511.23370)|null|
-|**2025-11-28**|**HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding**|Chen Li et.al.|[2511.23178](http://arxiv.org/abs/2511.23178)|null|
+|**2025-11-28**|**HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding**|Chen Li et.al.|[2511.23178](http://arxiv.org/abs/2511.23178)|**[link](https://github.com/Ichen12/HPSU-Benchmark)**|
 |**2025-11-28**|**Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs**|Tianle Chen et.al.|[2511.22826](http://arxiv.org/abs/2511.22826)|null|
 |**2025-12-02**|**Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer**|Z-Image Team et.al.|[2511.22699](http://arxiv.org/abs/2511.22699)|null|
 |**2025-11-27**|**OralGPT-Omni: A Versatile Dental Multimodal Large Language Model**|Jing Hao et.al.|[2511.22055](http://arxiv.org/abs/2511.22055)|null|
