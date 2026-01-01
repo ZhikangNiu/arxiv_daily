@@ -1,4 +1,4 @@
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|null|
+|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|**[link](https://github.com/9624219/AI4reading)**|
 |**2025-12-29**|**Task-oriented Learnable Diffusion Timesteps for Universal Few-shot Learning of Dense Tasks**|Changgyoon Oh et.al.|[2512.23210](http://arxiv.org/abs/2512.23210)|null|
 |**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](http://arxiv.org/abs/2512.22650)|null|
 |**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
@@ -71,7 +71,7 @@
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705](http://arxiv.org/abs/2512.07705)|null|
 |**2025-12-08**|**MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection**|Xueping Zhang et.al.|[2512.07352](http://arxiv.org/abs/2512.07352)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-12-02**|**ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation**|Mengchen Zhang et.al.|[2512.03036](http://arxiv.org/abs/2512.03036)|null|
 |**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -185,7 +185,7 @@
 |**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
 |**2025-12-07**|**Lightweight Wasserstein Audio-Visual Model for Unified Speech Enhancement and Separation**|Jisoo Park et.al.|[2512.06689](http://arxiv.org/abs/2512.06689)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -242,7 +242,7 @@
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
 |**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|**[link](https://github.com/wxzyd123/E2E-VGuard)**|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Video Generation
 
@@ -299,7 +299,7 @@
 |**2025-12-17**|**DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations**|Yuxiang Shi et.al.|[2512.15524](http://arxiv.org/abs/2512.15524)|null|
 |**2025-12-17**|**3DProxyImg: Controllable 3D-Aware Animation Synthesis from Single Image via 2D-3D Aligned Proxy Embedding**|Yupeng Zhu et.al.|[2512.15126](http://arxiv.org/abs/2512.15126)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Image Generation
 
@@ -356,7 +356,7 @@
 |**2025-12-18**|**RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing**|Tianyuan Qu et.al.|[2512.16864](http://arxiv.org/abs/2512.16864)|null|
 |**2025-12-18**|**GenEval 2: Addressing Benchmark Drift in Text-to-Image Evaluation**|Amita Kamath et.al.|[2512.16853](http://arxiv.org/abs/2512.16853)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Music Generation
 
@@ -413,7 +413,7 @@
 |**2025-11-12**|**Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation**|Shulei Ji et.al.|[2511.09090](http://arxiv.org/abs/2511.09090)|null|
 |**2025-11-12**|**Design of a Six-band, 2.4-Octave (80--420 GHz) Hierarchically Summed Phased-Array Slot-Dipole Antenna Array for NEW-MUSIC**|Xiaolan Huang et.al.|[2511.08990](http://arxiv.org/abs/2511.08990)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -470,7 +470,7 @@
 |**2025-11-14**|**AV-Dialog: Spoken Dialogue Models with Audio-Visual Input**|Tuochao Chen et.al.|[2511.11124](http://arxiv.org/abs/2511.11124)|null|
 |**2025-11-14**|**AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization**|Zhonghua Jiang et.al.|[2511.11106](http://arxiv.org/abs/2511.11106)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -527,7 +527,7 @@
 |**2025-11-26**|**AVFakeBench: A Comprehensive Audio-Video Forgery Detection Benchmark for AV-LMMs**|Shuhan Xia et.al.|[2511.21251](http://arxiv.org/abs/2511.21251)|null|
 |**2025-11-26**|**Towards Audio Token Compression in Large Audio Language Models**|Saurabhchand Bhati et.al.|[2511.20973](http://arxiv.org/abs/2511.20973)|null|
 
-<p align=right>(<a href=#updated-on-20251231>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
