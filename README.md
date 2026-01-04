@@ -1,4 +1,4 @@
-## Updated on 2026.01.02
+## Updated on 2026.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2025-12-10**|**Tensor-Compressed and Fully-Quantized Training of Neural PDE Solvers**|Jinming Lu et.al.|[2512.09202](http://arxiv.org/abs/2512.09202)|null|
 |**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](http://arxiv.org/abs/2512.09000)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-12-03**|**Rethinking Security in Semantic Communication: Latent Manipulation as a New Threat**|Zhiyuan Xi et.al.|[2512.03361](http://arxiv.org/abs/2512.03361)|null|
 |**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -185,7 +185,7 @@
 |**2025-12-09**|**Learning Robot Manipulation from Audio World Models**|Fan Zhang et.al.|[2512.08405](http://arxiv.org/abs/2512.08405)|null|
 |**2025-12-09**|**PAVAS: Physics-Aware Video-to-Audio Synthesis**|Oh Hyun-Bin et.al.|[2512.08282](http://arxiv.org/abs/2512.08282)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -242,7 +242,7 @@
 |**2025-11-12**|**HQ-SVC: Towards High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios**|Bingsong Bai et.al.|[2511.08496](http://arxiv.org/abs/2511.08496)|null|
 |**2025-11-10**|**ConvFill: Model Collaboration for Responsive Conversational Voice Agents**|Vidya Srinivas et.al.|[2511.07397](http://arxiv.org/abs/2511.07397)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Video Generation
 
@@ -299,7 +299,7 @@
 |**2025-12-18**|**Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation**|Min-Jung Kim et.al.|[2512.17040](http://arxiv.org/abs/2512.17040)|null|
 |**2025-12-18**|**EasyV2V: A High-quality Instruction-based Video Editing Framework**|Jinjie Mai et.al.|[2512.16920](http://arxiv.org/abs/2512.16920)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Image Generation
 
@@ -356,7 +356,7 @@
 |**2025-12-18**|**EasyV2V: A High-quality Instruction-based Video Editing Framework**|Jinjie Mai et.al.|[2512.16920](http://arxiv.org/abs/2512.16920)|null|
 |**2025-12-18**|**SFTok: Bridging the Performance Gap in Discrete Tokenizers**|Qihang Rao et.al.|[2512.16910](http://arxiv.org/abs/2512.16910)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Music Generation
 
@@ -413,7 +413,7 @@
 |**2025-11-12**|**Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation**|Shulei Ji et.al.|[2511.09090](http://arxiv.org/abs/2511.09090)|null|
 |**2025-11-12**|**Design of a Six-band, 2.4-Octave (80--420 GHz) Hierarchically Summed Phased-Array Slot-Dipole Antenna Array for NEW-MUSIC**|Xiaolan Huang et.al.|[2511.08990](http://arxiv.org/abs/2511.08990)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -470,16 +470,16 @@
 |**2025-11-14**|**AV-Dialog: Spoken Dialogue Models with Audio-Visual Input**|Tuochao Chen et.al.|[2511.11124](http://arxiv.org/abs/2511.11124)|null|
 |**2025-11-14**|**AccKV: Towards Efficient Audio-Video LLMs Inference via Adaptive-Focusing and Cross-Calibration KV Cache Optimization**|Zhonghua Jiang et.al.|[2511.11106](http://arxiv.org/abs/2511.11106)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 ## Large Audio Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-30**|**AHA: Aligning Large Audio-Language Models for Reasoning Hallucinations via Counterfactual Hard Negatives**|Yanxi Chen et.al.|[2512.24052](http://arxiv.org/abs/2512.24052)|null|
+|**2025-12-30**|**AHA: Aligning Large Audio-Language Models for Reasoning Hallucinations via Counterfactual Hard Negatives**|Yanxi Chen et.al.|[2512.24052](http://arxiv.org/abs/2512.24052)|**[link](https://github.com/LLM-VLM-GSL/AHA)**|
 |**2025-12-30**|**Lectures on insulating and conducting quantum spin liquids**|Subir Sachdev et.al.|[2512.23962](http://arxiv.org/abs/2512.23962)|null|
 |**2025-12-29**|**PROFASR-BENCH: A Benchmark for Context-Conditioned ASR in High-Stakes Professional Speech**|Deepak Babu Piskala et.al.|[2512.23686](http://arxiv.org/abs/2512.23686)|null|
-|**2025-12-28**|**JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation**|Kai Liu et.al.|[2512.22905](http://arxiv.org/abs/2512.22905)|null|
+|**2025-12-28**|**JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation**|Kai Liu et.al.|[2512.22905](http://arxiv.org/abs/2512.22905)|**[link](https://github.com/JavisVerse/JavisGPT)**|
 |**2025-12-29**|**Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding**|Zhiwang Zhou et.al.|[2512.21643](http://arxiv.org/abs/2512.21643)|null|
 |**2025-12-30**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-22**|**OmniMER: Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation**|Xueming Yan et.al.|[2512.19379](http://arxiv.org/abs/2512.19379)|null|
@@ -527,7 +527,7 @@
 |**2025-11-27**|**OralGPT-Omni: A Versatile Dental Multimodal Large Language Model**|Jing Hao et.al.|[2511.22055](http://arxiv.org/abs/2511.22055)|null|
 |**2025-11-26**|**3MDiT: Unified Tri-Modal Diffusion Transformer for Text-Driven Synchronized Audio-Video Generation**|Yaoru Li et.al.|[2511.21780](http://arxiv.org/abs/2511.21780)|null|
 
-<p align=right>(<a href=#updated-on-20260102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
