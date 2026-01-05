@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -3105,10 +3105,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-30**|**AHA: Aligning Large Audio-Language Models for Reasoning Hallucinations via Counterfactual Hard Negatives**|Yanxi Chen et.al.|[2512.24052](http://arxiv.org/abs/2512.24052)|**[link](https://github.com/LLM-VLM-GSL/AHA)**|
+|**2025-12-30**|**AHA: Aligning Large Audio-Language Models for Reasoning Hallucinations via Counterfactual Hard Negatives**|Yanxi Chen et.al.|[2512.24052](http://arxiv.org/abs/2512.24052)|null|
 |**2025-12-30**|**Lectures on insulating and conducting quantum spin liquids**|Subir Sachdev et.al.|[2512.23962](http://arxiv.org/abs/2512.23962)|null|
 |**2025-12-29**|**PROFASR-BENCH: A Benchmark for Context-Conditioned ASR in High-Stakes Professional Speech**|Deepak Babu Piskala et.al.|[2512.23686](http://arxiv.org/abs/2512.23686)|null|
-|**2025-12-28**|**JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation**|Kai Liu et.al.|[2512.22905](http://arxiv.org/abs/2512.22905)|**[link](https://github.com/JavisVerse/JavisGPT)**|
+|**2025-12-28**|**JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation**|Kai Liu et.al.|[2512.22905](http://arxiv.org/abs/2512.22905)|null|
 |**2025-12-29**|**Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding**|Zhiwang Zhou et.al.|[2512.21643](http://arxiv.org/abs/2512.21643)|null|
 |**2025-12-30**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-22**|**OmniMER: Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation**|Xueming Yan et.al.|[2512.19379](http://arxiv.org/abs/2512.19379)|null|
