@@ -368,7 +368,7 @@
 |**2025-12-19**|**LUMIA: A Handheld Vision-to-Music System for Real-Time, Embodied Composition**|Chung-Ta Huang et.al.|[2512.17228](http://arxiv.org/abs/2512.17228)|null|
 |**2025-12-16**|**MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation**|Yash Vishe et.al.|[2512.14629](http://arxiv.org/abs/2512.14629)|null|
 |**2025-12-14**|**Procedural Music Generation Systems in Games**|Shangxuan Luo et.al.|[2512.12834](http://arxiv.org/abs/2512.12834)|null|
-|**2025-12-16**|**PhraseVAE and PhraseLDM: Latent Diffusion for Full-Song Multitrack Symbolic Music Generation**|Longshen Ou et.al.|[2512.11348](http://arxiv.org/abs/2512.11348)|null|
+|**2025-12-16**|**PhraseVAE and PhraseLDM: Latent Diffusion for Full-Song Multitrack Symbolic Music Generation**|Longshen Ou et.al.|[2512.11348](http://arxiv.org/abs/2512.11348)|**[link](https://github.com/Sonata165/PhraseLDM_code)**|
 |**2025-12-12**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
 |**2025-12-09**|**Emovectors: assessing emotional content in jazz improvisations for creativity evaluation**|Anna Jordanous et.al.|[2512.08812](http://arxiv.org/abs/2512.08812)|null|
 |**2025-12-03**|**A Convolutional Framework for Mapping Imagined Auditory MEG into Listened Brain Responses**|Maryam Maghsoudi et.al.|[2512.03458](http://arxiv.org/abs/2512.03458)|null|
