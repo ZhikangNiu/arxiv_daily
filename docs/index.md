@@ -2,19 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.14
+## Updated on 2026.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Search for Cosmic Ray Electron Boosted Dark Matter with the CDEX-10 Experiment**|R. Xu et.al.|[2601.08746](http://arxiv.org/abs/2601.08746)|null|
+|**2026-01-13**|**Decoding Order Matters in Autoregressive Speech Synthesis**|Minghui Zhao et.al.|[2601.08450](http://arxiv.org/abs/2601.08450)|null|
+|**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
+|**2026-01-12**|**LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing**|Surya Subramani et.al.|[2601.07958](http://arxiv.org/abs/2601.07958)|null|
 |**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
 |**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-12**|**Exclusive Decays of the Fully Heavy Tetraquarks into Light Mesons**|Feng Feng et.al.|[2601.07243](http://arxiv.org/abs/2601.07243)|null|
 |**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
 |**2026-01-11**|**Doing More with Less: Data Augmentation for Sudanese Dialect Automatic Speech Recognition**|Ayman Mansour et.al.|[2601.06802](http://arxiv.org/abs/2601.06802)|null|
-|**2026-01-11**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Changyu Liu et.al.|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
+|**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Changyu Liu et.al.|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
 |**2026-01-10**|**Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.|[2601.06560](http://arxiv.org/abs/2601.06560)|null|
 |**2026-01-10**|**3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**|Hao Tang et.al.|[2601.06496](http://arxiv.org/abs/2601.06496)|null|
 |**2026-01-10**|**Dynamics for a viscoelastic beam equation with past history and nonlocal boundary dissipation**|Linfang Liu et.al.|[2601.06414](http://arxiv.org/abs/2601.06414)|null|
@@ -756,6 +760,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Subspace Alignment for Vision-Language Model Test-time Adaptation**|Zhichen Zeng et.al.|[2601.08139](http://arxiv.org/abs/2601.08139)|null|
 |**2026-01-12**|**Backpropagation-Free Test-Time Adaptation for Lightweight EEG-Based Brain-Computer Interfaces**|Siyang Li et.al.|[2601.07556](http://arxiv.org/abs/2601.07556)|null|
 |**2026-01-11**|**MoEScore: Mixture-of-Experts-Based Text-Audio Relevance Score Prediction for Text-to-Audio System Evaluation**|Bochao Sun et.al.|[2601.06829](http://arxiv.org/abs/2601.06829)|null|
 |**2026-01-07**|**Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition**|Nia Touko et.al.|[2601.04181](http://arxiv.org/abs/2601.04181)|null|
@@ -1100,6 +1105,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
+|**2026-01-13**|**How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?**|Peng Gao et.al.|[2601.08133](http://arxiv.org/abs/2601.08133)|null|
 |**2026-01-12**|**A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**|Jiaqi Qiao et.al.|[2601.07565](http://arxiv.org/abs/2601.07565)|null|
 |**2026-01-12**|**Sentiment Analysis on Movie Reviews: A Deep Dive into Modern Techniques and Open Challenges**|Agnivo Gosai et.al.|[2601.07235](http://arxiv.org/abs/2601.07235)|null|
 |**2026-01-11**|**DaQ-MSA: Denoising and Qualifying Diffusion Augmentations for Multimodal Sentiment Analysis**|Jiazhang Liang et.al.|[2601.06870](http://arxiv.org/abs/2601.06870)|null|
@@ -1107,7 +1114,7 @@ layout: default
 |**2026-01-10**|**QMAVIS: Long Video-Audio Understanding using Fusion of Large Multimodal Models**|Zixing Lin et.al.|[2601.06573](http://arxiv.org/abs/2601.06573)|null|
 |**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra et.al.|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
 |**2026-01-08**|**Dynamic Thermal Feedback in Highly Immersive VR Scenarios: a Multimodal Analysis of User Experience**|Sophie Villenave et.al.|[2601.04781](http://arxiv.org/abs/2601.04781)|null|
-|**2026-01-07**|**Klear: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
+|**2026-01-13**|**Apollo: Unified Multi-Task Audio-Video Joint Generation**|Jun Wang et.al.|[2601.04151](http://arxiv.org/abs/2601.04151)|null|
 |**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
 |**2026-01-06**|**Vclip: Face-based Speaker Generation by Face-voice Association Learning**|Yao Shi et.al.|[2601.02753](http://arxiv.org/abs/2601.02753)|null|
 |**2026-01-06**|**Omni2Sound: Towards Unified Video-Text-to-Audio Generation**|Yusheng Dai et.al.|[2601.02731](http://arxiv.org/abs/2601.02731)|null|
@@ -1514,6 +1521,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Motion Attribution for Video Generation**|Xindi Wu et.al.|[2601.08828](http://arxiv.org/abs/2601.08828)|null|
 |**2026-01-12**|**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**|Kewei Zhang et.al.|[2601.07832](http://arxiv.org/abs/2601.07832)|null|
 |**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers**|Guantao Chen et.al.|[2601.07396](http://arxiv.org/abs/2601.07396)|null|
@@ -2174,6 +2182,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Aggregating Diverse Cue Experts for AI-Generated Image Detection**|Lei Tan et.al.|[2601.08790](http://arxiv.org/abs/2601.08790)|null|
+|**2026-01-13**|**SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models**|Renyang Liu et.al.|[2601.08623](http://arxiv.org/abs/2601.08623)|null|
+|**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
+|**2026-01-13**|**IGAN: A New Inception-based Model for Stable and High-Fidelity Image Synthesis Using Generative Adversarial Networks**|Ahmed A. Hashim et.al.|[2601.08332](http://arxiv.org/abs/2601.08332)|null|
+|**2026-01-13**|**UM-Text: A Unified Multimodal Model for Image Understanding**|Lichen Ma et.al.|[2601.08321](http://arxiv.org/abs/2601.08321)|null|
+|**2026-01-13**|**SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices**|Dongting Hu et.al.|[2601.08303](http://arxiv.org/abs/2601.08303)|null|
 |**2026-01-12**|**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**|Kewei Zhang et.al.|[2601.07832](http://arxiv.org/abs/2601.07832)|null|
 |**2026-01-12**|**Evaluating the encoding competence of visual language models using uncommon actions**|Chen Ling et.al.|[2601.07737](http://arxiv.org/abs/2601.07737)|null|
 |**2026-01-12**|**GenDet: Painting Colored Bounding Boxes on Images via Diffusion Model for Object Detection**|Chen Min et.al.|[2601.07273](http://arxiv.org/abs/2601.07273)|null|
@@ -3283,6 +3297,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
+|**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
+|**2026-01-13**|**Meta-Backscatter: Long-Distance Battery-Free Metamaterial-Backscatter Sensing and Communication**|Taorui Liu et.al.|[2601.08307](http://arxiv.org/abs/2601.08307)|null|
 |**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
 |**2026-01-12**|**SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models**|Yuanhe Zhang et.al.|[2601.07331](http://arxiv.org/abs/2601.07331)|null|
 |**2026-01-11**|**TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding**|Mingyue Huo et.al.|[2601.06896](http://arxiv.org/abs/2601.06896)|null|
