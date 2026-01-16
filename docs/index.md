@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
 |**2026-01-13**|**Search for Cosmic Ray Electron Boosted Dark Matter with the CDEX-10 Experiment**|R. Xu et.al.|[2601.08746](http://arxiv.org/abs/2601.08746)|null|
 |**2026-01-13**|**Decoding Order Matters in Autoregressive Speech Synthesis**|Minghui Zhao et.al.|[2601.08450](http://arxiv.org/abs/2601.08450)|null|
 |**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
@@ -613,6 +614,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Research on Piano Timbre Transformation System Based on Diffusion Model**|Chun-Chieh Hsu et.al.|[2601.09333](http://arxiv.org/abs/2601.09333)|null|
 |**2026-01-12**|**The ICASSP 2026 Automatic Song Aesthetics Evaluation Challenge**|Guobin Ma et.al.|[2601.07237](http://arxiv.org/abs/2601.07237)|null|
 |**2025-12-26**|**Predictive Controlled Music**|Midhun T. Augustine et.al.|[2601.04221](http://arxiv.org/abs/2601.04221)|null|
 |**2026-01-07**|**Mathematical Foundations of Polyphonic Music Generation via Structural Inductive Bias**|Joonwon Seo et.al.|[2601.03612](http://arxiv.org/abs/2601.03612)|null|
@@ -1105,10 +1107,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**MCGA: A Multi-task Classical Chinese Literary Genre Audio Corpus**|Yexing Du et.al.|[2601.09270](http://arxiv.org/abs/2601.09270)|null|
+|**2026-01-12**|**Semantic visually-guided acoustic highlighting with large vision-language models**|Junhua Huang et.al.|[2601.08871](http://arxiv.org/abs/2601.08871)|null|
+|**2026-01-11**|**Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**|Yi Wang et.al.|[2601.08868](http://arxiv.org/abs/2601.08868)|null|
 |**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
 |**2026-01-13**|**How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?**|Peng Gao et.al.|[2601.08133](http://arxiv.org/abs/2601.08133)|null|
 |**2026-01-12**|**A Unified Framework for Emotion Recognition and Sentiment Analysis via Expert-Guided Multimodal Fusion with Large Language Models**|Jiaqi Qiao et.al.|[2601.07565](http://arxiv.org/abs/2601.07565)|null|
-|**2026-01-12**|**Sentiment Analysis on Movie Reviews: A Deep Dive into Modern Techniques and Open Challenges**|Agnivo Gosai et.al.|[2601.07235](http://arxiv.org/abs/2601.07235)|null|
+|**2026-01-14**|**Sentiment Analysis on Movie Reviews: A Deep Dive into Modern Techniques and Open Challenges**|Agnivo Gosai et.al.|[2601.07235](http://arxiv.org/abs/2601.07235)|null|
 |**2026-01-11**|**DaQ-MSA: Denoising and Qualifying Diffusion Augmentations for Multimodal Sentiment Analysis**|Jiazhang Liang et.al.|[2601.06870](http://arxiv.org/abs/2601.06870)|null|
 |**2026-01-11**|**AutoTour: Automatic Photo Tour Guide with Smartphones and LLMs**|Huatao Xu et.al.|[2601.06781](http://arxiv.org/abs/2601.06781)|null|
 |**2026-01-10**|**QMAVIS: Long Video-Audio Understanding using Fusion of Large Multimodal Models**|Zixing Lin et.al.|[2601.06573](http://arxiv.org/abs/2601.06573)|null|
@@ -1521,12 +1526,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering**|Jieying Chen et.al.|[2601.09697](http://arxiv.org/abs/2601.09697)|null|
+|**2026-01-14**|**PhyRPR: Training-Free Physics-Constrained Video Generation**|Yibo Zhao et.al.|[2601.09255](http://arxiv.org/abs/2601.09255)|null|
 |**2026-01-13**|**Motion Attribution for Video Generation**|Xindi Wu et.al.|[2601.08828](http://arxiv.org/abs/2601.08828)|null|
-|**2026-01-12**|**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**|Kewei Zhang et.al.|[2601.07832](http://arxiv.org/abs/2601.07832)|null|
+|**2026-01-14**|**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**|Kewei Zhang et.al.|[2601.07832](http://arxiv.org/abs/2601.07832)|null|
 |**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers**|Guantao Chen et.al.|[2601.07396](http://arxiv.org/abs/2601.07396)|null|
 |**2026-01-09**|**Perception Test 2025: Challenge Summary and a Unified VQA Extension**|Joseph Heyward et.al.|[2601.06287](http://arxiv.org/abs/2601.06287)|null|
-|**2026-01-09**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
+|**2026-01-14**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
 |**2026-01-09**|**Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals**|Nate Gillman et.al.|[2601.05848](http://arxiv.org/abs/2601.05848)|null|
 |**2026-01-09**|**TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment**|Jin Wang et.al.|[2601.05729](http://arxiv.org/abs/2601.05729)|null|
 |**2026-01-09**|**Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation**|Jin Wang et.al.|[2601.05722](http://arxiv.org/abs/2601.05722)|null|
@@ -2182,6 +2189,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Identifying Models Behind Text-to-Image Leaderboards**|Ali Naseh et.al.|[2601.09647](http://arxiv.org/abs/2601.09647)|null|
+|**2026-01-14**|**Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning**|Dongjie Cheng et.al.|[2601.09536](http://arxiv.org/abs/2601.09536)|null|
+|**2026-01-14**|**PhyRPR: Training-Free Physics-Constrained Video Generation**|Yibo Zhao et.al.|[2601.09255](http://arxiv.org/abs/2601.09255)|null|
+|**2026-01-14**|**Knowledge-Embedded and Hypernetwork-Guided Few-Shot Substation Meter Defect Image Generation Method**|Jackie Alex et.al.|[2601.09238](http://arxiv.org/abs/2601.09238)|null|
+|**2026-01-14**|**SpikeVAEDiff: Neural Spike-based Natural Visual Scene Reconstruction via VD-VAE and Versatile Diffusion**|Jialu Li et.al.|[2601.09213](http://arxiv.org/abs/2601.09213)|null|
+|**2026-01-14**|**Annealed Relaxation of Speculative Decoding for Faster Autoregressive Image Generation**|Xingyao Li et.al.|[2601.09212](http://arxiv.org/abs/2601.09212)|null|
+|**2026-01-14**|**Architecture inside the mirage: evaluating generative image models on architectural style, elements, and typologies**|Jamie Magrill et.al.|[2601.09169](http://arxiv.org/abs/2601.09169)|null|
+|**2026-01-14**|**How Many Human Judgments Are Enough? Feasibility Limits of Human Preference Evaluation**|Wilson Y. Lee et.al.|[2601.09084](http://arxiv.org/abs/2601.09084)|null|
 |**2026-01-13**|**Aggregating Diverse Cue Experts for AI-Generated Image Detection**|Lei Tan et.al.|[2601.08790](http://arxiv.org/abs/2601.08790)|null|
 |**2026-01-13**|**SafeRedir: Prompt Embedding Redirection for Robust Unlearning in Image Generation Models**|Renyang Liu et.al.|[2601.08623](http://arxiv.org/abs/2601.08623)|null|
 |**2026-01-13**|**Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs**|Takara Taniguchi et.al.|[2601.08470](http://arxiv.org/abs/2601.08470)|null|
@@ -3096,6 +3111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**DSA-Tokenizer: Disentangled Semantic-Acoustic Tokenization via Flow Matching-based Hierarchical Fusion**|Hanlin Zhang et.al.|[2601.09239](http://arxiv.org/abs/2601.09239)|null|
 |**2026-01-09**|**On the Fallacy of Global Token Perplexity in Spoken Language Model Evaluation**|Jeff Chan-Jan Sju et.al.|[2601.06329](http://arxiv.org/abs/2601.06329)|null|
 |**2026-01-09**|**Discriminative-Generative Target Speaker Extraction with Decoder-Only Language Models**|Bang Zeng et.al.|[2601.06006](http://arxiv.org/abs/2601.06006)|null|
 |**2026-01-04**|**SmoothSync: Dual-Stream Diffusion Transformers for Jitter-Robust Beat-Synchronized Gesture Generation from Quantized Audio**|Yujiao Jiang et.al.|[2601.04236](http://arxiv.org/abs/2601.04236)|null|
@@ -3297,6 +3313,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning**|Dongjie Cheng et.al.|[2601.09536](http://arxiv.org/abs/2601.09536)|null|
+|**2026-01-14**|**Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception**|Zhen Wan et.al.|[2601.09413](http://arxiv.org/abs/2601.09413)|null|
 |**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
 |**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
 |**2026-01-13**|**Meta-Backscatter: Long-Distance Battery-Free Metamaterial-Backscatter Sensing and Communication**|Taorui Liu et.al.|[2601.08307](http://arxiv.org/abs/2601.08307)|null|
