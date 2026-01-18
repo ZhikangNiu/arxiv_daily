@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.17
+## Updated on 2026.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-15**|**VoiceSculptor: Your Voice, Designed By You**|Jingbin Hu et.al.|[2601.10629](http://arxiv.org/abs/2601.10629)|null|
-|**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
+|**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|**[link](https://github.com/NUS-HPC-AI-Lab/MoST)**|
 |**2026-01-15**|**Pulse thermal imaging of FUHAO bronze artifact**|Li Wang et.al.|[2601.10265](http://arxiv.org/abs/2601.10265)|null|
 |**2026-01-15**|**STEAMROLLER: A Multi-Agent System for Inclusive Automatic Speech Recognition for People who Stutter**|Ziqi Xu et.al.|[2601.10223](http://arxiv.org/abs/2601.10223)|null|
 |**2026-01-15**|**Memo-SQL: Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL**|Zerui Yang et.al.|[2601.10011](http://arxiv.org/abs/2601.10011)|null|
