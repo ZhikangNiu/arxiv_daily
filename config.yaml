@@ -25,17 +25,21 @@ keywords:
     "Text to Speech":
         filters: ["TTS", "Speech Synthesis", "Text to Speech", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
     "Music Generation":
-        filters: ["Music Generation", "Text to Music", "Music Editing"]
+        filters: ["Music Generation", "Text to Music"]
     "Text to Audio":
         filters: ["Text to Audio", "TTA", "Audio Generation", "Audio Synthesis"]
     "Video to Audio":
         filters: ["Video to Audio", "V2A", "Audio-Visual", "Video Dubbing"]
     "Voice Conversion":
         filters: ["Voice Conversion", "VC", "Voice Cloning", "Voice Morphing"]
+    "Editing":
+        filters: ["Speech Editing", "Audio Editing", "Music Editing"]
     "Video Generation":
-        filters: ["Video Generation", "T2V","Video Synthesis", "Video Editing"]
+        filters: ["Video Generation", "T2V","Video Synthesis"]
     "Image Generation":
-        filters: ["Image Generation", "T2I", "Image Synthesis", "Image Editing"]
+        filters: ["Image Generation", "T2I", "Image Synthesis"]
+    "CV Editing":
+        filters: ["Video Editing", "Image Editing"]
     "Audio Codec":
         filters: ["Audio Codec", "Audio tokenizer", "Speech tokenizer", "Speech codec", "Speech codecs"]
     "Large Audio Language Model":
