@@ -1,4 +1,4 @@
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -71,7 +71,7 @@
 |**2026-01-05**|**TT-FSI: Scalable Faithful Shapley Interactions via Tensor-Train**|Ungsik Kim et.al.|[2601.01903](http://arxiv.org/abs/2601.01903)|null|
 |**2026-01-05**|**A Training-Free Large Reasoning Model-based Knowledge Tracing Framework for Unified Prediction and Prescription**|Unggi Lee et.al.|[2601.01708](http://arxiv.org/abs/2601.01708)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -128,7 +128,7 @@
 |**2025-12-04**|**DreamFoley: Scalable VLMs for High-Fidelity Video-to-Audio Generation**|Fu Li et.al.|[2512.06022](http://arxiv.org/abs/2512.06022)|null|
 |**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -185,7 +185,7 @@
 |**2025-12-16**|**Adaptive Multimodal Person Recognition: A Robust Framework for Handling Missing Modalities**|Aref Farhadipour et.al.|[2512.14961](http://arxiv.org/abs/2512.14961)|null|
 |**2025-12-16**|**TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation**|Zhenzhi Wang et.al.|[2512.14938](http://arxiv.org/abs/2512.14938)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -242,7 +242,7 @@
 |**2025-11-23**|**Emotion-Aware Conversational Recommender Systems: a Case Study**|Maria Stella Albarelli et.al.|[2511.18548](http://arxiv.org/abs/2511.18548)|null|
 |**2025-11-23**|**A Multimodal Conversational Agent for Tabular Data Analysis**|Mohammad Nour Al Awad et.al.|[2511.18405](http://arxiv.org/abs/2511.18405)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Video Generation
 
@@ -299,7 +299,7 @@
 |**2026-01-02**|**VEAT Quantifies Implicit Associations in Text-to-Video Generator Sora and Reveals Challenges in Bias Mitigation**|Yongxu Sun et.al.|[2601.00996](http://arxiv.org/abs/2601.00996)|null|
 |**2026-01-02**|**AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction**|Jiewen Chan et.al.|[2601.00796](http://arxiv.org/abs/2601.00796)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Image Generation
 
@@ -356,7 +356,7 @@
 |**2026-01-07**|**GeoDiff-SAR: A Geometric Prior Guided Diffusion Model for SAR Image Generation**|Fan Zhang et.al.|[2601.03499](http://arxiv.org/abs/2601.03499)|null|
 |**2026-01-06**|**Understanding Reward Hacking in Text-to-Image Reinforcement Learning**|Yunqi Hong et.al.|[2601.03468](http://arxiv.org/abs/2601.03468)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Music Generation
 
@@ -413,7 +413,7 @@
 |**2025-11-18**|**MuCPT: Music-related Natural Language Model Continued Pretraining**|Kai Tian et.al.|[2511.14245](http://arxiv.org/abs/2511.14245)|null|
 |**2025-11-17**|**Artificial Intelligence Agents in Music Analysis: An Integrative Perspective Based on Two Use Cases**|Antonio Manuel Martínez-Heredia et.al.|[2511.13987](http://arxiv.org/abs/2511.13987)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -470,7 +470,7 @@
 |**2025-11-20**|**Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs**|Wei-Cheng Tseng et.al.|[2511.16639](http://arxiv.org/abs/2511.16639)|null|
 |**2025-11-20**|**SUNAC: Source-aware Unified Neural Audio Codec**|Ryo Aihara et.al.|[2511.16126](http://arxiv.org/abs/2511.16126)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -527,7 +527,7 @@
 |**2025-12-15**|**Towards Interactive Intelligence for Digital Humans**|Yiyi Cai et.al.|[2512.13674](http://arxiv.org/abs/2512.13674)|null|
 |**2025-12-14**|**JointAVBench: A Benchmark for Joint Audio-Visual Reasoning Evaluation**|Jianghan Chao et.al.|[2512.12772](http://arxiv.org/abs/2512.12772)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
