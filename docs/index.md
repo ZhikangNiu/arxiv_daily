@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Rethinking Discrete Speech Representation Tokens for Accent Generation**|Jinzuomu Zhong et.al.|[2601.19786](http://arxiv.org/abs/2601.19786)|null|
+|**2026-01-27**|**Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means**|Kentaro Onda et.al.|[2601.19781](http://arxiv.org/abs/2601.19781)|null|
+|**2026-01-27**|**Atomic and Electronic Structure of Strongly Charged Domain Walls in van der Waals α-In $_2$Se$_3$**|Gillian Nolan et.al.|[2601.19137](http://arxiv.org/abs/2601.19137)|null|
+|**2026-01-26**|**Tensorized Discontinuous Isogeometric Analysis Method for the 2-D Time-Independent Linearized Boltzmann Transport Equation**|Patrick A. Myers et.al.|[2601.18925](http://arxiv.org/abs/2601.18925)|null|
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
 |**2026-01-26**|**Global Optimization of Atomic Clusters via Physically-Constrained Tensor Train Decomposition**|Konstantin Sozykin et.al.|[2601.18592](http://arxiv.org/abs/2601.18592)|null|
 |**2026-01-26**|**UrgentMOS: Unified Multi-Metric and Preference Learning for Robust Speech Quality Assessment**|Wei Wang et.al.|[2601.18438](http://arxiv.org/abs/2601.18438)|null|
@@ -805,6 +809,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Speed is Confidence**|Joshua V. Dillon et.al.|[2601.19085](http://arxiv.org/abs/2601.19085)|null|
 |**2026-01-26**|**MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data**|Brian Liu et.al.|[2601.18792](http://arxiv.org/abs/2601.18792)|null|
 |**2026-01-25**|**Quran-MD: A Fine-Grained Multilingual Multimodal Dataset of the Quran**|Muhammad Umar Salman et.al.|[2601.17880](http://arxiv.org/abs/2601.17880)|null|
 |**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](http://arxiv.org/abs/2601.16240)|null|
@@ -1166,6 +1171,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering**|Kun Li et.al.|[2601.19821](http://arxiv.org/abs/2601.19821)|null|
+|**2026-01-27**|**SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation**|Helin Wang et.al.|[2601.19702](http://arxiv.org/abs/2601.19702)|null|
+|**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
+|**2026-01-27**|**Beyond Lips: Integrating Gesture and Lip Cues for Robust Audio-visual Speaker Extraction**|Zexu Pan et.al.|[2601.19130](http://arxiv.org/abs/2601.19130)|null|
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](http://arxiv.org/abs/2601.18393)|null|
@@ -1413,11 +1422,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Rethinking Discrete Speech Representation Tokens for Accent Generation**|Jinzuomu Zhong et.al.|[2601.19786](http://arxiv.org/abs/2601.19786)|null|
+|**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
+|**2026-01-27**|**QA-ReID: Quality-Aware Query-Adaptive Convolution Leveraging Fused Global and Structural Cues for Clothes-Changing ReID**|Yuxiang Wang et.al.|[2601.19133](http://arxiv.org/abs/2601.19133)|null|
+|**2026-01-26**|**Neural Theorem Proving for Verification Conditions: A Real-World Benchmark**|Qiyuan Xu et.al.|[2601.18944](http://arxiv.org/abs/2601.18944)|null|
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
 |**2026-01-26**|**Uniform Computability of PAC Learning**|Vasco Brattka et.al.|[2601.18663](http://arxiv.org/abs/2601.18663)|null|
 |**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](http://arxiv.org/abs/2601.18094)|null|
 |**2026-01-23**|**Group-realizable multi-group learning by minimizing empirical risk**|Navid Ardeshir et.al.|[2601.16922](http://arxiv.org/abs/2601.16922)|null|
-|**2026-01-23**|**Predicting Startup Success Using Large Language Models: A Novel In-Context Learning Approach**|Abdurahman Maarouf et.al.|[2601.16568](http://arxiv.org/abs/2601.16568)|null|
+|**2026-01-27**|**Predicting Startup Success Using Large Language Models: A Novel In-Context Learning Approach**|Abdurahman Maarouf et.al.|[2601.16568](http://arxiv.org/abs/2601.16568)|null|
 |**2026-01-23**|**A Refinement of Vapnik--Chervonenkis' Theorem**|A. Iosevich et.al.|[2601.16411](http://arxiv.org/abs/2601.16411)|null|
 |**2026-01-22**|**Qwen3-TTS Technical Report**|Hangrui Hu et.al.|[2601.15621](http://arxiv.org/abs/2601.15621)|null|
 |**2026-01-21**|**Learning from Synthetic Data: Limitations of ERM**|Kareem Amin et.al.|[2601.15468](http://arxiv.org/abs/2601.15468)|null|
@@ -1631,11 +1644,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**|Yizhao Han et.al.|[2601.19488](http://arxiv.org/abs/2601.19488)|null|
+|**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
+|**2026-01-26**|**FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Geometry-Complete 4D Reconstruction**|Wei Cao et.al.|[2601.18993](http://arxiv.org/abs/2601.18993)|null|
 |**2026-01-26**|**Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**|Xiao Liu et.al.|[2601.18698](http://arxiv.org/abs/2601.18698)|null|
 |**2026-01-26**|**Self-Refining Video Sampling**|Sangwon Jang et.al.|[2601.18577](http://arxiv.org/abs/2601.18577)|null|
 |**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
-|**2026-01-25**|**MV-S2V: Multi-View Subject-Consistent Video Generation**|Ziyang Song et.al.|[2601.17756](http://arxiv.org/abs/2601.17756)|null|
-|**2026-01-25**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
+|**2026-01-27**|**MV-S2V: Multi-View Subject-Consistent Video Generation**|Ziyang Song et.al.|[2601.17756](http://arxiv.org/abs/2601.17756)|null|
+|**2026-01-27**|**The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation**|Chenyu Mu et.al.|[2601.17737](http://arxiv.org/abs/2601.17737)|null|
 |**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
 |**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982](http://arxiv.org/abs/2601.16982)|null|
 |**2026-01-23**|**Reward-Forcing: Autoregressive Video Generation with Reward Feedback**|Jingran Zhang et.al.|[2601.16933](http://arxiv.org/abs/2601.16933)|null|
@@ -2327,6 +2343,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Cortex-Grounded Diffusion Models for Brain Image Generation**|Fabian Bongratz et.al.|[2601.19498](http://arxiv.org/abs/2601.19498)|null|
+|**2026-01-27**|**CLIP-Guided Unsupervised Semantic-Aware Exposure Correction**|Puzhen Wu et.al.|[2601.19129](http://arxiv.org/abs/2601.19129)|null|
+|**2026-01-27**|**FBSDiff++: Improved Frequency Band Substitution of Diffusion Features for Efficient and Highly Controllable Text-Driven Image-to-Image Translation**|Xiang Gao et.al.|[2601.19115](http://arxiv.org/abs/2601.19115)|null|
+|**2026-01-26**|**Pay Attention to Where You Look**|Alex Beriand et.al.|[2601.18970](http://arxiv.org/abs/2601.18970)|null|
+|**2026-01-26**|**Advances in Diffusion-Based Generative Compression**|Yibo Yang et.al.|[2601.18932](http://arxiv.org/abs/2601.18932)|null|
+|**2026-01-26**|**SelfieAvatar: Real-time Head Avatar reenactment from a Selfie Video**|Wei Liang et.al.|[2601.18851](http://arxiv.org/abs/2601.18851)|null|
 |**2026-01-26**|**GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization**|Chenxi Liu et.al.|[2601.18585](http://arxiv.org/abs/2601.18585)|null|
 |**2026-01-26**|**GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning**|Kaixun Jiang et.al.|[2601.18543](http://arxiv.org/abs/2601.18543)|null|
 |**2026-01-25**|**RemEdit: Efficient Diffusion Editing with Riemannian Geometry**|Eashan Adhikarla et.al.|[2601.17927](http://arxiv.org/abs/2601.17927)|null|
@@ -3304,7 +3326,7 @@ layout: default
 |**2026-01-22**|**Qwen3-TTS Technical Report**|Hangrui Hu et.al.|[2601.15621](http://arxiv.org/abs/2601.15621)|null|
 |**2026-01-22**|**DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice**|Leying Zhang et.al.|[2601.15596](http://arxiv.org/abs/2601.15596)|null|
 |**2026-01-21**|**VCNAC: A Variable-Channel Neural Audio Codec for Mono, Stereo, and Surround Sound**|Florian Grötschla et.al.|[2601.14960](http://arxiv.org/abs/2601.14960)|null|
-|**2026-01-20**|**Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models**|Nikita Kuzmin et.al.|[2601.13948](http://arxiv.org/abs/2601.13948)|null|
+|**2026-01-27**|**Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models**|Nikita Kuzmin et.al.|[2601.13948](http://arxiv.org/abs/2601.13948)|null|
 |**2026-01-19**|**VoCodec: An Efficient Lightweight Low-Bitrate Speech Codec**|Leyan Yang et.al.|[2601.13055](http://arxiv.org/abs/2601.13055)|null|
 |**2026-01-19**|**CodeSep: Low-Bitrate Codec-Driven Speech Separation with Base-Token Disentanglement and Auxiliary-Token Serial Prediction**|Hui-Peng Du et.al.|[2601.12757](http://arxiv.org/abs/2601.12757)|null|
 |**2026-01-18**|**Do Neural Codecs Generalize? A Controlled Study Across Unseen Languages and Non-Speech Tasks**|Shih-Heng Wang et.al.|[2601.12205](http://arxiv.org/abs/2601.12205)|null|
@@ -3512,6 +3534,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Benchmarks Saturate When The Model Gets Smarter Than The Judge**|Marthe Ballon et.al.|[2601.19532](http://arxiv.org/abs/2601.19532)|null|
 |**2026-01-25**|**AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation**|Dongjie Cheng et.al.|[2601.17761](http://arxiv.org/abs/2601.17761)|null|
 |**2026-01-23**|**Omni-directional attention mechanism based on Mamba for speech separation**|Ke Xue et.al.|[2601.16603](http://arxiv.org/abs/2601.16603)|null|
 |**2026-01-23**|**CORD: Bridging the Audio-Text Reasoning Gap via Weighted On-policy Cross-modal Distillation**|Jing Hu et.al.|[2601.16547](http://arxiv.org/abs/2601.16547)|null|
@@ -3852,6 +3875,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
+|**2026-01-27**|**SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing**|Lifan Jiang et.al.|[2601.19180](http://arxiv.org/abs/2601.19180)|null|
 |**2026-01-26**|**Beyond Rigid: Benchmarking Non-Rigid Video Editing**|Bingzheng Qu et.al.|[2601.18340](http://arxiv.org/abs/2601.18340)|null|
 |**2026-01-25**|**RemEdit: Efficient Diffusion Editing with Riemannian Geometry**|Eashan Adhikarla et.al.|[2601.17927](http://arxiv.org/abs/2601.17927)|null|
 |**2026-01-24**|**AlignUI: A Method for Designing LLM-Generated UIs Aligned with User Preferences**|Yimeng Liu et.al.|[2601.17614](http://arxiv.org/abs/2601.17614)|null|
