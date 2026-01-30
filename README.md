@@ -1,4 +1,4 @@
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Geometric purity and the frame of smashing ideals**|Juan Omar Gómez et.al.|[2601.20744](http://arxiv.org/abs/2601.20744)|null|
+|**2026-01-28**|**Audio Deepfake Detection in the Age of Advanced Text-to-Speech models**|Robin Singh et.al.|[2601.20510](http://arxiv.org/abs/2601.20510)|null|
+|**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481](http://arxiv.org/abs/2601.20481)|null|
+|**2026-01-28**|**ASR for Affective Speech: Investigating Impact of Emotion and Speech Generative Strategy**|Ya-Tse Wu et.al.|[2601.20319](http://arxiv.org/abs/2601.20319)|null|
+|**2026-01-28**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
+|**2026-01-27**|**T-Mimi: A Transformer-based Mimi Decoder for Real-Time On-Phone TTS**|Haibin Wu et.al.|[2601.20094](http://arxiv.org/abs/2601.20094)|null|
 |**2026-01-27**|**Rethinking Discrete Speech Representation Tokens for Accent Generation**|Jinzuomu Zhong et.al.|[2601.19786](http://arxiv.org/abs/2601.19786)|null|
 |**2026-01-27**|**Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means**|Kentaro Onda et.al.|[2601.19781](http://arxiv.org/abs/2601.19781)|null|
 |**2026-01-27**|**Atomic and Electronic Structure of Strongly Charged Domain Walls in van der Waals α-In $_2$Se$_3$**|Gillian Nolan et.al.|[2601.19137](http://arxiv.org/abs/2601.19137)|null|
@@ -66,19 +72,15 @@
 |**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
 |**2026-01-12**|**LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing**|Surya Subramani et.al.|[2601.07958](http://arxiv.org/abs/2601.07958)|null|
 |**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
-|**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
-|**2026-01-12**|**Exclusive Decays of the Fully Heavy Tetraquarks into Light Mesons**|Feng Feng et.al.|[2601.07243](http://arxiv.org/abs/2601.07243)|null|
-|**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
-|**2026-01-11**|**Doing More with Less: Data Augmentation for Sudanese Dialect Automatic Speech Recognition**|Ayman Mansour et.al.|[2601.06802](http://arxiv.org/abs/2601.06802)|null|
-|**2026-01-13**|**On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning**|Changyu Liu et.al.|[2601.06748](http://arxiv.org/abs/2601.06748)|null|
-|**2026-01-10**|**Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.|[2601.06560](http://arxiv.org/abs/2601.06560)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Text to Audio
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Mix2Morph: Learning Sound Morphing from Noisy Mixes**|Annie Chu et.al.|[2601.20426](http://arxiv.org/abs/2601.20426)|null|
+|**2026-01-28**|**Test-Time Adaptation for Anomaly Segmentation via Topology-Aware Optimal Transport Chaining**|Ali Zia et.al.|[2601.20333](http://arxiv.org/abs/2601.20333)|null|
 |**2026-01-27**|**Speed is Confidence**|Joshua V. Dillon et.al.|[2601.19085](http://arxiv.org/abs/2601.19085)|null|
 |**2026-01-26**|**MEGnifying Emotion: Sentiment Analysis from Annotated Brain Data**|Brian Liu et.al.|[2601.18792](http://arxiv.org/abs/2601.18792)|null|
 |**2026-01-25**|**Quran-MD: A Fine-Grained Multilingual Multimodal Dataset of the Quran**|Muhammad Umar Salman et.al.|[2601.17880](http://arxiv.org/abs/2601.17880)|null|
@@ -127,15 +129,14 @@
 |**2025-12-13**|**UniMark: Artificial Intelligence Generated Content Identification Toolkit**|Meilin Li et.al.|[2512.12324](http://arxiv.org/abs/2512.12324)|null|
 |**2025-12-12**|**Uncertainty-Aware Domain Adaptation for Vitiligo Segmentation in Clinical Photographs**|Wentao Jiang et.al.|[2512.11791](http://arxiv.org/abs/2512.11791)|null|
 |**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[2512.10945](http://arxiv.org/abs/2512.10945)|null|
-|**2025-12-11**|**Neural Collapse in Test-Time Adaptation**|Xiao Chen et.al.|[2512.10421](http://arxiv.org/abs/2512.10421)|null|
-|**2025-12-12**|**MR-FlowDPO: Multi-Reward Direct Preference Optimization for Flow-Matching Text-to-Music Generation**|Alon Ziv et.al.|[2512.10264](http://arxiv.org/abs/2512.10264)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Video to Audio
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**The Sound of Noise: Leveraging the Inductive Bias of Pre-trained Audio Transformers for Glitch Identification in LIGO**|Suyash Deshmukh et.al.|[2601.20034](http://arxiv.org/abs/2601.20034)|null|
 |**2026-01-27**|**Query-Guided Spatial-Temporal-Frequency Interaction for Music Audio-Visual Question Answering**|Kun Li et.al.|[2601.19821](http://arxiv.org/abs/2601.19821)|null|
 |**2026-01-27**|**SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation**|Helin Wang et.al.|[2601.19702](http://arxiv.org/abs/2601.19702)|null|
 |**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
@@ -185,18 +186,18 @@
 |**2026-01-06**|**LTX-2: Efficient Joint Audio-Visual Foundation Model**|Yoav HaCohen et.al.|[2601.03233](http://arxiv.org/abs/2601.03233)|null|
 |**2026-01-06**|**Vclip: Face-based Speaker Generation by Face-voice Association Learning**|Yao Shi et.al.|[2601.02753](http://arxiv.org/abs/2601.02753)|null|
 |**2026-01-06**|**Omni2Sound: Towards Unified Video-Text-to-Audio Generation**|Yusheng Dai et.al.|[2601.02731](http://arxiv.org/abs/2601.02731)|null|
-|**2026-01-06**|**Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction**|Arman Nik Khah et.al.|[2601.02629](http://arxiv.org/abs/2601.02629)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Voice Conversion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Self Voice Conversion as an Attack against Neural Audio Watermarking**|Yigitcan Özer et.al.|[2601.20432](http://arxiv.org/abs/2601.20432)|null|
 |**2026-01-27**|**Rethinking Discrete Speech Representation Tokens for Accent Generation**|Jinzuomu Zhong et.al.|[2601.19786](http://arxiv.org/abs/2601.19786)|null|
 |**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
 |**2026-01-27**|**QA-ReID: Quality-Aware Query-Adaptive Convolution Leveraging Fused Global and Structural Cues for Clothes-Changing ReID**|Yuxiang Wang et.al.|[2601.19133](http://arxiv.org/abs/2601.19133)|null|
-|**2026-01-26**|**Neural Theorem Proving for Verification Conditions: A Real-World Benchmark**|Qiyuan Xu et.al.|[2601.18944](http://arxiv.org/abs/2601.18944)|null|
+|**2026-01-28**|**Neural Theorem Proving for Verification Conditions: A Real-World Benchmark**|Qiyuan Xu et.al.|[2601.18944](http://arxiv.org/abs/2601.18944)|null|
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
 |**2026-01-26**|**Uniform Computability of PAC Learning**|Vasco Brattka et.al.|[2601.18663](http://arxiv.org/abs/2601.18663)|null|
 |**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](http://arxiv.org/abs/2601.18094)|null|
@@ -242,14 +243,21 @@
 |**2025-12-14**|**Learning with Structure: Computing Consistent Subsets on Structurally-Regular Graphs**|Aritra Banik et.al.|[2512.12860](http://arxiv.org/abs/2512.12860)|null|
 |**2025-12-13**|**F5-TTS-RO: Extending F5-TTS to Romanian TTS via Lightweight Input Adaptation**|Radu-Gabriel Chivereanu et.al.|[2512.12297](http://arxiv.org/abs/2512.12297)|null|
 |**2025-12-13**|**A comparative study of generative models for child voice conversion**|Protima Nomo Sudro et.al.|[2512.12129](http://arxiv.org/abs/2512.12129)|null|
-|**2025-12-11**|**Vibe Coding in Practice: Flow, Technical Debt, and Guidelines for Sustainable Use**|Muhammad Waseem et.al.|[2512.11922](http://arxiv.org/abs/2512.11922)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models**|Haonan Zhong et.al.|[2601.20791](http://arxiv.org/abs/2601.20791)|null|
+|**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|June Chen et.al.|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
+|**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Boyu Li et.al.|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
+|**2026-01-28**|**Advancing Open-source World Models**|Robbyant Team et.al.|[2601.20540](http://arxiv.org/abs/2601.20540)|null|
+|**2026-01-28**|**Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V**|Meiqi Wu et.al.|[2601.20504](http://arxiv.org/abs/2601.20504)|null|
+|**2026-01-28**|**Efficient Autoregressive Video Diffusion with Dummy Head**|Hang Guo et.al.|[2601.20499](http://arxiv.org/abs/2601.20499)|null|
+|**2026-01-28**|**Artifact-Aware Evaluation for High-Quality Video Generation**|Chen Zhu et.al.|[2601.20297](http://arxiv.org/abs/2601.20297)|null|
+|**2026-01-28**|**StreamFusion: Scalable Sequence Parallelism for Distributed Inference of Diffusion Transformers on GPUs**|Jiacheng Yang et.al.|[2601.20273](http://arxiv.org/abs/2601.20273)|null|
 |**2026-01-27**|**Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**|Yizhao Han et.al.|[2601.19488](http://arxiv.org/abs/2601.19488)|null|
 |**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
 |**2026-01-26**|**FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Geometry-Complete 4D Reconstruction**|Wei Cao et.al.|[2601.18993](http://arxiv.org/abs/2601.18993)|null|
@@ -292,23 +300,22 @@
 |**2026-01-14**|**MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head**|Kewei Zhang et.al.|[2601.07832](http://arxiv.org/abs/2601.07832)|null|
 |**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](http://arxiv.org/abs/2601.07823)|null|
 |**2026-01-12**|**Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers**|Guantao Chen et.al.|[2601.07396](http://arxiv.org/abs/2601.07396)|null|
-|**2026-01-09**|**Perception Test 2025: Challenge Summary and a Unified VQA Extension**|Joseph Heyward et.al.|[2601.06287](http://arxiv.org/abs/2601.06287)|null|
-|**2026-01-14**|**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction**|Longbin Ji et.al.|[2601.05966](http://arxiv.org/abs/2601.05966)|null|
-|**2026-01-09**|**Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals**|Nate Gillman et.al.|[2601.05848](http://arxiv.org/abs/2601.05848)|null|
-|**2026-01-09**|**TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment**|Jin Wang et.al.|[2601.05729](http://arxiv.org/abs/2601.05729)|null|
-|**2026-01-09**|**Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation**|Jin Wang et.al.|[2601.05722](http://arxiv.org/abs/2601.05722)|null|
-|**2026-01-09**|**GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**|Xuan Cheng et.al.|[2601.05511](http://arxiv.org/abs/2601.05511)|null|
-|**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Boyang Wang et.al.|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
-|**2026-01-08**|**Plenoptic Video Generation**|Xiao Fu et.al.|[2601.05239](http://arxiv.org/abs/2601.05239)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability**|Rohan Asthana et.al.|[2601.20642](http://arxiv.org/abs/2601.20642)|null|
+|**2026-01-28**|**CM-GAI: Continuum Mechanistic Generative Artificial Intelligence Theory for Data Dynamics**|Shan Tang et.al.|[2601.20462](http://arxiv.org/abs/2601.20462)|null|
+|**2026-01-28**|**Exploiting the Final Component of Generator Architectures for AI-Generated Image Detection**|Yanzhu Liu et.al.|[2601.20461](http://arxiv.org/abs/2601.20461)|null|
+|**2026-01-28**|**Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models**|Zengbin Wang et.al.|[2601.20354](http://arxiv.org/abs/2601.20354)|null|
+|**2026-01-28**|**Reversible Efficient Diffusion for Image Fusion**|Xingxin Xu et.al.|[2601.20260](http://arxiv.org/abs/2601.20260)|null|
+|**2026-01-28**|**BLENDER: Blended Text Embeddings and Diffusion Residuals for Intra-Class Image Synthesis in Deep Metric Learning**|Jan Niklas Kolf et.al.|[2601.20246](http://arxiv.org/abs/2601.20246)|null|
+|**2026-01-28**|**DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment**|Haoyou Deng et.al.|[2601.20218](http://arxiv.org/abs/2601.20218)|null|
 |**2026-01-27**|**Cortex-Grounded Diffusion Models for Brain Image Generation**|Fabian Bongratz et.al.|[2601.19498](http://arxiv.org/abs/2601.19498)|null|
-|**2026-01-27**|**CLIP-Guided Unsupervised Semantic-Aware Exposure Correction**|Puzhen Wu et.al.|[2601.19129](http://arxiv.org/abs/2601.19129)|null|
+|**2026-01-28**|**CLIP-Guided Unsupervised Semantic-Aware Exposure Correction**|Puzhen Wu et.al.|[2601.19129](http://arxiv.org/abs/2601.19129)|null|
 |**2026-01-27**|**FBSDiff++: Improved Frequency Band Substitution of Diffusion Features for Efficient and Highly Controllable Text-Driven Image-to-Image Translation**|Xiang Gao et.al.|[2601.19115](http://arxiv.org/abs/2601.19115)|null|
 |**2026-01-26**|**Pay Attention to Where You Look**|Alex Beriand et.al.|[2601.18970](http://arxiv.org/abs/2601.18970)|null|
 |**2026-01-26**|**Advances in Diffusion-Based Generative Compression**|Yibo Yang et.al.|[2601.18932](http://arxiv.org/abs/2601.18932)|null|
@@ -350,21 +357,14 @@
 |**2026-01-20**|**Prospecting MeerKAT Continuum Data for Enigmatic Radio Sources with Unsupervised Vector-Quantised Variational Autoencoders**|Fernando L. Ventura et.al.|[2601.13901](http://arxiv.org/abs/2601.13901)|null|
 |**2026-01-20**|**Dynamic Differential Linear Attention: Enhancing Linear Diffusion Transformer for High-Quality Image Generation**|Boyuan Cao et.al.|[2601.13683](http://arxiv.org/abs/2601.13683)|null|
 |**2026-01-19**|**SpatialBench-UC: Uncertainty-Aware Evaluation of Spatial Prompt Following in Text-to-Image Generation**|Amine Rostane et.al.|[2601.13462](http://arxiv.org/abs/2601.13462)|null|
-|**2026-01-19**|**Diffusion Representations for Fine-Grained Image Classification: A Marine Plankton Case Study**|A. Nieto Juscafresa et.al.|[2601.13416](http://arxiv.org/abs/2601.13416)|null|
-|**2026-01-19**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
-|**2026-01-18**|**Beyond the Dirac Delta: Mitigating Diversity Collapse in Reinforcement Fine-Tuning for Versatile Image Generation**|Jinmei Liu et.al.|[2601.12401](http://arxiv.org/abs/2601.12401)|null|
-|**2026-01-18**|**SDiT: Semantic Region-Adaptive for Diffusion Transformers**|Bowen Lin et.al.|[2601.12283](http://arxiv.org/abs/2601.12283)|null|
-|**2026-01-17**|**RCDN: Real-Centered Detection Network for Robust Face Forgery Identification**|Wyatt McCurdy et.al.|[2601.12111](http://arxiv.org/abs/2601.12111)|null|
-|**2026-01-16**|**ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models**|Linqing Zhong et.al.|[2601.11404](http://arxiv.org/abs/2601.11404)|null|
-|**2026-01-16**|**Generation of Chest CT pulmonary Nodule Images by Latent Diffusion Models using the LIDC-IDRI Dataset**|Kaito Urata et.al.|[2601.11085](http://arxiv.org/abs/2601.11085)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Music Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-24**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](http://arxiv.org/abs/2601.17517)|null|
+|**2026-01-27**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](http://arxiv.org/abs/2601.17517)|null|
 |**2026-01-22**|**Pay (Cross) Attention to the Melody: Curriculum Masking for Single-Encoder Melodic Harmonization**|Maximos Kaliakatsos-Papakostas et.al.|[2601.16150](http://arxiv.org/abs/2601.16150)|null|
 |**2026-01-22**|**PF-D2M: A Pose-free Diffusion Model for Universal Dance-to-Music Generation**|Jaekwon Im et.al.|[2601.15872](http://arxiv.org/abs/2601.15872)|null|
 |**2026-01-23**|**Emergent, not Immanent: A Baradian Reading of Explainable AI**|Fabio Morreale et.al.|[2601.15029](http://arxiv.org/abs/2601.15029)|null|
@@ -415,13 +415,15 @@
 |**2025-11-21**|**MusicAIR: A Multimodal AI Music Generation Framework Powered by an Algorithm-Driven Core**|Callie C. Liao et.al.|[2511.17323](http://arxiv.org/abs/2511.17323)|null|
 |**2025-11-20**|**Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation**|Wei-Cheng Tseng et.al.|[2511.16757](http://arxiv.org/abs/2511.16757)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Audio Codec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-24**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](http://arxiv.org/abs/2601.17517)|null|
+|**2026-01-28**|**Switchcodec: Adaptive residual-expert sparse quantization for high-fidelity neural audio coding**|Xiangbo Wang et.al.|[2601.20362](http://arxiv.org/abs/2601.20362)|null|
+|**2026-01-27**|**T-Mimi: A Transformer-based Mimi Decoder for Real-Time On-Phone TTS**|Haibin Wu et.al.|[2601.20094](http://arxiv.org/abs/2601.20094)|null|
+|**2026-01-27**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](http://arxiv.org/abs/2601.17517)|null|
 |**2026-01-23**|**Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration**|Esther Sun et.al.|[2601.17085](http://arxiv.org/abs/2601.17085)|null|
 |**2026-01-22**|**The CMU-AIST submission for the ICME 2025 Audio Encoder Challenge**|Shikhar Bharadwaj et.al.|[2601.16273](http://arxiv.org/abs/2601.16273)|null|
 |**2026-01-22**|**Qwen3-TTS Technical Report**|Hangrui Hu et.al.|[2601.15621](http://arxiv.org/abs/2601.15621)|null|
@@ -469,10 +471,8 @@
 |**2025-11-29**|**STCTS: Generative Semantic Compression for Ultra-Low Bitrate Speech via Explicit Text-Prosody-Timbre Decomposition**|Siyu Wang et.al.|[2512.00451](http://arxiv.org/abs/2512.00451)|null|
 |**2025-11-28**|**Chunking Strategies for Multimodal AI Systems**|Shashanka B R et.al.|[2512.00185](http://arxiv.org/abs/2512.00185)|null|
 |**2025-11-27**|**MoLT: Mixture of Layer-Wise Tokens for Efficient Audio-Visual Learning**|Kyeongha Rho et.al.|[2512.00115](http://arxiv.org/abs/2512.00115)|null|
-|**2025-11-28**|**LFM2 Technical Report**|Alexander Amini et.al.|[2511.23404](http://arxiv.org/abs/2511.23404)|null|
-|**2025-11-28**|**Adapting Neural Audio Codecs to EEG**|Ard Kastrati et.al.|[2511.23142](http://arxiv.org/abs/2511.23142)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -529,7 +529,7 @@
 |**2025-12-29**|**Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding**|Zhiwang Zhou et.al.|[2512.21643](http://arxiv.org/abs/2512.21643)|null|
 |**2025-12-30**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## Editing
 
@@ -547,12 +547,13 @@
 |**2025-11-18**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 |**2025-11-18**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/abs/2511.04376)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 ## CV Editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**TeleStyle: Content-Preserving Style Transfer in Images and Videos**|Shiwen Zhang et.al.|[2601.20175](http://arxiv.org/abs/2601.20175)|null|
 |**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
 |**2026-01-27**|**SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing**|Lifan Jiang et.al.|[2601.19180](http://arxiv.org/abs/2601.19180)|null|
 |**2026-01-26**|**Beyond Rigid: Benchmarking Non-Rigid Video Editing**|Bingzheng Qu et.al.|[2601.18340](http://arxiv.org/abs/2601.18340)|null|
@@ -577,7 +578,7 @@
 |**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Jinghan Yu et.al.|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
 |**2026-01-09**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
 
-<p align=right>(<a href=#updated-on-20260129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260130>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
