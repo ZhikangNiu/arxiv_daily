@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.31
+## Updated on 2026.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -1184,7 +1184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-29**|**JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion**|Anthony Chen et.al.|[2601.22143](http://arxiv.org/abs/2601.22143)|null|
+|**2026-01-29**|**JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion**|Anthony Chen et.al.|[2601.22143](http://arxiv.org/abs/2601.22143)|**[link](https://github.com/justdubit/just-dub-it)**|
 |**2026-01-29**|**EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**|John Flynn et.al.|[2601.22127](http://arxiv.org/abs/2601.22127)|null|
 |**2026-01-29**|**Auditorily Embodied Conversational Agents: Effects of Spatialization and Situated Audio Cues on Presence and Social Perception**|Yi Fei Cheng et.al.|[2601.22082](http://arxiv.org/abs/2601.22082)|null|
 |**2026-01-29**|**Envisioning Audio Augmented Reality in Everyday Life**|Tram Thi Minh Tran et.al.|[2601.21271](http://arxiv.org/abs/2601.21271)|null|
