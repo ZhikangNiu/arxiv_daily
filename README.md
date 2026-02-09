@@ -1,4 +1,4 @@
-## Updated on 2026.02.08
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -73,7 +73,7 @@
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
 |**2026-01-26**|**Global Optimization of Atomic Clusters via Physically-Constrained Tensor Train Decomposition**|Konstantin Sozykin et.al.|[2601.18592](http://arxiv.org/abs/2601.18592)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -82,7 +82,7 @@
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
 |**2026-02-04**|**Multilingual Extraction and Recognition of Implicit Discourse Relations in Speech and Text**|Ahmed Ruby et.al.|[2602.05107](http://arxiv.org/abs/2602.05107)|null|
 |**2026-02-05**|**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**|Dongchao Yang et.al.|[2602.04683](http://arxiv.org/abs/2602.04683)|null|
-|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|null|
+|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|**[link](https://github.com/juhayna-zh/AudioControlNet)**|
 |**2026-02-04**|**OmniRAG-Agent: Agentic Omnimodal Reasoning for Low-Resource Long Audio-Video Question Answering**|Yifan Zhu et.al.|[2602.03707](http://arxiv.org/abs/2602.03707)|null|
 |**2026-02-03**|**A3-TTA: Adaptive Anchor Alignment Test-Time Adaptation for Image Segmentation**|Jianghao Wu et.al.|[2602.03292](http://arxiv.org/abs/2602.03292)|null|
 |**2026-01-30**|**The Alignment Curse: Cross-Modality Jailbreak Transfer in Omni-Models**|Yupeng Chen et.al.|[2602.02557](http://arxiv.org/abs/2602.02557)|null|
@@ -130,7 +130,7 @@
 |**2025-12-31**|**EchoFoley: Event-Centric Hierarchical Control for Video Grounded Creative Sound Generation**|Bingxuan Li et.al.|[2512.24731](http://arxiv.org/abs/2512.24731)|null|
 |**2025-12-30**|**Environmental Sound Deepfake Detection Challenge: An Overview**|Han Yin et.al.|[2512.24140](http://arxiv.org/abs/2512.24140)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -187,7 +187,7 @@
 |**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
 |**2026-01-23**|**A Multimodal Data Collection Framework for Dialogue-Driven Assistive Robotics to Clarify Ambiguities: A Wizard-of-Oz Pilot Study**|Guangping Liu et.al.|[2601.16870](http://arxiv.org/abs/2601.16870)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -244,7 +244,7 @@
 |**2025-12-22**|**GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks**|Ryan Spencer et.al.|[2512.22207](http://arxiv.org/abs/2512.22207)|null|
 |**2025-12-25**|**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**|Most. Sharmin Sultana Samu et.al.|[2512.21702](http://arxiv.org/abs/2512.21702)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Video Generation
 
@@ -301,7 +301,7 @@
 |**2026-01-26**|**Self-Refining Video Sampling**|Sangwon Jang et.al.|[2601.18577](http://arxiv.org/abs/2601.18577)|null|
 |**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Image Generation
 
@@ -358,7 +358,7 @@
 |**2026-01-29**|**SimGraph: A Unified Framework for Scene Graph-Based Image Generation and Editing**|Thanh-Nhan Vo et.al.|[2601.21498](http://arxiv.org/abs/2601.21498)|null|
 |**2026-01-29**|**Revisiting Diffusion Model Predictions Through Dimensionality**|Qing Jin et.al.|[2601.21419](http://arxiv.org/abs/2601.21419)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Music Generation
 
@@ -415,7 +415,7 @@
 |**2025-11-21**|**AI in Music and Sound: Pedagogical Reflections, Post-Structuralist Approaches and Creative Outcomes in Seminar Practice**|Guilherme Coelho et.al.|[2511.17425](http://arxiv.org/abs/2511.17425)|null|
 |**2025-11-21**|**The Artist is Present: Traces of Artists Resigind and Spawning in Text-to-Audio AI**|Guilherme Coelho et.al.|[2511.17404](http://arxiv.org/abs/2511.17404)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -472,7 +472,7 @@
 |**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
 |**2025-12-02**|**Perceptual evaluation of Acoustic Level of Detail in Virtual Acoustic Environments**|Stefan Fichna et.al.|[2512.02891](http://arxiv.org/abs/2512.02891)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -529,7 +529,7 @@
 |**2026-01-12**|**SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models**|Yuanhe Zhang et.al.|[2601.07331](http://arxiv.org/abs/2601.07331)|null|
 |**2026-01-11**|**TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding**|Mingyue Huo et.al.|[2601.06896](http://arxiv.org/abs/2601.06896)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## Editing
 
@@ -550,7 +550,7 @@
 |**2025-11-18**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 |**2025-11-18**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/abs/2511.04376)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 ## CV Editing
 
@@ -596,7 +596,7 @@
 |**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Jinghan Yu et.al.|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
 |**2026-01-09**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
 
-<p align=right>(<a href=#updated-on-20260208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
