@@ -1,4 +1,4 @@
-## Updated on 2026.02.09
+## Updated on 2026.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**$d$ -Wave Surface Altermagnetism in Centrosymmetric Collinear Antiferromagnets**|Ersoy Sasioglu et.al.|[2602.08790](http://arxiv.org/abs/2602.08790)|null|
+|**2026-02-09**|**Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis**|Haoshen Wang et.al.|[2602.08696](http://arxiv.org/abs/2602.08696)|null|
+|**2026-02-09**|**Tutti: Expressive Multi-Singer Synthesis via Structure-Level Timbre Control and Vocal Texture Modeling**|Jiatao Chen et.al.|[2602.08233](http://arxiv.org/abs/2602.08233)|null|
+|**2026-02-08**|**A quantum-inspired multi-level tensor-train monolithic space-time method for nonlinear PDEs**|N. R. Rapaka et.al.|[2602.07945](http://arxiv.org/abs/2602.07945)|null|
+|**2026-02-08**|**MARTI-MARS $^2$ : Scaling Multi-Agent Self-Search via Reinforcement Learning for Code Generation**|Shijie Wang et.al.|[2602.07848](http://arxiv.org/abs/2602.07848)|null|
+|**2026-02-08**|**SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis**|Jiale Qian et.al.|[2602.07803](http://arxiv.org/abs/2602.07803)|null|
+|**2026-02-07**|**An Efficient and Robust Projection Enhanced Interpolation Based Tensor Train Decomposition**|Daniel Hayes et.al.|[2602.07653](http://arxiv.org/abs/2602.07653)|null|
+|**2026-02-05**|**Private and interpretable clinical prediction with quantum-inspired tensor train models**|José Ramón Pareja Monturiol et.al.|[2602.06110](http://arxiv.org/abs/2602.06110)|null|
 |**2026-02-05**|**Global solvability and stabilization in multi-dimensional small-strain nonlinear thermoviscoelasticity**|Michael Winkler et.al.|[2602.05964](http://arxiv.org/abs/2602.05964)|null|
 |**2026-02-05**|**A simple model for one-dimensional nonlinear thermoelasticity: Well-posedness in rough-data frameworks**|Michael Winkler et.al.|[2602.05963](http://arxiv.org/abs/2602.05963)|null|
 |**2026-02-05**|**Large time stabilization of rough-data solutions in one-dimensional nonlinear thermoelasticity**|Michael Winkler et.al.|[2602.05962](http://arxiv.org/abs/2602.05962)|null|
@@ -64,25 +72,21 @@
 |**2026-01-28**|**Audio Deepfake Detection in the Age of Advanced Text-to-Speech models**|Robin Singh et.al.|[2601.20510](http://arxiv.org/abs/2601.20510)|null|
 |**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481](http://arxiv.org/abs/2601.20481)|null|
 |**2026-01-28**|**ASR for Affective Speech: Investigating Impact of Emotion and Speech Generative Strategy**|Ya-Tse Wu et.al.|[2601.20319](http://arxiv.org/abs/2601.20319)|null|
-|**2026-01-29**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
-|**2026-01-27**|**T-Mimi: A Transformer-based Mimi Decoder for Real-Time On-Phone TTS**|Haibin Wu et.al.|[2601.20094](http://arxiv.org/abs/2601.20094)|null|
-|**2026-01-27**|**Rethinking Discrete Speech Representation Tokens for Accent Generation**|Jinzuomu Zhong et.al.|[2601.19786](http://arxiv.org/abs/2601.19786)|null|
-|**2026-01-27**|**Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means**|Kentaro Onda et.al.|[2601.19781](http://arxiv.org/abs/2601.19781)|null|
-|**2026-01-27**|**Atomic and Electronic Structure of Strongly Charged Domain Walls in van der Waals α-In $_2$Se$_3$**|Gillian Nolan et.al.|[2601.19137](http://arxiv.org/abs/2601.19137)|null|
-|**2026-01-26**|**Tensorized Discontinuous Isogeometric Analysis Method for the 2-D Time-Independent Linearized Boltzmann Transport Equation**|Patrick A. Myers et.al.|[2601.18925](http://arxiv.org/abs/2601.18925)|null|
-|**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
-|**2026-01-26**|**Global Optimization of Atomic Clusters via Physically-Constrained Tensor Train Decomposition**|Konstantin Sozykin et.al.|[2601.18592](http://arxiv.org/abs/2601.18592)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Text to Audio
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
+|**2026-02-08**|**LQA: A Lightweight Quantized-Adaptive Framework for Vision-Language Models on the Edge**|Xin Wang et.al.|[2602.07849](http://arxiv.org/abs/2602.07849)|null|
+|**2026-02-06**|**Misophonia Trigger Sound Detection on Synthetic Soundscapes Using a Hybrid Model with a Frozen Pre-Trained CNN and a Time-Series Module**|Kurumi Sashida et.al.|[2602.06271](http://arxiv.org/abs/2602.06271)|null|
+|**2026-02-05**|**Tempora: Characterising the Time-Contingent Utility of Online Test-Time Adaptation**|Sudarshan Sreeram et.al.|[2602.06136](http://arxiv.org/abs/2602.06136)|null|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
 |**2026-02-04**|**Multilingual Extraction and Recognition of Implicit Discourse Relations in Speech and Text**|Ahmed Ruby et.al.|[2602.05107](http://arxiv.org/abs/2602.05107)|null|
 |**2026-02-05**|**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**|Dongchao Yang et.al.|[2602.04683](http://arxiv.org/abs/2602.04683)|null|
-|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|**[link](https://github.com/juhayna-zh/AudioControlNet)**|
+|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|null|
 |**2026-02-04**|**OmniRAG-Agent: Agentic Omnimodal Reasoning for Low-Resource Long Audio-Video Question Answering**|Yifan Zhu et.al.|[2602.03707](http://arxiv.org/abs/2602.03707)|null|
 |**2026-02-03**|**A3-TTA: Adaptive Anchor Alignment Test-Time Adaptation for Image Segmentation**|Jianghao Wu et.al.|[2602.03292](http://arxiv.org/abs/2602.03292)|null|
 |**2026-01-30**|**The Alignment Curse: Cross-Modality Jailbreak Transfer in Omni-Models**|Yupeng Chen et.al.|[2602.02557](http://arxiv.org/abs/2602.02557)|null|
@@ -125,17 +129,23 @@
 |**2026-01-06**|**Vulnerabilities of Audio-Based Biometric Authentication Systems Against Deepfake Speech Synthesis**|Mengze Hong et.al.|[2601.02914](http://arxiv.org/abs/2601.02914)|null|
 |**2026-01-11**|**Omni2Sound: Towards Unified Video-Text-to-Audio Generation**|Yusheng Dai et.al.|[2601.02731](http://arxiv.org/abs/2601.02731)|null|
 |**2026-01-04**|**UltraEval-Audio: A Unified Framework for Comprehensive Evaluation of Audio Foundation Models**|Qundong Shi et.al.|[2601.01373](http://arxiv.org/abs/2601.01373)|null|
-|**2026-01-01**|**The Generative AI Paradox: GenAI and the Erosion of Trust, the Corrosion of Information Verification, and the Demise of Truth**|Emilio Ferrara et.al.|[2601.00306](http://arxiv.org/abs/2601.00306)|null|
-|**2025-12-31**|**SLM-TTA: A Framework for Test-Time Adaptation of Generative Spoken Language Models**|Yuan-Kuei Wu et.al.|[2512.24739](http://arxiv.org/abs/2512.24739)|null|
-|**2025-12-31**|**EchoFoley: Event-Centric Hierarchical Control for Video Grounded Creative Sound Generation**|Bingxuan Li et.al.|[2512.24731](http://arxiv.org/abs/2512.24731)|null|
-|**2025-12-30**|**Environmental Sound Deepfake Detection Challenge: An Overview**|Han Yin et.al.|[2512.24140](http://arxiv.org/abs/2512.24140)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Video to Audio
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Glow with the Flow: AI-Assisted Creation of Ambient Lightscapes for Music Videos**|Frederic Anthony Robinson et.al.|[2602.08838](http://arxiv.org/abs/2602.08838)|null|
+|**2026-02-09**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|
+|**2026-02-09**|**TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions**|Linli Yao et.al.|[2602.08711](http://arxiv.org/abs/2602.08711)|null|
+|**2026-02-09**|**ALIVE: Animate Your World with Lifelike Audio-Video Generation**|Ying Guo et.al.|[2602.08682](http://arxiv.org/abs/2602.08682)|null|
+|**2026-02-09**|**E-VAds: An E-commerce Short Videos Understanding Benchmark for MLLMs**|Xianjie Liu et.al.|[2602.08355](http://arxiv.org/abs/2602.08355)|null|
+|**2026-02-09**|**CAE-AV: Improving Audio-Visual Learning via Cross-modal Interactive Enrichment**|Yunzuo Hu et.al.|[2602.08309](http://arxiv.org/abs/2602.08309)|null|
+|**2026-02-09**|**Cross-Modal Bottleneck Fusion For Noise Robust Audio-Visual Speech Recognition**|Seaone Ok et.al.|[2602.08293](http://arxiv.org/abs/2602.08293)|null|
+|**2026-02-08**|**D-ORCA: Dialogue-Centric Optimization for Robust Audio-Visual Captioning**|Changli Tang et.al.|[2602.07960](http://arxiv.org/abs/2602.07960)|null|
+|**2026-02-07**|**Looking and Listening Inside and Outside: Multimodal Artificial Intelligence Systems for Driver Safety Assessment and Intelligent Vehicle Decision-Making**|Ross Greer et.al.|[2602.07668](http://arxiv.org/abs/2602.07668)|null|
+|**2026-02-07**|**SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads**|Tan Yu et.al.|[2602.07449](http://arxiv.org/abs/2602.07449)|null|
 |**2026-02-05**|**OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention**|Zhangquan Chen et.al.|[2602.05847](http://arxiv.org/abs/2602.05847)|null|
 |**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|Hanwen Zhang et.al.|[2602.05496](http://arxiv.org/abs/2602.05496)|null|
 |**2026-02-04**|**Is Innovation Becoming Less Disruptive? An Inventory of the Literature**|Xiangting Wu et.al.|[2602.05140](http://arxiv.org/abs/2602.05140)|null|
@@ -176,23 +186,14 @@
 |**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](http://arxiv.org/abs/2601.19606)|null|
 |**2026-01-27**|**Beyond Lips: Integrating Gesture and Lip Cues for Robust Audio-visual Speaker Extraction**|Zexu Pan et.al.|[2601.19130](http://arxiv.org/abs/2601.19130)|null|
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
-|**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
-|**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](http://arxiv.org/abs/2601.18393)|null|
-|**2026-01-26**|**Integrating Fine-Grained Audio-Visual Evidence for Robust Multimodal Emotion Reasoning**|Zhixian Zhao et.al.|[2601.18321](http://arxiv.org/abs/2601.18321)|null|
-|**2026-01-26**|**Agentic Very Long Video Understanding**|Aniket Rege et.al.|[2601.18157](http://arxiv.org/abs/2601.18157)|null|
-|**2026-01-25**|**AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking**|Xilin Jiang et.al.|[2601.17645](http://arxiv.org/abs/2601.17645)|null|
-|**2026-01-25**|**FOCA: Multimodal Malware Classification via Hyperbolic Cross-Attention**|Nitin Choudhury et.al.|[2601.17638](http://arxiv.org/abs/2601.17638)|null|
-|**2026-01-24**|**ToS: A Team of Specialists ensemble framework for Stereo Sound Event Localization and Detection with distance estimation in Video**|Davide Berghi et.al.|[2601.17611](http://arxiv.org/abs/2601.17611)|null|
-|**2026-01-24**|**Revealing the Truth with ConLLM for Detecting Multi-Modal Deepfakes**|Gautam Siddharth Kashyap et.al.|[2601.17530](http://arxiv.org/abs/2601.17530)|null|
-|**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
-|**2026-01-23**|**A Multimodal Data Collection Framework for Dialogue-Driven Assistive Robotics to Clarify Ambiguities: A Wizard-of-Oz Pilot Study**|Guangping Liu et.al.|[2601.16870](http://arxiv.org/abs/2601.16870)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Voice Conversion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-07**|**Positron annihilation lifetime and Doppler broadening spectral calculations of oxygen-doped 3C-SiC**|Yi Zhao et.al.|[2602.07516](http://arxiv.org/abs/2602.07516)|null|
 |**2026-02-05**|**Private Prediction via Shrinkage**|Chao Yan et.al.|[2602.05219](http://arxiv.org/abs/2602.05219)|null|
 |**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
 |**2026-02-03**|**Dynamic similarity of vortex shedding in a superfluid flowing past a penetrable obstacle**|Junhwan Kwon et.al.|[2602.03518](http://arxiv.org/abs/2602.03518)|null|
@@ -242,14 +243,23 @@
 |**2026-01-03**|**The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction**|Haoyu Pei et.al.|[2512.23489](http://arxiv.org/abs/2512.23489)|null|
 |**2025-12-27**|**LLM Agents as VC investors: Predicting Startup Success via RolePlay-Based Collective Simulation**|Zhongyang Liu et.al.|[2512.22608](http://arxiv.org/abs/2512.22608)|null|
 |**2025-12-22**|**GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks**|Ryan Spencer et.al.|[2512.22207](http://arxiv.org/abs/2512.22207)|null|
-|**2025-12-25**|**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**|Most. Sharmin Sultana Samu et.al.|[2512.21702](http://arxiv.org/abs/2512.21702)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**WorldCompass: Reinforcement Learning for Long-Horizon World Models**|Zehan Wang et.al.|[2602.09022](http://arxiv.org/abs/2602.09022)|null|
+|**2026-02-09**|**WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models**|Yu Shang et.al.|[2602.08971](http://arxiv.org/abs/2602.08971)|null|
+|**2026-02-09**|**VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning**|Hao Tan et.al.|[2602.08828](http://arxiv.org/abs/2602.08828)|null|
+|**2026-02-09**|**Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing**|Hao Yang et.al.|[2602.08820](http://arxiv.org/abs/2602.08820)|null|
+|**2026-02-09**|**ALIVE: Animate Your World with Lifelike Audio-Video Generation**|Ying Guo et.al.|[2602.08682](http://arxiv.org/abs/2602.08682)|null|
+|**2026-02-09**|**T2VTree: User-Centered Visual Analytics for Agent-Assisted Thought-to-Video Authoring**|Zhuoyun Zheng et.al.|[2602.08368](http://arxiv.org/abs/2602.08368)|null|
+|**2026-02-09**|**PISCO: Precise Video Instance Insertion with Sparse Control**|Xiangbo Gao et.al.|[2602.08277](http://arxiv.org/abs/2602.08277)|null|
+|**2026-02-08**|**ReRoPE: Repurposing RoPE for Relative Camera Control**|Chunyang Li et.al.|[2602.08068](http://arxiv.org/abs/2602.08068)|null|
+|**2026-02-08**|**Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion**|Haodong Li et.al.|[2602.07775](http://arxiv.org/abs/2602.07775)|null|
+|**2026-02-07**|**TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation**|Yuanzhi Liang et.al.|[2602.07595](http://arxiv.org/abs/2602.07595)|null|
 |**2026-02-05**|**Context Forcing: Consistent Autoregressive Video Generation with Long Context**|Shuo Chen et.al.|[2602.06028](http://arxiv.org/abs/2602.06028)|null|
 |**2026-02-05**|**RISE-Video: Can Video Generators Decode Implicit World Rules?**|Mingxin Liu et.al.|[2602.05986](http://arxiv.org/abs/2602.05986)|null|
 |**2026-02-05**|**LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation**|Mirlan Karimov et.al.|[2602.05966](http://arxiv.org/abs/2602.05966)|null|
@@ -290,23 +300,23 @@
 |**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|June Chen et.al.|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
 |**2026-01-28**|**SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation**|Boyu Li et.al.|[2601.20622](http://arxiv.org/abs/2601.20622)|null|
 |**2026-01-28**|**Advancing Open-source World Models**|Robbyant Team et.al.|[2601.20540](http://arxiv.org/abs/2601.20540)|null|
-|**2026-01-28**|**Latent Temporal Discrepancy as Motion Prior: A Loss-Weighting Strategy for Dynamic Fidelity in T2V**|Meiqi Wu et.al.|[2601.20504](http://arxiv.org/abs/2601.20504)|null|
-|**2026-01-28**|**Efficient Autoregressive Video Diffusion with Dummy Head**|Hang Guo et.al.|[2601.20499](http://arxiv.org/abs/2601.20499)|null|
-|**2026-01-28**|**Artifact-Aware Evaluation for High-Quality Video Generation**|Chen Zhu et.al.|[2601.20297](http://arxiv.org/abs/2601.20297)|null|
-|**2026-01-28**|**StreamFusion: Scalable Sequence Parallelism for Distributed Inference of Diffusion Transformers on GPUs**|Jiacheng Yang et.al.|[2601.20273](http://arxiv.org/abs/2601.20273)|null|
-|**2026-01-27**|**Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation**|Yizhao Han et.al.|[2601.19488](http://arxiv.org/abs/2601.19488)|null|
-|**2026-01-27**|**VC-Bench: Pioneering the Video Connecting Benchmark with a Dataset and Evaluation Metrics**|Zhiyu Yin et.al.|[2601.19236](http://arxiv.org/abs/2601.19236)|null|
-|**2026-01-26**|**FreeOrbit4D: Training-Free Arbitrary Camera Redirection for Monocular Videos via Geometry-Complete 4D Reconstruction**|Wei Cao et.al.|[2601.18993](http://arxiv.org/abs/2601.18993)|null|
-|**2026-01-26**|**Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge**|Xiao Liu et.al.|[2601.18698](http://arxiv.org/abs/2601.18698)|null|
-|**2026-01-26**|**Self-Refining Video Sampling**|Sangwon Jang et.al.|[2601.18577](http://arxiv.org/abs/2601.18577)|null|
-|**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323](http://arxiv.org/abs/2601.18323)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Autoregressive Image Generation with Masked Bit Modeling**|Qihang Yu et.al.|[2602.09024](http://arxiv.org/abs/2602.09024)|null|
+|**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|null|
+|**2026-02-09**|**GEBench: Benchmarking Image Generation Models as GUI Environments**|Haodong Li et.al.|[2602.09007](http://arxiv.org/abs/2602.09007)|null|
+|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
+|**2026-02-09**|**Inspiration Seeds: Learning Non-Literal Visual Combinations for Generative Exploration**|Kfir Goldberg et.al.|[2602.08615](http://arxiv.org/abs/2602.08615)|null|
+|**2026-02-09**|**UReason: Benchmarking the Reasoning Paradox in Unified Multimodal Models**|Cheng Yang et.al.|[2602.08336](http://arxiv.org/abs/2602.08336)|null|
+|**2026-02-09**|**A Unified Framework for Multimodal Image Reconstruction and Synthesis using Denoising Diffusion Models**|Weijie Gan et.al.|[2602.08249](http://arxiv.org/abs/2602.08249)|null|
+|**2026-02-08**|**Accelerating Black Hole Image Generation via Latent Space Diffusion Models**|Ao Liu et.al.|[2602.07786](http://arxiv.org/abs/2602.07786)|null|
+|**2026-02-07**|**FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation**|Guandong Li et.al.|[2602.07554](http://arxiv.org/abs/2602.07554)|null|
+|**2026-02-07**|**PTB-XL-Image-17K: A Large-Scale Synthetic ECG Image Dataset with Comprehensive Ground Truth for Deep Learning-Based Digitization**|Naqcho Ali Mehdi et.al.|[2602.07446](http://arxiv.org/abs/2602.07446)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**Discrete diffusion samplers and bridges: Off-policy algorithms and applications in latent spaces**|Arran Carter et.al.|[2602.05961](http://arxiv.org/abs/2602.05961)|null|
 |**2026-02-05**|**Better Source, Better Flow: Learning Condition-Dependent Source Distribution for Flow Matching**|Junwan Kim et.al.|[2602.05951](http://arxiv.org/abs/2602.05951)|null|
@@ -347,25 +357,17 @@
 |**2026-01-30**|**LINA: Linear Autoregressive Image Generative Models with Continuous Tokens**|Jiahao Wang et.al.|[2601.22630](http://arxiv.org/abs/2601.22630)|null|
 |**2026-01-30**|**Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models**|Jingxuan Wu et.al.|[2601.22629](http://arxiv.org/abs/2601.22629)|null|
 |**2026-01-30**|**Corrected Samplers for Discrete Flow Models**|Zhengyan Wan et.al.|[2601.22519](http://arxiv.org/abs/2601.22519)|null|
-|**2026-01-30**|**DreamVAR: Taming Reinforced Visual Autoregressive Model for High-Fidelity Subject-Driven Image Generation**|Xin Jiang et.al.|[2601.22507](http://arxiv.org/abs/2601.22507)|null|
-|**2026-01-30**|**ScribbleSense: Generative Scribble-Based Texture Editing with Intent Prediction**|Yudi Zhang et.al.|[2601.22455](http://arxiv.org/abs/2601.22455)|null|
-|**2026-01-29**|**One-step Latent-free Image Generation with Pixel Mean Flows**|Yiyang Lu et.al.|[2601.22158](http://arxiv.org/abs/2601.22158)|null|
-|**2026-01-29**|**Creative Image Generation with Diffusion Model**|Kunpeng Song et.al.|[2601.22125](http://arxiv.org/abs/2601.22125)|null|
-|**2026-01-29**|**RefAny3D: 3D Asset-Referenced Diffusion Models for Image Generation**|Hanzhuo Huang et.al.|[2601.22094](http://arxiv.org/abs/2601.22094)|**[link](https://github.com/JudgementH/RefAny3D)**|
-|**2026-01-29**|**Investigating Associational Biases in Inter-Model Communication of Large Generative Models**|Fethiye Irmak Dogan et.al.|[2601.22093](http://arxiv.org/abs/2601.22093)|null|
-|**2026-01-29**|**Noise as a Probe: Membership Inference Attacks on Diffusion Models Leveraging Initial Noise**|Puwei Lian et.al.|[2601.21628](http://arxiv.org/abs/2601.21628)|null|
-|**2026-01-29**|**HERS: Hidden-Pattern Expert Learning for Risk-Specific Vehicle Damage Adaptation in Diffusion Models**|Teerapong Panboonyuen et.al.|[2601.21517](http://arxiv.org/abs/2601.21517)|null|
-|**2026-01-29**|**SimGraph: A Unified Framework for Scene Graph-Based Image Generation and Editing**|Thanh-Nhan Vo et.al.|[2601.21498](http://arxiv.org/abs/2601.21498)|null|
-|**2026-01-29**|**Revisiting Diffusion Model Predictions Through Dimensionality**|Qing Jin et.al.|[2601.21419](http://arxiv.org/abs/2601.21419)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Music Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Video-based Music Generation**|Serkan Sulun et.al.|[2602.07063](http://arxiv.org/abs/2602.07063)|null|
+|**2026-02-06**|**AI-Generated Music Detection in Broadcast Monitoring**|David Lopez-Ayala et.al.|[2602.06823](http://arxiv.org/abs/2602.06823)|null|
 |**2026-02-03**|**Rethinking Music Captioning with Music Metadata LLMs**|Irmak Bukey et.al.|[2602.03023](http://arxiv.org/abs/2602.03023)|null|
-|**2026-02-05**|**ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation**|Junmin Gong et.al.|[2602.00744](http://arxiv.org/abs/2602.00744)|null|
+|**2026-02-06**|**ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation**|Junmin Gong et.al.|[2602.00744](http://arxiv.org/abs/2602.00744)|null|
 |**2026-01-27**|**EuleroDec: A Complex-Valued RVQ-VAE for Efficient and Robust Audio Coding**|Luca Cerovaz et.al.|[2601.17517](http://arxiv.org/abs/2601.17517)|null|
 |**2026-01-22**|**Pay (Cross) Attention to the Melody: Curriculum Masking for Single-Encoder Melodic Harmonization**|Maximos Kaliakatsos-Papakostas et.al.|[2601.16150](http://arxiv.org/abs/2601.16150)|null|
 |**2026-01-22**|**PF-D2M: A Pose-free Diffusion Model for Universal Dance-to-Music Generation**|Jaekwon Im et.al.|[2601.15872](http://arxiv.org/abs/2601.15872)|null|
@@ -412,15 +414,15 @@
 |**2025-11-22**|**Generative Adversarial Post-Training Mitigates Reward Hacking in Live Human-AI Music Interaction**|Yusong Wu et.al.|[2511.17879](http://arxiv.org/abs/2511.17879)|null|
 |**2025-11-21**|**Semi-Supervised Federated Multi-Label Feature Selection with Fuzzy Information Measures**|Afsaneh Mahanipour et.al.|[2511.17796](http://arxiv.org/abs/2511.17796)|null|
 |**2025-11-21**|**Semantic and Semiotic Interplays in Text-to-Audio AI: Exploring Cognitive Dynamics and Musical Interactions**|Guilherme Coelho et.al.|[2511.17429](http://arxiv.org/abs/2511.17429)|null|
-|**2025-11-21**|**AI in Music and Sound: Pedagogical Reflections, Post-Structuralist Approaches and Creative Outcomes in Seminar Practice**|Guilherme Coelho et.al.|[2511.17425](http://arxiv.org/abs/2511.17425)|null|
-|**2025-11-21**|**The Artist is Present: Traces of Artists Resigind and Spawning in Text-to-Audio AI**|Guilherme Coelho et.al.|[2511.17404](http://arxiv.org/abs/2511.17404)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Audio Codec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**Scaling Speech Tokenizers with Diffusion Autoencoders**|Yuancheng Wang et.al.|[2602.06602](http://arxiv.org/abs/2602.06602)|null|
+|**2026-02-05**|**STACodec: Semantic Token Assignment for Balancing Acoustic Fidelity and Semantic Information in Audio Codecs**|Kaiyuan Zhang et.al.|[2602.06180](http://arxiv.org/abs/2602.06180)|null|
 |**2026-02-04**|**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**|Yue Ding et.al.|[2602.04804](http://arxiv.org/abs/2602.04804)|null|
 |**2026-02-05**|**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**|Dongchao Yang et.al.|[2602.04683](http://arxiv.org/abs/2602.04683)|null|
 |**2026-02-04**|**Frontend Token Enhancement for Token-Based Speech Recognition**|Takanori Ashihara et.al.|[2602.04217](http://arxiv.org/abs/2602.04217)|null|
@@ -469,15 +471,21 @@
 |**2025-12-04**|**Large Speech Model Enabled Semantic Communication**|Yun Tian et.al.|[2512.04711](http://arxiv.org/abs/2512.04711)|null|
 |**2025-12-03**|**UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework**|Youxin Pang et.al.|[2512.03918](http://arxiv.org/abs/2512.03918)|null|
 |**2025-12-03**|**AaPE: Aliasing-aware Patch Embedding for Self-Supervised Audio Representation Learning**|Kohei Yamamoto et.al.|[2512.03637](http://arxiv.org/abs/2512.03637)|null|
-|**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
-|**2025-12-02**|**Perceptual evaluation of Acoustic Level of Detail in Virtual Acoustic Environments**|Stefan Fichna et.al.|[2512.02891](http://arxiv.org/abs/2512.02891)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Large Audio Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**DynamiQ: Accelerating Gradient Synchronization using Compressed Multi-hop All-reduce**|Wenchen Han et.al.|[2602.08923](http://arxiv.org/abs/2602.08923)|null|
+|**2026-02-09**|**Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing**|Hao Yang et.al.|[2602.08820](http://arxiv.org/abs/2602.08820)|null|
+|**2026-02-09**|**TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions**|Linli Yao et.al.|[2602.08711](http://arxiv.org/abs/2602.08711)|null|
+|**2026-02-09**|**Comparing Mixture, Box, and Wasserstein Ambiguity Sets in Distributionally Robust Asset Liability Management**|Alireza Ghahtarani et.al.|[2602.08228](http://arxiv.org/abs/2602.08228)|null|
+|**2026-02-08**|**D-ORCA: Dialogue-Centric Optimization for Robust Audio-Visual Captioning**|Changli Tang et.al.|[2602.07960](http://arxiv.org/abs/2602.07960)|null|
+|**2026-02-06**|**Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models**|Haoyu Zhang et.al.|[2602.07106](http://arxiv.org/abs/2602.07106)|null|
+|**2026-02-06**|**CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models**|Videet Mehta et.al.|[2602.07077](http://arxiv.org/abs/2602.07077)|null|
+|**2026-02-05**|**Exploring Physical Intelligence Emergence via Omni-Modal Architecture and Physical Data Engine**|Minghao Han et.al.|[2602.07064](http://arxiv.org/abs/2602.07064)|null|
 |**2026-02-05**|**OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale**|Jingze Shi et.al.|[2602.05711](http://arxiv.org/abs/2602.05711)|null|
 |**2026-02-05**|**Bagpiper: Solving Open-Ended Audio Tasks via Rich Captions**|Jinchuan Tian et.al.|[2602.05220](http://arxiv.org/abs/2602.05220)|null|
 |**2026-02-04**|**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**|Yue Ding et.al.|[2602.04804](http://arxiv.org/abs/2602.04804)|null|
@@ -520,16 +528,8 @@
 |**2026-01-15**|**RSA-Bench: Benchmarking Audio Large Models in Real-World Acoustic Scenarios**|Yibo Zhang et.al.|[2601.10384](http://arxiv.org/abs/2601.10384)|null|
 |**2026-01-15**|**ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding**|Xueyun Tian et.al.|[2601.10323](http://arxiv.org/abs/2601.10323)|null|
 |**2026-01-15**|**ADVOSYNTH: A Synthetic Multi-Advocate Dataset for Speaker Identification in Courtroom Scenarios**|Aniket Deroy et.al.|[2601.10315](http://arxiv.org/abs/2601.10315)|null|
-|**2026-01-14**|**Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning**|Dongjie Cheng et.al.|[2601.09536](http://arxiv.org/abs/2601.09536)|null|
-|**2026-01-14**|**Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception**|Zhen Wan et.al.|[2601.09413](http://arxiv.org/abs/2601.09413)|null|
-|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
-|**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
-|**2026-01-13**|**Meta-Backscatter: Long-Distance Battery-Free Metamaterial-Backscatter Sensing and Communication**|Taorui Liu et.al.|[2601.08307](http://arxiv.org/abs/2601.08307)|null|
-|**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
-|**2026-01-12**|**SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models**|Yuanhe Zhang et.al.|[2601.07331](http://arxiv.org/abs/2601.07331)|null|
-|**2026-01-11**|**TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding**|Mingyue Huo et.al.|[2601.06896](http://arxiv.org/abs/2601.06896)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## Editing
 
@@ -540,8 +540,8 @@
 |**2026-01-29**|**Unifying Speech Editing Detection and Content Localization via Prior-Enhanced Audio LLMs**|Jun Xue et.al.|[2601.21463](http://arxiv.org/abs/2601.21463)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
 |**2026-01-08**|**CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models**|Junyang Chen et.al.|[2601.05329](http://arxiv.org/abs/2601.05329)|null|
-|**2026-01-04**|**LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models**|Zhiyuan Zhao et.al.|[2601.04233](http://arxiv.org/abs/2601.04233)|**[link](https://github.com/LEMAS-Project/LEMAS-Project)**|
-|**2025-12-29**|**MiMo-Audio: Audio Language Models are Few-Shot Learners**|Xiaomi LLM-Core Team et.al.|[2512.23808](http://arxiv.org/abs/2512.23808)|**[link](https://github.com/XiaomiMiMo/MiMo-Audio)**|
+|**2026-01-04**|**LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models**|Zhiyuan Zhao et.al.|[2601.04233](http://arxiv.org/abs/2601.04233)|null|
+|**2025-12-29**|**MiMo-Audio: Audio Language Models are Few-Shot Learners**|Xiaomi LLM-Core Team et.al.|[2512.23808](http://arxiv.org/abs/2512.23808)|null|
 |**2026-01-19**|**MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model**|Ye Tao et.al.|[2512.20339](http://arxiv.org/abs/2512.20339)|null|
 |**2025-12-23**|**QuarkAudio Technical Report**|Chengwei Liu et.al.|[2512.20151](http://arxiv.org/abs/2512.20151)|null|
 |**2025-12-16**|**MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation**|Yash Vishe et.al.|[2512.14629](http://arxiv.org/abs/2512.14629)|null|
@@ -550,12 +550,22 @@
 |**2025-11-18**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 |**2025-11-18**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/abs/2511.04376)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 ## CV Editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-09**|**Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing**|Hao Yang et.al.|[2602.08820](http://arxiv.org/abs/2602.08820)|null|
+|**2026-02-09**|**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing**|Carmine Zaccagnino et.al.|[2602.08749](http://arxiv.org/abs/2602.08749)|null|
+|**2026-02-09**|**FusionEdit: Semantic Fusion and Attention Modulation for Training-Free Image Editing**|Yongwen Lai et.al.|[2602.08725](http://arxiv.org/abs/2602.08725)|null|
+|**2026-02-09**|**Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers**|Shuo Zhang et.al.|[2602.08388](http://arxiv.org/abs/2602.08388)|null|
+|**2026-02-09**|**PISCO: Precise Video Instance Insertion with Sparse Control**|Xiangbo Gao et.al.|[2602.08277](http://arxiv.org/abs/2602.08277)|null|
+|**2026-02-08**|**MCIE: Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance**|Xuehai Bai et.al.|[2602.07993](http://arxiv.org/abs/2602.07993)|null|
+|**2026-02-07**|**SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens**|Xiaoyan Zhang et.al.|[2602.07564](http://arxiv.org/abs/2602.07564)|null|
+|**2026-02-07**|**Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models**|Yankai Yang et.al.|[2602.07533](http://arxiv.org/abs/2602.07533)|null|
+|**2026-02-07**|**SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning**|Yancheng Long et.al.|[2602.07458](http://arxiv.org/abs/2602.07458)|null|
+|**2026-02-06**|**Extended to Reality: Prompt Injection in 3D Environments**|Zhuoheng Li et.al.|[2602.07104](http://arxiv.org/abs/2602.07104)|null|
 |**2026-02-05**|**LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization**|Shiyu Wu et.al.|[2602.05577](http://arxiv.org/abs/2602.05577)|null|
 |**2026-02-03**|**Continuous Control of Editing Models via Adaptive-Origin Guidance**|Alon Wolf et.al.|[2602.03826](http://arxiv.org/abs/2602.03826)|null|
 |**2026-02-03**|**VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers**|Zhiwen Li et.al.|[2602.03210](http://arxiv.org/abs/2602.03210)|null|
@@ -596,7 +606,7 @@
 |**2026-01-07**|**I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing**|Jinghan Yu et.al.|[2601.03741](http://arxiv.org/abs/2601.03741)|null|
 |**2026-01-09**|**ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing**|Hengjia Li et.al.|[2601.03467](http://arxiv.org/abs/2601.03467)|null|
 
-<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
