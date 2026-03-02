@@ -663,7 +663,7 @@ layout: default
 |**2025-08-15**|**MoE-TTS: Enhancing Out-of-Domain Text Understanding for Description-based TTS via Mixture-of-Experts**|Heyang Xue et.al.|[2508.11326](http://arxiv.org/abs/2508.11326)|null|
 |**2025-08-15**|**EmoSSLSphere: Multilingual Emotional Speech Synthesis with Spherical Vectors and Discrete Speech Tokens**|Joonyong Park et.al.|[2508.11273](http://arxiv.org/abs/2508.11273)|null|
 |**2025-08-14**|**Towards high-precision inspiral gravitational waveforms from binary neutron star mergers in numerical relativity**|Kenta Kiuchi et.al.|[2508.10981](http://arxiv.org/abs/2508.10981)|null|
-|**2025-08-14**|**Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform**|Yuankun Xie et.al.|[2508.10559](http://arxiv.org/abs/2508.10559)|null|
+|**2025-08-14**|**Fake Speech Wild: Detecting Deepfake Speech on Social Media Platform**|Yuankun Xie et.al.|[2508.10559](http://arxiv.org/abs/2508.10559)|**[link](https://github.com/xieyuankun/FSW)**|
 |**2025-08-14**|**Facilitating Personalized TTS for Dysarthric Speakers Using Knowledge Anchoring and Curriculum Learning**|Yejin Jeon et.al.|[2508.10412](http://arxiv.org/abs/2508.10412)|null|
 |**2025-08-14**|**Towards Frame-level Quality Predictions of Synthetic Speech**|Michael Kuhlmann et.al.|[2508.10374](http://arxiv.org/abs/2508.10374)|**[link](https://github.com/fgnt/frame-level-mos)**|
 |**2025-08-13**|**Analysis of Domain Shift across ASR Architectures via TTS-Enabled Separation of Target Domain and Acoustic Conditions**|Tina Raissi et.al.|[2508.09868](http://arxiv.org/abs/2508.09868)|null|
@@ -997,7 +997,7 @@ layout: default
 |**2025-12-20**|**CTTA-T: Continual Test-Time Adaptation for Text Understanding via Teacher-Student with a Domain-aware and Generalized Teacher**|Tianlun Liu et.al.|[2512.18321](http://arxiv.org/abs/2512.18321)|null|
 |**2025-12-12**|**Cross-Sample Augmented Test-Time Adaptation for Personalized Intraoperative Hypotension Prediction**|Kanxue Li et.al.|[2512.15762](http://arxiv.org/abs/2512.15762)|null|
 |**2025-12-17**|**BEAT2AASIST model with layer fusion for ESDD 2026 Challenge**|Sanghyeok Chung et.al.|[2512.15180](http://arxiv.org/abs/2512.15180)|null|
-|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|null|
+|**2025-12-15**|**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**|Xiaohu Huang et.al.|[2512.13677](http://arxiv.org/abs/2512.13677)|**[link](https://github.com/Visual-AI/JoVA)**|
 |**2025-12-14**|**PerNodeDrop: A Method Balancing Specialized Subnets and Regularization in Deep Neural Networks**|Gelesh G Omathil et.al.|[2512.12663](http://arxiv.org/abs/2512.12663)|null|
 |**2025-12-14**|**From Tokens to Photons: Test-Time Physical Prompting for Vison-Language Models**|Boyeong Im et.al.|[2512.12571](http://arxiv.org/abs/2512.12571)|null|
 |**2025-12-13**|**UniMark: Artificial Intelligence Generated Content Identification Toolkit**|Meilin Li et.al.|[2512.12324](http://arxiv.org/abs/2512.12324)|null|
@@ -1157,7 +1157,7 @@ layout: default
 |**2025-10-30**|**Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation**|Woojin Kim et.al.|[2510.26200](http://arxiv.org/abs/2510.26200)|null|
 |**2025-10-31**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|null|
 |**2025-10-29**|**Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation**|Wenhao Zheng et.al.|[2510.25163](http://arxiv.org/abs/2510.25163)|null|
-|**2025-10-28**|**Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation**|Kang Zhang et.al.|[2510.24103](http://arxiv.org/abs/2510.24103)|null|
+|**2025-10-28**|**Model-Guided Dual-Role Alignment for High-Fidelity Open-Domain Video-to-Audio Generation**|Kang Zhang et.al.|[2510.24103](http://arxiv.org/abs/2510.24103)|**[link](https://github.com/pantheon5100/mgaudio)**|
 |**2025-10-27**|**Learning Interpretable Features in Audio Latent Spaces via Sparse Autoencoders**|Nathan Paek et.al.|[2510.23802](http://arxiv.org/abs/2510.23802)|null|
 |**2025-10-25**|**Accident Anticipation via Temporal Occurrence Prediction**|Tianhao Zhao et.al.|[2510.22260](http://arxiv.org/abs/2510.22260)|null|
 |**2025-10-24**|**Foley Control: Aligning a Frozen Latent Text-to-Audio Model to Video**|Ciara Rowles et.al.|[2510.21581](http://arxiv.org/abs/2510.21581)|null|
@@ -2328,7 +2328,7 @@ layout: default
 |**2025-11-19**|**Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation**|Vladimir Arkhipkin et.al.|[2511.14993](http://arxiv.org/abs/2511.14993)|null|
 |**2025-11-18**|**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising**|Yifan Wang et.al.|[2511.14719](http://arxiv.org/abs/2511.14719)|null|
 |**2025-11-18**|**FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation**|Yunfeng Wu et.al.|[2511.14712](http://arxiv.org/abs/2511.14712)|null|
-|**2025-11-18**|**ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection**|Mohammad Romani et.al.|[2511.14554](http://arxiv.org/abs/2511.14554)|null|
+|**2025-11-18**|**ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection**|Mohammad Romani et.al.|[2511.14554](http://arxiv.org/abs/2511.14554)|**[link](https://github.com/Mohammad-Romani/ForensicFlow-A-Tri-Modal-Adaptive-Network-for-Robust-Deepfake-Detection)**|
 |**2025-11-18**|**DeCo-VAE: Learning Compact Latents for Video Reconstruction via Decoupled Representation**|Xiangchen Yin et.al.|[2511.14530](http://arxiv.org/abs/2511.14530)|null|
 |**2025-11-18**|**FlowRoI A Fast Optical Flow Driven Region of Interest Extraction Framework for High-Throughput Image Compression in Immune Cell Migration Analysis**|Xiaowei Xu et.al.|[2511.14419](http://arxiv.org/abs/2511.14419)|null|
 |**2025-11-18**|**ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries**|Junfu Pu et.al.|[2511.14349](http://arxiv.org/abs/2511.14349)|null|
@@ -2801,7 +2801,7 @@ layout: default
 |**2026-02-09**|**UReason: Benchmarking the Reasoning Paradox in Unified Multimodal Models**|Cheng Yang et.al.|[2602.08336](http://arxiv.org/abs/2602.08336)|null|
 |**2026-02-09**|**A Unified Framework for Multimodal Image Reconstruction and Synthesis using Denoising Diffusion Models**|Weijie Gan et.al.|[2602.08249](http://arxiv.org/abs/2602.08249)|null|
 |**2026-02-08**|**Accelerating Black Hole Image Generation via Latent Space Diffusion Models**|Ao Liu et.al.|[2602.07786](http://arxiv.org/abs/2602.07786)|null|
-|**2026-02-07**|**FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation**|Guandong Li et.al.|[2602.07554](http://arxiv.org/abs/2602.07554)|null|
+|**2026-02-07**|**FlexID: Training-Free Flexible Identity Injection via Intent-Aware Modulation for Text-to-Image Generation**|Guandong Li et.al.|[2602.07554](http://arxiv.org/abs/2602.07554)|**[link](https://github.com/leeguandong/FlexID)**|
 |**2026-02-07**|**PTB-XL-Image-17K: A Large-Scale Synthetic ECG Image Dataset with Comprehensive Ground Truth for Deep Learning-Based Digitization**|Naqcho Ali Mehdi et.al.|[2602.07446](http://arxiv.org/abs/2602.07446)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](http://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**Discrete diffusion samplers and bridges: Off-policy algorithms and applications in latent spaces**|Arran Carter et.al.|[2602.05961](http://arxiv.org/abs/2602.05961)|**[link](https://github.com/mmacosha/offpolicy-discrete-diffusion-samplers-and-bridges)**|
@@ -3517,8 +3517,8 @@ layout: default
 |**2025-09-25**|**FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies**|Shuqiao Liang et.al.|[2509.20890](http://arxiv.org/abs/2509.20890)|**[link](https://github.com/xigua7105/FerretNet)**|
 |**2025-09-25**|**T2I-Diff: fMRI Signal Generation via Time-Frequency Image Transform and Classifier-Free Denoising Diffusion Models**|Hwa Hui Tew et.al.|[2509.20822](http://arxiv.org/abs/2509.20822)|**[link](https://github.com/htew0001/T2I-Diff)**|
 |**2025-09-25**|**FreeInsert: Personalized Object Insertion with Geometric and Style Control**|Yuhong Zhang et.al.|[2509.20756](http://arxiv.org/abs/2509.20756)|null|
-|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|null|
-|**2025-09-24**|**Biologically Plausible Learning via Bidirectional Spike-Based Distillation**|Changze Lv et.al.|[2509.20284](http://arxiv.org/abs/2509.20284)|null|
+|**2025-09-24**|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning**|Xuan Ju et.al.|[2509.20360](http://arxiv.org/abs/2509.20360)|**[link](https://github.com/adobe-research/EditVerse)**|
+|**2025-09-24**|**Biologically Plausible Learning via Bidirectional Spike-Based Distillation**|Changze Lv et.al.|[2509.20284](http://arxiv.org/abs/2509.20284)|**[link](https://github.com/alden199/Bidirectional-Spike-Based-Distillation)**|
 |**2025-09-24**|**Optical Ocean Recipes: Creating Realistic Datasets to Facilitate Underwater Vision Research**|Patricia Schöntag et.al.|[2509.20171](http://arxiv.org/abs/2509.20171)|null|
 |**2025-09-24**|**Learnable Sampler Distillation for Discrete Diffusion Models**|Feiyang Fu et.al.|[2509.19962](http://arxiv.org/abs/2509.19962)|**[link](https://github.com/feiyangfu/LSD)**|
 |**2025-09-24**|**FreezeVLA: Action-Freezing Attacks against Vision-Language-Action Models**|Xin Wang et.al.|[2509.19870](http://arxiv.org/abs/2509.19870)|null|
@@ -3531,12 +3531,12 @@ layout: default
 |**2025-09-23**|**Towards Application Aligned Synthetic Surgical Image Synthesis**|Danush Kumar Venkatesh et.al.|[2509.18796](http://arxiv.org/abs/2509.18796)|null|
 |**2025-09-23**|**AGSwap: Overcoming Category Boundaries in Object Fusion via Adaptive Group Swapping**|Zedong Zhang et.al.|[2509.18699](http://arxiv.org/abs/2509.18699)|null|
 |**2025-09-24**|**Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation**|Yuanhuiyi Lyu et.al.|[2509.18639](http://arxiv.org/abs/2509.18639)|null|
-|**2025-09-23**|**GeoRemover: Removing Objects and Their Causal Visual Artifacts**|Zixin Zhu et.al.|[2509.18538](http://arxiv.org/abs/2509.18538)|null|
+|**2025-09-23**|**GeoRemover: Removing Objects and Their Causal Visual Artifacts**|Zixin Zhu et.al.|[2509.18538](http://arxiv.org/abs/2509.18538)|**[link](https://github.com/buxiangzhiren/GeoRemover)**|
 |**2025-09-22**|**Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers**|Chaehyun Kim et.al.|[2509.18096](http://arxiv.org/abs/2509.18096)|null|
 |**2025-09-22**|**ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation**|Guocheng Gordon Qian et.al.|[2509.18092](http://arxiv.org/abs/2509.18092)|null|
 |**2025-09-22**|**MEF: A Systematic Evaluation Framework for Text-to-Image Models**|Xiaojing Dong et.al.|[2509.17907](http://arxiv.org/abs/2509.17907)|null|
 |**2025-09-22**|**Conditional Diffusion Models for CT Image Synthesis from CBCT: A Systematic Review**|Alzahra Altalib et.al.|[2509.17790](http://arxiv.org/abs/2509.17790)|null|
-|**2025-09-22**|**Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance**|Hongxing Fan et.al.|[2509.17757](http://arxiv.org/abs/2509.17757)|null|
+|**2025-09-22**|**Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance**|Hongxing Fan et.al.|[2509.17757](http://arxiv.org/abs/2509.17757)|**[link](https://github.com/fanhongxing/Multi-Agent-Amodal)**|
 |**2025-09-22**|**SISMA: Semantic Face Image Synthesis with Mamba**|Filippo Botti et.al.|[2509.17651](http://arxiv.org/abs/2509.17651)|null|
 |**2025-09-22**|**CARINOX: Inference-time Scaling with Category-Aware Reward-based Initial Noise Optimization and Exploration**|Seyed Amir Kasaei et.al.|[2509.17458](http://arxiv.org/abs/2509.17458)|null|
 |**2025-09-21**|**Graph Signal Generative Diffusion Models**|Yigit Berkay Uslu et.al.|[2509.17250](http://arxiv.org/abs/2509.17250)|**[link](https://github.com/yigit-uslu/GNN-Diffusion-Stock-Forecasting)**|
@@ -4014,7 +4014,7 @@ layout: default
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/ishine/DiFlow-TTS)**|
 |**2025-09-12**|**Finite Scalar Quantization Enables Redundant and Transmission-Robust Neural Audio Compression at Low Bit-rates**|Harry Julian et.al.|[2509.09550](http://arxiv.org/abs/2509.09550)|null|
 |**2025-09-11**|**DeCodec: Rethinking Audio Codecs as Universal Disentangled Representation Learners**|Xiaoxue Luo et.al.|[2509.09201](http://arxiv.org/abs/2509.09201)|null|
-|**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|null|
+|**2025-09-09**|**Continuous Audio Language Models**|Simon Rouard et.al.|[2509.06926](http://arxiv.org/abs/2509.06926)|**[link](https://github.com/jettbrains/-L-)**|
 |**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|
 |**2025-09-02**|**Analysis of Speaker Verification Performance Trade-offs with Neural Audio Codec Transmission**|Nirmalya Mallick Thakur et.al.|[2509.02771](http://arxiv.org/abs/2509.02771)|null|
 |**2025-09-04**|**AudioCodecBench: A Comprehensive Benchmark for Audio Codec Evaluation**|Lu Wang et.al.|[2509.02349](http://arxiv.org/abs/2509.02349)|null|
@@ -4266,11 +4266,11 @@ layout: default
 |**2025-11-14**|**TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models**|Hualei Wang et.al.|[2511.11039](http://arxiv.org/abs/2511.11039)|null|
 |**2025-11-14**|**DialogGraph-LLM: Graph-Informed LLMs for End-to-End Audio Dialogue Intent Recognition**|HongYu Liu et.al.|[2511.11000](http://arxiv.org/abs/2511.11000)|null|
 |**2025-11-14**|**Synthetic Voices, Real Threats: Evaluating Large Text-to-Speech Models in Generating Harmful Audio**|Guangke Chen et.al.|[2511.10913](http://arxiv.org/abs/2511.10913)|null|
-|**2025-11-14**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|null|
+|**2025-11-14**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng et.al.|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://github.com/Livioni/OmniVGGT-official)**|
 |**2025-11-13**|**Music Flamingo: Scaling Music Understanding in Audio Language Models**|Sreyan Ghosh et.al.|[2511.10289](http://arxiv.org/abs/2511.10289)|null|
 |**2025-11-13**|**OutSafe-Bench: A Benchmark for Multimodal Offensive Content Detection in Large Language Models**|Yuping Yan et.al.|[2511.10287](http://arxiv.org/abs/2511.10287)|null|
 |**2025-11-14**|**Speech-Audio Compositional Attacks on Multimodal LLMs and Their Mitigation with SALMONN-Guard**|Yudong Yang et.al.|[2511.10222](http://arxiv.org/abs/2511.10222)|null|
-|**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|null|
+|**2025-11-13**|**When Eyes and Ears Disagree: Can MLLMs Discern Audio-Visual Confusion?**|Qilang Ye et.al.|[2511.10059](http://arxiv.org/abs/2511.10059)|**[link](https://github.com/rikeilong/AVConfusion)**|
 |**2025-11-13**|**Do Language Models Associate Sound with Meaning? A Multimodal Study of Sound Symbolism**|Jinhong Jeong et.al.|[2511.10045](http://arxiv.org/abs/2511.10045)|null|
 |**2025-11-13**|**Reinforcing Trustworthiness in Multimodal Emotional Support Systems**|Huy M. Le et.al.|[2511.10011](http://arxiv.org/abs/2511.10011)|null|
 |**2025-11-13**|**Audio-VLA: Adding Contact Audio Perception to Vision-Language-Action Model for Robotic Manipulation**|Xiangyi Wei et.al.|[2511.09958](http://arxiv.org/abs/2511.09958)|null|
