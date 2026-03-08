@@ -1,4 +1,4 @@
-## Updated on 2026.03.07
+## Updated on 2026.03.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -73,7 +73,7 @@
 |**2026-02-16**|**Disentangling Pitch and Creak for Speaker Identity Preservation in Speech Synthesis**|Frederik Rautenberg et.al.|[2602.14686](http://arxiv.org/abs/2602.14686)|null|
 |**2026-02-16**|**Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions**|Parth Khadse et.al.|[2602.14664](http://arxiv.org/abs/2602.14664)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -130,7 +130,7 @@
 |**2026-01-30**|**DETOUR: An Interactive Benchmark for Dual-Agent Search and Reasoning**|Li Siyan et.al.|[2602.00352](http://arxiv.org/abs/2602.00352)|null|
 |**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -187,7 +187,7 @@
 |**2026-02-11**|**Acoustivision Pro: An Open-Source Interactive Platform for Room Impulse Response Analysis and Acoustic Characterization**|Mandip Goswami et.al.|[2602.12299](http://arxiv.org/abs/2602.12299)|null|
 |**2026-02-12**|**DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation**|Xu Guo et.al.|[2602.12160](http://arxiv.org/abs/2602.12160)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -244,7 +244,7 @@
 |**2026-01-21**|**Learning from Synthetic Data: Limitations of ERM**|Kareem Amin et.al.|[2601.15468](http://arxiv.org/abs/2601.15468)|null|
 |**2026-01-20**|**Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models**|Nikita Kuzmin et.al.|[2601.13948](http://arxiv.org/abs/2601.13948)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Video Generation
 
@@ -301,7 +301,7 @@
 |**2026-02-20**|**Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**|Aashish Chandra et.al.|[2602.18618](http://arxiv.org/abs/2602.18618)|null|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Image Generation
 
@@ -358,7 +358,7 @@
 |**2026-02-23**|**Training-Free Generative Modeling via Kernelized Stochastic Interpolants**|Florentin Coeurdoux et.al.|[2602.20070](http://arxiv.org/abs/2602.20070)|null|
 |**2026-02-23**|**RL-RIG: A Generative Spatial Reasoner via Intrinsic Reflection**|Tianyu Wang et.al.|[2602.19974](http://arxiv.org/abs/2602.19974)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Music Generation
 
@@ -415,7 +415,7 @@
 |**2025-12-01**|**Generative AI Compensates for Age-Related Cognitive Decline in Decision Making: Preference-Aligned Recommendations Reduce Choice Difficulty**|Sayaka Ishibashi et.al.|[2511.21164](http://arxiv.org/abs/2511.21164)|null|
 |**2025-11-26**|**CartoonSing: Unifying Human and Nonhuman Timbres in Singing Generation**|Jionghao Han et.al.|[2511.21045](http://arxiv.org/abs/2511.21045)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -472,7 +472,7 @@
 |**2025-12-29**|**Flow2GAN: Hybrid Flow Matching and GAN with Multi-Resolution Network for Few-step High-Fidelity Audio Generation**|Zengwei Yao et.al.|[2512.23278](http://arxiv.org/abs/2512.23278)|null|
 |**2025-12-25**|**Semantic Codebooks as Effective Priors for Neural Speech Compression**|Liuyang Bai et.al.|[2512.21653](http://arxiv.org/abs/2512.21653)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -529,7 +529,7 @@
 |**2026-02-08**|**D-ORCA: Dialogue-Centric Optimization for Robust Audio-Visual Captioning**|Changli Tang et.al.|[2602.07960](http://arxiv.org/abs/2602.07960)|null|
 |**2026-02-06**|**Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models**|Haoyu Zhang et.al.|[2602.07106](http://arxiv.org/abs/2602.07106)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## Editing
 
@@ -550,7 +550,7 @@
 |**2025-11-18**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 |**2025-11-18**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/abs/2511.04376)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 ## CV Editing
 
@@ -607,7 +607,7 @@
 |**2026-02-09**|**Rethinking Global Text Conditioning in Diffusion Transformers**|Nikita Starodubcev et.al.|[2602.09268](http://arxiv.org/abs/2602.09268)|null|
 |**2026-02-09**|**Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling**|Ruijie Ye et.al.|[2602.09084](http://arxiv.org/abs/2602.09084)|null|
 
-<p align=right>(<a href=#updated-on-20260307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
