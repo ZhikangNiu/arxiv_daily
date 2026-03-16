@@ -229,7 +229,7 @@
 |**2026-02-17**|**Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|
 |**2026-02-16**|**On the Parameterized Tractability of Packing Vertex-Disjoint A-Paths with Length Constraints**|Susobhan Bandopadhyay et.al.|[2602.14768](http://arxiv.org/abs/2602.14768)|null|
 |**2026-02-16**|**Removing Planner Bias in Goal Recognition Through Multi-Plan Dataset Generation**|Mustafa F. Abdelwahed et.al.|[2602.14691](http://arxiv.org/abs/2602.14691)|null|
-|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|null|
+|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|**[link](https://github.com/smileix/fal-ad)**|
 |**2026-02-14**|**ELEAT-SAGA: Early & Late Integration with Evading Alternating Training for Spoof-Robust Speaker Verification**|Amro Asali et.al.|[2602.13761](http://arxiv.org/abs/2602.13761)|null|
 |**2026-02-14**|**On the Sparsifiability of Correlation Clustering: Approximation Guarantees under Edge Sampling**|Ibne Farabi Shihab et.al.|[2602.13684](http://arxiv.org/abs/2602.13684)|null|
 |**2026-02-13**|**Empirical Validation of a Dual-Defense Mechanism Reshaping Wholesale Electricity Price Dynamics in Singapore**|Huang Zhenyu et.al.|[2602.12782](http://arxiv.org/abs/2602.12782)|null|
