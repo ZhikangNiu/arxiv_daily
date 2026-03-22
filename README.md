@@ -1,4 +1,4 @@
-## Updated on 2026.03.21
+## Updated on 2026.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -73,7 +73,7 @@
 |**2026-03-05**|**Let's Talk, Not Type: An Oral-First Multi-Agent Architecture for Guaraní**|Samantha Adorno et.al.|[2603.05743](http://arxiv.org/abs/2603.05743)|null|
 |**2026-03-05**|**Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial**|Jielin Qiu et.al.|[2603.05413](http://arxiv.org/abs/2603.05413)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -130,7 +130,7 @@
 |**2026-02-23**|**HD-TTA: Hypothesis-Driven Test-Time Adaptation for Safer Brain Tumor Segmentation**|Kartik Jhawar et.al.|[2602.19454](http://arxiv.org/abs/2602.19454)|null|
 |**2026-02-19**|**MusicSem: A Semantically Rich Language--Audio Dataset of Natural Music Descriptions**|Rebecca Salganik et.al.|[2602.17769](http://arxiv.org/abs/2602.17769)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -187,7 +187,7 @@
 |**2026-03-06**|**A Closed-Loop CPR Training Glove with Integrated Tactile Sensing and Haptic Feedback**|Jaeyoung Moon et.al.|[2603.05793](http://arxiv.org/abs/2603.05793)|null|
 |**2026-03-05**|**Interpretable Perception and Reasoning for Audiovisual Geolocation**|Yiyang Su et.al.|[2603.05708](http://arxiv.org/abs/2603.05708)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -244,7 +244,7 @@
 |**2026-02-14**|**On the Sparsifiability of Correlation Clustering: Approximation Guarantees under Edge Sampling**|Ibne Farabi Shihab et.al.|[2602.13684](http://arxiv.org/abs/2602.13684)|null|
 |**2026-02-13**|**Empirical Validation of a Dual-Defense Mechanism Reshaping Wholesale Electricity Price Dynamics in Singapore**|Huang Zhenyu et.al.|[2602.12782](http://arxiv.org/abs/2602.12782)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Video Generation
 
@@ -301,7 +301,7 @@
 |**2026-03-13**|**HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios**|Jiayue Pu et.al.|[2603.11975](http://arxiv.org/abs/2603.11975)|null|
 |**2026-03-12**|**Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints**|Chenyangguang Zhang et.al.|[2603.11755](http://arxiv.org/abs/2603.11755)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Image Generation
 
@@ -358,7 +358,7 @@
 |**2026-03-12**|**Naïve PAINE: Lightweight Text-to-Image Generation Improvement with Prompt Evaluation**|Joong Ho Kim et.al.|[2603.12506](http://arxiv.org/abs/2603.12506)|null|
 |**2026-03-12**|**The Latent Color Subspace: Emergent Order in High-Dimensional Chaos**|Mateusz Pach et.al.|[2603.12261](http://arxiv.org/abs/2603.12261)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Music Generation
 
@@ -415,7 +415,7 @@
 |**2025-11-27**|**Art2Music: Generating Music for Art Images with Multi-modal Feeling Alignment**|Jiaying Hong et.al.|[2512.00120](http://arxiv.org/abs/2512.00120)|null|
 |**2025-11-26**|**Generating Separated Singing Vocals Using a Diffusion Model Conditioned on Music Mixtures**|Genís Plaja-Roglans et.al.|[2511.21342](http://arxiv.org/abs/2511.21342)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -472,16 +472,16 @@
 |**2026-01-22**|**DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice**|Leying Zhang et.al.|[2601.15596](http://arxiv.org/abs/2601.15596)|null|
 |**2026-01-21**|**VCNAC: A Variable-Channel Neural Audio Codec for Mono, Stereo, and Surround Sound**|Florian Grötschla et.al.|[2601.14960](http://arxiv.org/abs/2601.14960)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Large Audio Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|
+|**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|**[link](https://github.com/Cynthiazxy123/SAMA)**|
 |**2026-03-19**|**How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic Evaluation**|Ke-Han Lu et.al.|[2603.19195](http://arxiv.org/abs/2603.19195)|null|
-|**2026-03-19**|**Words at Play: Benchmarking Audio Pun Understanding in Large Audio-Language Models**|Yuchen Su et.al.|[2603.18678](http://arxiv.org/abs/2603.18678)|null|
-|**2026-03-18**|**Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass**|Chen Liyi et.al.|[2603.17841](http://arxiv.org/abs/2603.17841)|null|
+|**2026-03-19**|**Words at Play: Benchmarking Audio Pun Understanding in Large Audio-Language Models**|Yuchen Su et.al.|[2603.18678](http://arxiv.org/abs/2603.18678)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-03-18**|**Omni-3DEdit: Generalized Versatile 3D Editing in One-Pass**|Chen Liyi et.al.|[2603.17841](http://arxiv.org/abs/2603.17841)|**[link](https://github.com/mt-cly/Omni3DEdit)**|
 |**2026-03-18**|**Multi-Source Evidence Fusion for Audio Question Answering**|Aivo Olev et.al.|[2603.17822](http://arxiv.org/abs/2603.17822)|null|
 |**2026-03-18**|**Federated Distributional Reinforcement Learning with Distributional Critic Regularization**|David Millard et.al.|[2603.17820](http://arxiv.org/abs/2603.17820)|null|
 |**2026-03-18**|**Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation**|Jiawei Zhou et.al.|[2603.17508](http://arxiv.org/abs/2603.17508)|null|
@@ -529,7 +529,7 @@
 |**2026-03-04**|**LabelBuddy: An Open Source Music and Audio Language Annotation Tagging Tool Using AI Assistance**|Ioannis Prokopiou et.al.|[2603.04293](http://arxiv.org/abs/2603.04293)|null|
 |**2026-03-03**|**MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**|Ashutosh Chaubey et.al.|[2603.03192](http://arxiv.org/abs/2603.03192)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## Editing
 
@@ -551,7 +551,7 @@
 |**2025-11-18**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 |**2025-11-18**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/abs/2511.04376)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 ## CV Editing
 
@@ -608,7 +608,7 @@
 |**2026-03-03**|**PRIVATEEDIT: A Privacy-Preserving Pipeline for Face-Centric Generative Image Editing**|Dipesh Tamboli et.al.|[2603.03412](http://arxiv.org/abs/2603.03412)|null|
 |**2026-03-03**|**NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing**|Tianlin Pan et.al.|[2603.02802](http://arxiv.org/abs/2603.02802)|null|
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
