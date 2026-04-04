@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.03
+## Updated on 2026.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
@@ -1036,7 +1036,7 @@ layout: default
 |**2026-04-02**|**CXR-LT 2026 Challenge: Projection-Aware Multi-Label and Zero-Shot Chest X-Ray Classification**|Juno Cho et.al.|[2604.02185](http://arxiv.org/abs/2604.02185)|null|
 |**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|null|
 |**2026-04-02**|**Woosh: A Sound Effects Foundation Model**|Gaëtan Hadjeres et.al.|[2604.01929](http://arxiv.org/abs/2604.01929)|null|
-|**2026-04-02**|**CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection Under Distribution Shift**|HyunGi Kim et.al.|[2604.01845](http://arxiv.org/abs/2604.01845)|null|
+|**2026-04-02**|**CANDI: Curated Test-Time Adaptation for Multivariate Time-Series Anomaly Detection Under Distribution Shift**|HyunGi Kim et.al.|[2604.01845](http://arxiv.org/abs/2604.01845)|**[link](https://github.com/kimanki/CANDI)**|
 |**2026-04-02**|**Mitigating the ID-OOD Tradeoff in Open-Set Test-Time Adaptation**|Wenjie Zhao et.al.|[2604.01589](http://arxiv.org/abs/2604.01589)|null|
 |**2026-04-01**|**FineLAP: Taming Heterogeneous Supervision for Fine-grained Language-Audio Pretraining**|Xiquan Li et.al.|[2604.01155](http://arxiv.org/abs/2604.01155)|null|
 |**2026-04-01**|**TTA-Vid: Generalized Test-Time Adaptation for Video Reasoning**|Soumya Shamarao Jahagirdar et.al.|[2604.00696](http://arxiv.org/abs/2604.00696)|null|
@@ -2249,6 +2249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Yang Zhou et.al.|[2604.01765](http://arxiv.org/abs/2604.01765)|null|
 |**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
 |**2026-04-02**|**Moiré Video Authentication: A Physical Signature Against AI Video Generation**|Yuan Qing et.al.|[2604.01654](http://arxiv.org/abs/2604.01654)|null|
@@ -3232,6 +3233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models**|Yaoteng Tan et.al.|[2604.02265](http://arxiv.org/abs/2604.02265)|null|
 |**2026-04-02**|**Low-Effort Jailbreak Attacks Against Text-to-Image Safety Filters**|Ahmed B Mustafa et.al.|[2604.01888](http://arxiv.org/abs/2604.01888)|null|
 |**2026-04-02**|**MAR-MAER: Metric-Aware and Ambiguity-Adaptive Autoregressive Image Generation**|Kai Dong et.al.|[2604.01864](http://arxiv.org/abs/2604.01864)|null|
 |**2026-04-02**|**SafeRoPE: Risk-specific Head-wise Embedding Rotation for Safe Generation in Rectified Flow Transformers**|Xiang Yang et.al.|[2604.01826](http://arxiv.org/abs/2604.01826)|null|
@@ -5314,6 +5316,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
 |**2026-04-02**|**FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition**|Taichi Endo et.al.|[2604.02088](http://arxiv.org/abs/2604.02088)|null|
 |**2026-04-02**|**NearID: Identity Representation Learning via Near-identity Distractors**|Aleksandar Cvejic et.al.|[2604.01973](http://arxiv.org/abs/2604.01973)|null|
 |**2026-04-02**|**SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image Editing**|Thinh Dao et.al.|[2604.01715](http://arxiv.org/abs/2604.01715)|null|
