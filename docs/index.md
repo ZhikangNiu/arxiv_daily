@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**On a stability of time-optimal version of the Boundary Control method**|Mikhail I. Belishev et.al.|[2604.02957](http://arxiv.org/abs/2604.02957)|null|
+|**2026-03-31**|**Evaluating Generalization and Robustness in Russian Anti-Spoofing: The RuASD Initiative**|Ksenia Lysikova et.al.|[2604.02374](http://arxiv.org/abs/2604.02374)|null|
 |**2026-04-02**|**Captioning Daily Activity Images in Early Childhood Education: Benchmark and Algorithm**|Sixing Li et.al.|[2604.01941](http://arxiv.org/abs/2604.01941)|null|
 |**2026-04-02**|**T5Gemma-TTS Technical Report**|Chihiro Arata et.al.|[2604.01760](http://arxiv.org/abs/2604.01760)|null|
 |**2026-03-31**|**Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS**|Kirill Borodin et.al.|[2604.01247](http://arxiv.org/abs/2604.01247)|null|
@@ -1502,6 +1504,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Digital Twin-Assisted In-Network and Edge Collaboration for Joint User Association, Task Offloading, and Resource Allocation in the Metaverse**|Ibrahim Aliyu et.al.|[2604.02938](http://arxiv.org/abs/2604.02938)|null|
+|**2026-04-03**|**DynFOA: Generating First-Order Ambisonics with Conditional Diffusion for Dynamic and Acoustically Complex 360-Degree Videos**|Ziyu Luo et.al.|[2604.02781](http://arxiv.org/abs/2604.02781)|null|
+|**2026-04-03**|**Do Audio-Visual Large Language Models Really See and Hear?**|Ramaneswaran Selvakumar et.al.|[2604.02605](http://arxiv.org/abs/2604.02605)|null|
+|**2026-04-02**|**Reliability-Aware Geometric Fusion for Robust Audio-Visual Navigation**|Teng Liu et.al.|[2604.02391](http://arxiv.org/abs/2604.02391)|null|
+|**2026-04-02**|**Spatial-Aware Conditioned Fusion for Audio-Visual Navigation**|Shaohang Wu et.al.|[2604.02390](http://arxiv.org/abs/2604.02390)|null|
+|**2026-04-02**|**Audio Spatially-Guided Fusion for Audio-Visual Navigation**|Xinyu Zhou et.al.|[2604.02389](http://arxiv.org/abs/2604.02389)|null|
 |**2026-04-02**|**Woosh: A Sound Effects Foundation Model**|Gaëtan Hadjeres et.al.|[2604.01929](http://arxiv.org/abs/2604.01929)|null|
 |**2026-04-02**|**As Far as Eye See: Vergence-Pupil Coupling in Near-Far Depth Switching**|Virmarie Maquiling et.al.|[2604.01917](http://arxiv.org/abs/2604.01917)|null|
 |**2026-04-02**|**CogPic: A Multimodal Dataset for Early Cognitive Impairment Assessment via Picture Description Tasks**|Liuyu Wu et.al.|[2604.01626](http://arxiv.org/abs/2604.01626)|null|
@@ -1944,6 +1952,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Sample compression schemes for balls in structurally sparse graphs**|Romain Bourneuf et.al.|[2604.02949](http://arxiv.org/abs/2604.02949)|null|
+|**2026-04-02**|**Robust Learning with Optimal Error**|Guy Blanc et.al.|[2604.02555](http://arxiv.org/abs/2604.02555)|null|
+|**2026-03-31**|**Evaluating Generalization and Robustness in Russian Anti-Spoofing: The RuASD Initiative**|Ksenia Lysikova et.al.|[2604.02374](http://arxiv.org/abs/2604.02374)|null|
 |**2026-04-02**|**T5Gemma-TTS Technical Report**|Chihiro Arata et.al.|[2604.01760](http://arxiv.org/abs/2604.01760)|null|
 |**2026-04-02**|**Acoustic and perceptual differences between standard and accented Chinese speech and their voice clones**|Tianle Yang et.al.|[2604.01562](http://arxiv.org/abs/2604.01562)|null|
 |**2026-04-01**|**Real-time virtual circuits for plasma shape control via neural network surrogates: dynamic validation in closed-loop simulations**|K. Pentland et.al.|[2604.00781](http://arxiv.org/abs/2604.00781)|null|
@@ -2249,6 +2260,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|
+|**2026-04-03**|**Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation**|Hanshuai Cui et.al.|[2604.02979](http://arxiv.org/abs/2604.02979)|null|
+|**2026-04-03**|**HairOrbit: Multi-view Aware 3D Hair Modeling from Single Portraits**|Leyang Jin et.al.|[2604.02867](http://arxiv.org/abs/2604.02867)|null|
+|**2026-04-03**|**MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling**|Shubo Lin et.al.|[2604.02817](http://arxiv.org/abs/2604.02817)|null|
 |**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|
 |**2026-04-02**|**DriveDreamer-Policy: A Geometry-Grounded World-Action Model for Unified Generation and Planning**|Yang Zhou et.al.|[2604.01765](http://arxiv.org/abs/2604.01765)|null|
 |**2026-04-02**|**DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data**|Wonjoon Jin et.al.|[2604.01666](http://arxiv.org/abs/2604.01666)|null|
@@ -3233,6 +3248,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|
+|**2026-04-03**|**Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection**|Wenhao Li et.al.|[2604.02966](http://arxiv.org/abs/2604.02966)|null|
+|**2026-04-03**|**Visual Instruction-Finetuned Language Model for Versatile Brain MR Image Tasks**|Jonghun Kim et.al.|[2604.02748](http://arxiv.org/abs/2604.02748)|null|
+|**2026-04-03**|**ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving**|Zihao Sheng et.al.|[2604.02714](http://arxiv.org/abs/2604.02714)|null|
+|**2026-04-02**|**SEDGE: Structural Extrapolated Data Generation**|Kun Zhang et.al.|[2604.02482](http://arxiv.org/abs/2604.02482)|null|
 |**2026-04-02**|**Modular Energy Steering for Safe Text-to-Image Generation with Foundation Models**|Yaoteng Tan et.al.|[2604.02265](http://arxiv.org/abs/2604.02265)|null|
 |**2026-04-02**|**Low-Effort Jailbreak Attacks Against Text-to-Image Safety Filters**|Ahmed B Mustafa et.al.|[2604.01888](http://arxiv.org/abs/2604.01888)|null|
 |**2026-04-02**|**MAR-MAER: Metric-Aware and Ambiguity-Adaptive Autoregressive Image Generation**|Kai Dong et.al.|[2604.01864](http://arxiv.org/abs/2604.01864)|null|
@@ -4559,6 +4579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Evaluating Generalization and Robustness in Russian Anti-Spoofing: The RuASD Initiative**|Ksenia Lysikova et.al.|[2604.02374](http://arxiv.org/abs/2604.02374)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
 |**2026-03-27**|**findsylls: A Language-Agnostic Toolkit for Syllable-Level Speech Tokenization and Embedding**|Héctor Javier Vázquez Martínez et.al.|[2603.26292](http://arxiv.org/abs/2603.26292)|null|
 |**2026-03-27**|**Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR**|Shashi Kumar et.al.|[2603.26246](http://arxiv.org/abs/2603.26246)|null|
@@ -4824,6 +4845,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**CANDLE: Illumination-Invariant Semantic Priors for Color Ambient Lighting Normalization**|Rong-Lin Jian et.al.|[2604.02785](http://arxiv.org/abs/2604.02785)|null|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|
 |**2026-04-01**|**Geomagnetic Storm Impacts On The Ionosphere Over Türkiye During Solar Cycle 25: Focusing On The May 2024 Storm**|Ege Eraydın et.al.|[2604.01276](http://arxiv.org/abs/2604.01276)|null|
 |**2026-04-01**|**FineLAP: Taming Heterogeneous Supervision for Fine-grained Language-Audio Pretraining**|Xiquan Li et.al.|[2604.01155](http://arxiv.org/abs/2604.01155)|null|
 |**2026-04-02**|**Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory**|Jiaqi Liu et.al.|[2604.01007](http://arxiv.org/abs/2604.01007)|null|
@@ -5316,6 +5339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|
+|**2026-04-03**|**Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks**|Weixiong Sun et.al.|[2604.03061](http://arxiv.org/abs/2604.03061)|null|
 |**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
 |**2026-04-02**|**FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition**|Taichi Endo et.al.|[2604.02088](http://arxiv.org/abs/2604.02088)|null|
 |**2026-04-02**|**NearID: Identity Representation Learning via Near-identity Distractors**|Aleksandar Cvejic et.al.|[2604.01973](http://arxiv.org/abs/2604.01973)|null|
