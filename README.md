@@ -496,10 +496,10 @@
 |**2026-04-16**|**Zero-Shot Retail Theft Detection via Orchestrated Vision Models: A Model-Agnostic, Cost-Effective Alternative to Trained Single-Model Systems**|Haileab Yagersew et.al.|[2604.14846](http://arxiv.org/abs/2604.14846)|null|
 |**2026-04-16**|**Listen, Pause, and Reason: Toward Perception-Grounded Hybrid Reasoning for Audio Understanding**|Jieyi Wang et.al.|[2604.14806](http://arxiv.org/abs/2604.14806)|null|
 |**2026-04-16**|**UniPASE: A Generative Model for Universal Speech Enhancement with High Fidelity and Low Hallucinations**|Xiaobin Rong et.al.|[2604.14606](http://arxiv.org/abs/2604.14606)|null|
-|**2026-04-16**|**Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection**|Meng Chen et.al.|[2604.14604](http://arxiv.org/abs/2604.14604)|null|
+|**2026-04-16**|**Hijacking Large Audio-Language Models via Context-Agnostic and Imperceptible Auditory Prompt Injection**|Meng Chen et.al.|[2604.14604](http://arxiv.org/abs/2604.14604)|**[link](https://github.com/audiohijack/audiohijack.github.io)**|
 |**2026-04-16**|**Chain of Modality: From Static Fusion to Dynamic Orchestration in Omni-MLLMs**|Ziyang Luo et.al.|[2604.14520](http://arxiv.org/abs/2604.14520)|null|
 |**2026-04-15**|**Towards Fine-grained Temporal Perception: Post-Training Large Audio-Language Models with Audio-Side Time Prompt**|Yanfeng Shi et.al.|[2604.13715](http://arxiv.org/abs/2604.13715)|null|
-|**2026-04-15**|**MIND: AI Co-Scientist for Material Research**|Geonhee Ahn et.al.|[2604.13699](http://arxiv.org/abs/2604.13699)|null|
+|**2026-04-15**|**MIND: AI Co-Scientist for Material Research**|Geonhee Ahn et.al.|[2604.13699](http://arxiv.org/abs/2604.13699)|**[link](https://github.com/IMMS-Ewha/MIND)**|
 |**2026-04-15**|**AVID: A Benchmark for Omni-Modal Audio-Visual Inconsistency Understanding via Agent-Driven Construction**|Zixuan Chen et.al.|[2604.13593](http://arxiv.org/abs/2604.13593)|null|
 |**2026-04-14**|**SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding**|Luoyi Sun et.al.|[2604.13023](http://arxiv.org/abs/2604.13023)|null|
 |**2026-04-14**|**Audio-Cogito: Towards Deep Audio Reasoning in Large Audio Language Models**|Longhao Li et.al.|[2604.12527](http://arxiv.org/abs/2604.12527)|null|
@@ -542,7 +542,7 @@
 |**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
 |**2026-03-15**|**Localizing and Editing Knowledge in Large Audio-Language Models**|Sung Kyun Chung et.al.|[2603.14343](http://arxiv.org/abs/2603.14343)|null|
-|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|null|
+|**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|**[link](https://github.com/juhayna-zh/AudioControlNet)**|
 |**2026-01-31**|**Edit Content, Preserve Acoustics: Imperceptible Text-Based Speech Editing via Self-Consistency Rewards**|Yong Ren et.al.|[2602.00560](http://arxiv.org/abs/2602.00560)|null|
 |**2026-04-08**|**Unifying Speech Editing Detection and Content Localization via Prior-Enhanced Audio LLMs**|Jun Xue et.al.|[2601.21463](http://arxiv.org/abs/2601.21463)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
