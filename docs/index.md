@@ -2,16 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.04.25
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Reionization, UV Luminosity and 21 $\,$ cm Sensitivity to Primordial Magnetic Fields: Impact of Energy Losses**|Gaétan Facchinetti et.al.|[2604.22703](http://arxiv.org/abs/2604.22703)|null|
+|**2026-04-24**|**WAsp: The Wideband (W) Adaptive-Scale Pixel (Asp) Deconvolution Algorithm for Interferometric Imaging**|M. Hsieh et.al.|[2604.22691](http://arxiv.org/abs/2604.22691)|null|
+|**2026-04-24**|**TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis**|Xi Wang et.al.|[2604.22225](http://arxiv.org/abs/2604.22225)|null|
+|**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
 |**2026-04-23**|**Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages**|Srija Anand et.al.|[2604.21481](http://arxiv.org/abs/2604.21481)|null|
 |**2026-04-23**|**Analysis of the sine-Gordon equation with a nonlinear $δ$ -potential**|Sergio Moroni et.al.|[2604.21185](http://arxiv.org/abs/2604.21185)|null|
-|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|**[link](https://github.com/yongaifadian1/MAGIC-TTS)**|
+|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|null|
 |**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
 |**2026-04-21**|**Text-To-Speech with Chain-of-Details: modeling temporal dynamics in speech generation**|Jianbo Ma et.al.|[2604.19330](http://arxiv.org/abs/2604.19330)|null|
 |**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
@@ -918,6 +922,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
 |**2026-04-20**|**A novel LSTM music generator based on the fractional time-frequency feature extraction**|Li Ya et.al.|[2604.17823](http://arxiv.org/abs/2604.17823)|null|
 |**2026-04-22**|**Video-Robin: Autoregressive Diffusion Planning for Intent-Grounded Video-to-Music Generation**|Vaibhavi Lokegaonkar et.al.|[2604.17656](http://arxiv.org/abs/2604.17656)|null|
 |**2026-04-10**|**MAGE: Modality-Agnostic Music Generation and Editing**|Muhammad Usama Saleem et.al.|[2604.09803](http://arxiv.org/abs/2604.09803)|null|
@@ -1103,7 +1108,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-23**|**Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation**|Yingkai Yang et.al.|[2604.21772](http://arxiv.org/abs/2604.21772)|**[link](https://github.com/ekyle0522/DOCO)**|
+|**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
+|**2026-04-23**|**Back to Source: Open-Set Continual Test-Time Adaptation via Domain Compensation**|Yingkai Yang et.al.|[2604.21772](http://arxiv.org/abs/2604.21772)|null|
 |**2026-04-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2604.21360](http://arxiv.org/abs/2604.21360)|null|
 |**2026-04-23**|**an interpretable vision transformer framework for automated brain tumor classification**|Chinedu Emmanuel Mbonu et.al.|[2604.21311](http://arxiv.org/abs/2604.21311)|null|
 |**2026-04-21**|**Multi-modal Test-time Adaptation via Adaptive Probabilistic Gaussian Calibration**|Jinglin Xu et.al.|[2604.19093](http://arxiv.org/abs/2604.19093)|null|
@@ -2118,6 +2124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Nature of point defects in bulk hexagonal diamond**|Ling Zhu et.al.|[2604.22393](http://arxiv.org/abs/2604.22393)|null|
 |**2026-04-22**|**Critical Activation Voltage for Phonon-Mediated Field-Driven Phenomena**|Ric Fulop et.al.|[2604.20089](http://arxiv.org/abs/2604.20089)|null|
 |**2026-04-22**|**Robust Uniform Recovery of Structured Signals from Nonlinear Observations**|Pedro Abdalla et.al.|[2604.20075](http://arxiv.org/abs/2604.20075)|null|
 |**2026-04-20**|**Parameterized Capacitated Vertex Cover Revisited**|Michael Lampis et.al.|[2604.18746](http://arxiv.org/abs/2604.18746)|null|
@@ -2444,6 +2451,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
+|**2026-04-24**|**Video Analysis and Generation via a Semantic Progress Function**|Gal Metzer et.al.|[2604.22554](http://arxiv.org/abs/2604.22554)|null|
 |**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
 |**2026-04-22**|**Building a Precise Video Language with Human-AI Oversight**|Zhiqiu Lin et.al.|[2604.21718](http://arxiv.org/abs/2604.21718)|null|
 |**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|null|
@@ -3519,6 +3528,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Structure-Guided Diffusion Model for EEG-Based Visual Cognition Reconstruction**|Yongxiang Lian et.al.|[2604.22649](http://arxiv.org/abs/2604.22649)|null|
+|**2026-04-24**|**Knowledge Visualization: A Benchmark and Method for Knowledge-Intensive Text-to-Image Generation**|Ran Zhao et.al.|[2604.22302](http://arxiv.org/abs/2604.22302)|null|
+|**2026-04-24**|**Evaluation of image simulation open source solutions for simulation of synthetic images in lunar environment**|Jai G Singla et.al.|[2604.22296](http://arxiv.org/abs/2604.22296)|null|
 |**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|
 |**2026-04-23**|**Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models**|Mohammed Safi Ur Rahman Khan et.al.|[2604.21523](http://arxiv.org/abs/2604.21523)|null|
 |**2026-04-23**|**VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution**|Yixuan Zhu et.al.|[2604.21450](http://arxiv.org/abs/2604.21450)|null|
@@ -5225,6 +5237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**Listening with Time: Precise Temporal Awareness for Long-Form Audio Understanding**|Mingchen Shao et.al.|[2604.22245](http://arxiv.org/abs/2604.22245)|null|
 |**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
 |**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
 |**2026-04-22**|**AVISE: Framework for Evaluating the Security of AI Systems**|Mikko Lempinen et.al.|[2604.20833](http://arxiv.org/abs/2604.20833)|null|
@@ -5762,6 +5775,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-24**|**FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing**|Ze Chen et.al.|[2604.22586](http://arxiv.org/abs/2604.22586)|null|
+|**2026-04-23**|**How Many Visual Levers Drive Urban Perception? Interventional Counterfactuals via Multiple Localised Edits**|Jason Tang et.al.|[2604.22103](http://arxiv.org/abs/2604.22103)|null|
 |**2026-04-22**|**Linear Image Generation by Synthesizing Exposure Brackets**|Yuekun Dai et.al.|[2604.21008](http://arxiv.org/abs/2604.21008)|null|
 |**2026-04-22**|**ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**|Shelly Golan et.al.|[2604.20816](http://arxiv.org/abs/2604.20816)|null|
 |**2026-04-22**|**Exploring Spatial Intelligence from a Generative Perspective**|Muzhi Zhu et.al.|[2604.20570](http://arxiv.org/abs/2604.20570)|null|
