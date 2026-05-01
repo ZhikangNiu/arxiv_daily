@@ -2,15 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Deeply virtual pion production through two-loop order**|Wen Chen et.al.|[2604.28164](http://arxiv.org/abs/2604.28164)|null|
+|**2026-04-30**|**Compressibility of micromagnetic solutions in tensor train format**|Thierry Valet et.al.|[2604.28008](http://arxiv.org/abs/2604.28008)|null|
+|**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
+|**2026-04-30**|**I'm Fine, But My Voice Isn't: Cross-Modal Affective Dissonance Detection for Reflective Journaling**|Sumin Lee et.al.|[2604.27517](http://arxiv.org/abs/2604.27517)|null|
+|**2026-04-30**|**MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction**|Junbo Cui et.al.|[2604.27393](http://arxiv.org/abs/2604.27393)|null|
+|**2026-04-30**|**Active Galactic Nucleus Feedback in an Elliptical Galaxy. IV. The Importance of the Jet Wind Coupling**|Minhang Guo et.al.|[2604.27332](http://arxiv.org/abs/2604.27332)|null|
+|**2026-04-30**|**Few-Shot Accent Synthesis for ASR with LLM-Guided Phoneme Editing**|Yurii Halychanskyi et.al.|[2604.27273](http://arxiv.org/abs/2604.27273)|null|
+|**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|
 |**2026-04-29**|**EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses**|Shuhao Xu et.al.|[2604.26417](http://arxiv.org/abs/2604.26417)|null|
-|**2026-04-29**|**The False Resonance: A Critical Examination of Emotion Embedding Similarity for Speech Generation Evaluation**|Yun-Shao Tsai et.al.|[2604.26347](http://arxiv.org/abs/2604.26347)|**[link](https://github.com/danielqwer/False-Resonate)**|
+|**2026-04-29**|**The False Resonance: A Critical Examination of Emotion Embedding Similarity for Speech Generation Evaluation**|Yun-Shao Tsai et.al.|[2604.26347](http://arxiv.org/abs/2604.26347)|null|
 |**2026-04-28**|**One Voice, Many Tongues: Cross-Lingual Voice Cloning for Scientific Speech**|Amanuel Gizachew Abebe et.al.|[2604.26136](http://arxiv.org/abs/2604.26136)|null|
 |**2026-04-28**|**Local tensor-train surrogates for quantum learning models**|Sreeraj Rajindran Nair et.al.|[2604.25631](http://arxiv.org/abs/2604.25631)|null|
 |**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|**[link](https://github.com/praxelhq/psp-eval)**|
@@ -1633,6 +1641,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Are DeepFakes Realistic Enough? Exploring Semantic Mismatch as a Novel Challenge**|Sharayu Nilesh Deshmukh et.al.|[2604.28022](http://arxiv.org/abs/2604.28022)|null|
+|**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|null|
+|**2026-04-30**|**BUT System Description for CHiME-9 MCoRec Challenge**|Dominik Klement et.al.|[2604.27436](http://arxiv.org/abs/2604.27436)|null|
 |**2026-04-29**|**Attribution-Guided Multimodal Deepfake Detection via Cross-Modal Forensic Fingerprints**|Wasim Ahmad et.al.|[2604.26453](http://arxiv.org/abs/2604.26453)|null|
 |**2026-04-29**|**OmniTrend: Content-Context Modeling for Scalable Social Popularity Prediction**|Liliang Ye et.al.|[2604.26252](http://arxiv.org/abs/2604.26252)|null|
 |**2026-04-28**|**ML-SAN: Multi-Level Speaker-Adaptive Network for Emotion Recognition in Conversations**|Kexue Wang et.al.|[2604.25383](http://arxiv.org/abs/2604.25383)|null|
@@ -2154,6 +2165,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**VC-Density in Divisible Oriented Abelian Groups and Their Pairs**|Ebru Nayir et.al.|[2604.27816](http://arxiv.org/abs/2604.27816)|null|
+|**2026-04-30**|**Benchmarking virtual cell models for in-the-wild perturbation response**|Xinjie Mao et.al.|[2604.27646](http://arxiv.org/abs/2604.27646)|null|
+|**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
+|**2026-04-29**|**Agent Name Service (ANS): A Proof-of-Concept Trust Layer for Secure AI Agent Discovery, Identity, and Governance in Kubernetes**|Akshay Mittal et.al.|[2604.26997](http://arxiv.org/abs/2604.26997)|null|
 |**2026-04-29**|**The False Resonance: A Critical Examination of Emotion Embedding Similarity for Speech Generation Evaluation**|Yun-Shao Tsai et.al.|[2604.26347](http://arxiv.org/abs/2604.26347)|null|
 |**2026-04-28**|**One Voice, Many Tongues: Cross-Lingual Voice Cloning for Scientific Speech**|Amanuel Gizachew Abebe et.al.|[2604.26136](http://arxiv.org/abs/2604.26136)|null|
 |**2026-04-28**|**Robust Accent Identification via Voice Conversion and Non-Timbral Embeddings**|Rayane Bakari et.al.|[2604.25332](http://arxiv.org/abs/2604.25332)|null|
@@ -2491,6 +2506,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-30**|**AesRM: Improving Video Aesthetics with Expert-Level Feedback**|Yujin Han et.al.|[2604.28078](http://arxiv.org/abs/2604.28078)|null|
+|**2026-04-30**|**MotuBrain: An Advanced World Action Model for Robot Control**|MotuBrain Team et.al.|[2604.27792](http://arxiv.org/abs/2604.27792)|null|
+|**2026-04-30**|**ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control**|Yanghao Zhou et.al.|[2604.27711](http://arxiv.org/abs/2604.27711)|null|
+|**2026-04-30**|**Robot Learning from Human Videos: A Survey**|Junyi Ma et.al.|[2604.27621](http://arxiv.org/abs/2604.27621)|null|
+|**2026-04-30**|**SandSim: Curve-Guided Gaussian Splatting for Reconstructing Sand Painting Processes**|Yilin Wang et.al.|[2604.27572](http://arxiv.org/abs/2604.27572)|null|
+|**2026-04-30**|**ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space**|Gabe Guo et.al.|[2604.27443](http://arxiv.org/abs/2604.27443)|null|
+|**2026-04-30**|**YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal**|Chenyang Wu et.al.|[2604.27322](http://arxiv.org/abs/2604.27322)|null|
 |**2026-04-29**|**DepthPilot: From Controllability to Interpretability in Colonoscopy Video Generation**|Junhu Fu et.al.|[2604.26232](http://arxiv.org/abs/2604.26232)|null|
 |**2026-04-28**|**Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation**|Yupeng Zhou et.al.|[2604.25819](http://arxiv.org/abs/2604.25819)|null|
 |**2026-04-28**|**A Systematic Post-Train Framework for Video Generation**|Zeyue Xue et.al.|[2604.25427](http://arxiv.org/abs/2604.25427)|null|
@@ -3580,6 +3603,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures**|Ishrak Hamim Mahi et.al.|[2604.27804](http://arxiv.org/abs/2604.27804)|null|
+|**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
+|**2026-04-29**|**Membership Inference Attacks Against Video Large Language Models**|Wei Song et.al.|[2604.27002](http://arxiv.org/abs/2604.27002)|null|
+|**2026-04-28**|**Simple Self-Conditioning Adaptation for Masked Diffusion Models**|Michael Cardei et.al.|[2604.26985](http://arxiv.org/abs/2604.26985)|null|
 |**2026-04-29**|**SEAL: Semantic-aware Single-image Sticker Personalization with a Large-scale Sticker-tag Dataset**|Changhyun Roh et.al.|[2604.26883](http://arxiv.org/abs/2604.26883)|null|
 |**2026-04-29**|**ACPO: Anchor-Constrained Perceptual Optimization for Diffusion Models with No-Reference Quality Guidance**|Yang Yang et.al.|[2604.26348](http://arxiv.org/abs/2604.26348)|null|
 |**2026-04-29**|**SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness**|Haiyi Qiu et.al.|[2604.26341](http://arxiv.org/abs/2604.26341)|null|
@@ -5310,6 +5337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction**|Junbo Cui et.al.|[2604.27393](http://arxiv.org/abs/2604.27393)|null|
 |**2026-04-28**|**Step-Audio-R1.5 Technical Report**|Yuxin Zhang et.al.|[2604.25719](http://arxiv.org/abs/2604.25719)|null|
 |**2026-04-28**|**The odd-parity ALM induced reconstruction of the Chern-insulating phase in Haldane-Hubbard model**|Minghuan Zeng et.al.|[2604.25537](http://arxiv.org/abs/2604.25537)|null|
 |**2026-04-27**|**Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence**|NVIDIA et.al.|[2604.24954](http://arxiv.org/abs/2604.24954)|null|
@@ -5857,6 +5885,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Leveraging Verifier-Based Reinforcement Learning in Image Editing**|Hanzhong Guo et.al.|[2604.27505](http://arxiv.org/abs/2604.27505)|null|
 |**2026-04-29**|**SpatialFusion: Endowing Unified Image Generation with Intrinsic 3D Geometric Awareness**|Haiyi Qiu et.al.|[2604.26341](http://arxiv.org/abs/2604.26341)|null|
 |**2026-04-28**|**DDA-Thinker: Decoupled Dual-Atomic Reinforcement Learning for Reasoning-Driven Image Editing**|Hanqing Yang et.al.|[2604.25477](http://arxiv.org/abs/2604.25477)|null|
 |**2026-04-28**|**DATAREEL: Automated Data-Driven Video Story Generation with Animations**|Ridwan Mahbub et.al.|[2604.25220](http://arxiv.org/abs/2604.25220)|null|
@@ -5864,7 +5893,7 @@ layout: default
 |**2026-04-27**|**Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion**|Zhongjie Duan et.al.|[2604.24351](http://arxiv.org/abs/2604.24351)|null|
 |**2026-04-26**|**Latent Inter-Frame Pruning: A Training-Free Method Bridging Traditional Video Compression and Modern Diffusion Transformers for Efficient Generation**|Dennis Menn et.al.|[2604.23858](http://arxiv.org/abs/2604.23858)|null|
 |**2026-04-29**|**Prox-E: Fine-Grained 3D Shape Editing via Primitive-Based Abstractions**|Etai Sella et.al.|[2604.23774](http://arxiv.org/abs/2604.23774)|null|
-|**2026-04-26**|**Edit Where You Mean: Region-Aware Adapter Injection for Mask-Free Local Image Editing**|Honghao Cai et.al.|[2604.23763](http://arxiv.org/abs/2604.23763)|null|
+|**2026-04-30**|**Edit Where You Mean: Region-Aware Adapter Injection for Mask-Free Local Image Editing**|Honghao Cai et.al.|[2604.23763](http://arxiv.org/abs/2604.23763)|null|
 |**2026-04-28**|**SketchVLM: Vision language models can annotate images to explain thoughts and guide users**|Brandon Collins et.al.|[2604.22875](http://arxiv.org/abs/2604.22875)|null|
 |**2026-04-23**|**Probing Visual Planning in Image Editing Models**|Zhimu Zhou et.al.|[2604.22868](http://arxiv.org/abs/2604.22868)|null|
 |**2026-04-24**|**FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing**|Ze Chen et.al.|[2604.22586](http://arxiv.org/abs/2604.22586)|null|
