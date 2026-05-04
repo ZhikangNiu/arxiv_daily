@@ -798,7 +798,7 @@ layout: default
 |**2025-09-09**|**Speaker Privacy and Security in the Big Data Era: Protection and Defense against Deepfake**|Liping Chen et.al.|[2509.06361](http://arxiv.org/abs/2509.06361)|null|
 |**2025-09-07**|**Multiplicity distributions in QCD jets and jet topics**|Xiang-Pan Duan et.al.|[2509.06158](http://arxiv.org/abs/2509.06158)|null|
 |**2025-09-07**|**UniVerse-1: Unified Audio-Video Generation via Stitching of Experts**|Duomin Wang et.al.|[2509.06155](http://arxiv.org/abs/2509.06155)|null|
-|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|
+|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|**[link](https://github.com/AI-S2-Lab/MFCIG-CSS)**|
 |**2025-09-07**|**Solar System Experiments in the Search for Dark Energy and Dark Matter**|Slava G. Turyshev et.al.|[2509.05910](http://arxiv.org/abs/2509.05910)|null|
 |**2025-09-06**|**LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization**|Luis Felipe Chary et.al.|[2509.05863](http://arxiv.org/abs/2509.05863)|null|
 |**2025-09-05**|**Testing Magnetic Field Configurations in Spider Pulsar PSR J1723-2837 with IXPE**|Michela Negro et.al.|[2509.05240](http://arxiv.org/abs/2509.05240)|null|
@@ -2811,7 +2811,7 @@ layout: default
 |**2026-02-27**|**SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls**|Qianxun Xu et.al.|[2602.23956](http://arxiv.org/abs/2602.23956)|null|
 |**2026-02-27**|**U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation**|Xiang Deng et.al.|[2602.23739](http://arxiv.org/abs/2602.23739)|null|
 |**2026-02-26**|**ColoDiff: Integrating Dynamic Consistency With Content Awareness for Colonoscopy Video Generation**|Junhu Fu et.al.|[2602.23203](http://arxiv.org/abs/2602.23203)|null|
-|**2026-02-26**|**The Trinity of Consistency as a Defining Principle for General World Models**|Jingxuan Wei et.al.|[2602.23152](http://arxiv.org/abs/2602.23152)|null|
+|**2026-02-26**|**The Trinity of Consistency as a Defining Principle for General World Models**|Jingxuan Wei et.al.|[2602.23152](http://arxiv.org/abs/2602.23152)|**[link](https://github.com/OpenRaiser/CoW-Bench)**|
 |**2026-02-26**|**UCM: Unifying Camera Control and Memory with Time-aware Positional Encoding Warping for World Models**|Tianxing Xu et.al.|[2602.22960](http://arxiv.org/abs/2602.22960)|null|
 |**2026-02-27**|**SPATIALALIGN: Aligning Dynamic Spatial Relationships in Video Generation**|Fengming Liu et.al.|[2602.22745](http://arxiv.org/abs/2602.22745)|null|
 |**2026-02-26**|**Denoising as Path Planning: Training-Free Acceleration of Diffusion Models with DPCache**|Bowen Cui et.al.|[2602.22654](http://arxiv.org/abs/2602.22654)|null|
@@ -2823,7 +2823,7 @@ layout: default
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|
 |**2026-02-23**|**PedaCo-Gen: Scaffolding Pedagogical Agency in Human-AI Collaborative Video Authoring**|Injun Baek et.al.|[2602.19623](http://arxiv.org/abs/2602.19623)|null|
 |**2026-02-22**|**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**|Kai Liu et.al.|[2602.19163](http://arxiv.org/abs/2602.19163)|null|
-|**2026-02-22**|**Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation**|Lunjie Zhu et.al.|[2602.19161](http://arxiv.org/abs/2602.19161)|null|
+|**2026-02-22**|**Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation**|Lunjie Zhu et.al.|[2602.19161](http://arxiv.org/abs/2602.19161)|**[link](https://github.com/Aoko955/Flash-VAED)**|
 |**2026-02-21**|**RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning**|Seungku Kim et.al.|[2602.18742](http://arxiv.org/abs/2602.18742)|null|
 |**2026-02-20**|**Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**|Aashish Chandra et.al.|[2602.18618](http://arxiv.org/abs/2602.18618)|null|
 |**2026-02-20**|**Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control**|Linxi Xie et.al.|[2602.18422](http://arxiv.org/abs/2602.18422)|null|
@@ -4270,7 +4270,7 @@ layout: default
 |**2025-12-18**|**RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing**|Tianyuan Qu et.al.|[2512.16864](http://arxiv.org/abs/2512.16864)|null|
 |**2025-12-18**|**GenEval 2: Addressing Benchmark Drift in Text-to-Image Evaluation**|Amita Kamath et.al.|[2512.16853](http://arxiv.org/abs/2512.16853)|null|
 |**2025-12-18**|**FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering**|Ole Beisswenger et.al.|[2512.16670](http://arxiv.org/abs/2512.16670)|null|
-|**2025-12-18**|**REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion**|Giorgos Petsangourakis et.al.|[2512.16636](http://arxiv.org/abs/2512.16636)|null|
+|**2025-12-18**|**REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion**|Giorgos Petsangourakis et.al.|[2512.16636](http://arxiv.org/abs/2512.16636)|**[link](https://github.com/reglueyourlatents/reglueyourlatents.github.io)**|
 |**2025-12-18**|**DeContext as Defense: Safe Image Editing in Diffusion Transformers**|Linghui Shen et.al.|[2512.16625](http://arxiv.org/abs/2512.16625)|null|
 |**2025-12-18**|**Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers**|Yifan Zhou et.al.|[2512.16615](http://arxiv.org/abs/2512.16615)|null|
 |**2025-12-16**|**InpaintDPO: Mitigating Spatial Relationship Hallucinations in Foreground-conditioned Inpainting via Diverse Preference Optimization**|Qirui Li et.al.|[2512.15644](http://arxiv.org/abs/2512.15644)|null|
@@ -5214,7 +5214,7 @@ layout: default
 |**2025-11-14**|**TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models**|Hualei Wang et.al.|[2511.11039](http://arxiv.org/abs/2511.11039)|null|
 |**2025-11-09**|**Towards Fine-Grained Code-Switch Speech Translation with Semantic Space Alignment**|Yan Gao et.al.|[2511.10670](http://arxiv.org/abs/2511.10670)|null|
 |**2025-11-13**|**VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction**|Yuhao Wang et.al.|[2511.10232](http://arxiv.org/abs/2511.10232)|null|
-|**2025-11-13**|**Towards Leveraging Sequential Structure in Animal Vocalizations**|Eklavya Sarkar et.al.|[2511.10190](http://arxiv.org/abs/2511.10190)|null|
+|**2025-11-13**|**Towards Leveraging Sequential Structure in Animal Vocalizations**|Eklavya Sarkar et.al.|[2511.10190](http://arxiv.org/abs/2511.10190)|**[link](https://github.com/denhk6/2511COMP101904-LTW)**|
 |**2025-11-12**|**POTSA: A Cross-Lingual Speech Alignment Framework for Low Resource Speech-to-Text Translation**|Xuanchen Li et.al.|[2511.09232](http://arxiv.org/abs/2511.09232)|null|
 |**2025-11-12**|**HQ-SVC: Towards High-Quality Zero-Shot Singing Voice Conversion in Low-Resource Scenarios**|Bingsong Bai et.al.|[2511.08496](http://arxiv.org/abs/2511.08496)|null|
 |**2025-11-10**|**Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models**|Umberto Cappellazzo et.al.|[2511.07253](http://arxiv.org/abs/2511.07253)|**[link](https://github.com/umbertocappellazzo/Omni-AVSR)**|
@@ -5956,7 +5956,7 @@ layout: default
 |**2026-04-09**|**PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing**|Ruihang Xu et.al.|[2604.07230](http://arxiv.org/abs/2604.07230)|null|
 |**2026-04-08**|**SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation**|Qizhou Wang et.al.|[2604.07101](http://arxiv.org/abs/2604.07101)|null|
 |**2026-04-07**|**Evolution of Video Generative Foundations**|Teng Hu et.al.|[2604.06339](http://arxiv.org/abs/2604.06339)|null|
-|**2026-04-07**|**Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction**|Ahmet Rasim Emirdagi et.al.|[2604.05934](http://arxiv.org/abs/2604.05934)|null|
+|**2026-04-07**|**Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction**|Ahmet Rasim Emirdagi et.al.|[2604.05934](http://arxiv.org/abs/2604.05934)|**[link](https://github.com/ahmetemirdagi/CT-EditMAR)**|
 |**2026-04-06**|**MIRAGE: Benchmarking and Aligning Multi-Instance Image Editing**|Ziqian Liu et.al.|[2604.05180](http://arxiv.org/abs/2604.05180)|null|
 |**2026-04-06**|**GLANCE: A Global-Local Coordination Multi-Agent Framework for Music-Grounded Non-Linear Video Editing**|Zihao Lin et.al.|[2604.05076](http://arxiv.org/abs/2604.05076)|null|
 |**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
