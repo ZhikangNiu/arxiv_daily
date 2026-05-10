@@ -1,4 +1,4 @@
-## Updated on 2026.05.08
+## Updated on 2026.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|**[link](https://github.com/yanghaha0908/WavCube)**|
 |**2026-05-07**|**Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM**|Wenqian Cui et.al.|[2605.05927](http://arxiv.org/abs/2605.05927)|null|
 |**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-07**|**BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models**|Sai Babu Patarlapalli et.al.|[2605.05561](http://arxiv.org/abs/2605.05561)|null|
@@ -73,7 +73,7 @@
 |**2026-04-19**|**HCFD: A Benchmark for Audio Deepfake Detection in Healthcare**|Mohd Mujtaba Akhtar et.al.|[2604.17642](http://arxiv.org/abs/2604.17642)|null|
 |**2026-04-19**|**Permutation, stabilization and decomposition**|Paul Balmer et.al.|[2604.17483](http://arxiv.org/abs/2604.17483)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Text to Audio
 
@@ -130,7 +130,7 @@
 |**2026-04-06**|**Context is All You Need**|Jean Erik Delanois et.al.|[2604.04364](http://arxiv.org/abs/2604.04364)|null|
 |**2026-04-06**|**OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text**|Weiguo Pian et.al.|[2604.04348](http://arxiv.org/abs/2604.04348)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Video to Audio
 
@@ -187,7 +187,7 @@
 |**2026-04-15**|**MERRIN: A Benchmark for Multimodal Evidence Retrieval and Reasoning in Noisy Web Environments**|Han Wang et.al.|[2604.13418](http://arxiv.org/abs/2604.13418)|null|
 |**2026-04-14**|**Enhance-then-Balance Modality Collaboration for Robust Multimodal Sentiment Analysis**|Kang He et.al.|[2604.12518](http://arxiv.org/abs/2604.12518)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Voice Conversion
 
@@ -244,7 +244,7 @@
 |**2026-04-02**|**T5Gemma-TTS Technical Report**|Chihiro Arata et.al.|[2604.01760](http://arxiv.org/abs/2604.01760)|null|
 |**2026-04-02**|**Acoustic and perceptual differences between standard and accented Chinese speech and their voice clones**|Tianle Yang et.al.|[2604.01562](http://arxiv.org/abs/2604.01562)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Video Generation
 
@@ -301,7 +301,7 @@
 |**2026-04-21**|**Learning to Credit the Right Steps: Objective-aware Process Optimization for Visual Generation**|Rui Li et.al.|[2604.19234](http://arxiv.org/abs/2604.19234)|null|
 |**2026-04-21**|**sumo3Dviz: A three dimensional traffic visualisation**|Kevin Riehl et.al.|[2604.19194](http://arxiv.org/abs/2604.19194)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Image Generation
 
@@ -312,7 +312,7 @@
 |**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
 |**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|null|
 |**2026-05-07**|**Photonic-Implemented Efficient Deep Quantum Neural Network via Virtual-Driven Hilbert Space Expansion**|Haoran Ma et.al.|[2605.06397](http://arxiv.org/abs/2605.06397)|null|
-|**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](http://arxiv.org/abs/2605.06376)|null|
+|**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](http://arxiv.org/abs/2605.06376)|**[link](https://github.com/byliutao/CDM)**|
 |**2026-05-07**|**A Flow Matching Algorithm for Many-Shot Adaptation to Unseen Distributions**|Tyler Ingebrand et.al.|[2605.06272](http://arxiv.org/abs/2605.06272)|null|
 |**2026-05-07**|**DynT2I-Eval: A Dynamic Evaluation Framework for Text-to-Image Models**|Juntong Wang et.al.|[2605.06170](http://arxiv.org/abs/2605.06170)|null|
 |**2026-05-07**|**Autoregressive Visual Generation Needs a Prologue**|Bowen Zheng et.al.|[2605.06137](http://arxiv.org/abs/2605.06137)|null|
@@ -358,7 +358,7 @@
 |**2026-04-22**|**Hallucination Early Detection in Diffusion Models**|Federico Betti et.al.|[2604.20354](http://arxiv.org/abs/2604.20354)|null|
 |**2026-04-21**|**Counting Worlds Branching Time Semantics for post-hoc Bias Mitigation in generative AI**|Alessandro G. Buda et.al.|[2604.19431](http://arxiv.org/abs/2604.19431)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Music Generation
 
@@ -415,7 +415,7 @@
 |**2025-12-19**|**LUMIA: A Handheld Vision-to-Music System for Real-Time, Embodied Composition**|Chung-Ta Huang et.al.|[2512.17228](http://arxiv.org/abs/2512.17228)|null|
 |**2025-12-16**|**MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation**|Yash Vishe et.al.|[2512.14629](http://arxiv.org/abs/2512.14629)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Audio Codec
 
@@ -472,7 +472,7 @@
 |**2026-03-02**|**Entropy-Guided GRVQ for Ultra-Low Bitrate Neural Speech Codec**|Yanzhou Ren et.al.|[2603.01476](http://arxiv.org/abs/2603.01476)|null|
 |**2026-02-27**|**DashengTokenizer: One layer is enough for unified audio understanding and generation**|Heinrich Dinkel et.al.|[2602.23765](http://arxiv.org/abs/2602.23765)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Large Audio Language Model
 
@@ -529,7 +529,7 @@
 |**2026-04-14**|**Relax: An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale**|Liujie Zhang et.al.|[2604.11554](http://arxiv.org/abs/2604.11554)|null|
 |**2026-04-13**|**LoGo-MR: Screening Breast MRI for Cancer Risk Prediction by Efficient Omni-Slice Modeling**|Xin Wang et.al.|[2604.11348](http://arxiv.org/abs/2604.11348)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## Editing
 
@@ -557,7 +557,7 @@
 |**2025-11-18**|**Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models**|Yi Yang et.al.|[2511.08252](http://arxiv.org/abs/2511.08252)|null|
 |**2025-11-18**|**MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers**|Ali Boudaghi et.al.|[2511.04376](http://arxiv.org/abs/2511.04376)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 ## CV Editing
 
@@ -614,7 +614,7 @@
 |**2026-04-12**|**AIM-Bench: Benchmarking and Improving Affective Image Manipulation via Fine-Grained Hierarchical Control**|Shi Chen et.al.|[2604.10454](http://arxiv.org/abs/2604.10454)|null|
 |**2026-04-11**|**EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model**|Kunho Kim et.al.|[2604.10268](http://arxiv.org/abs/2604.10268)|null|
 
-<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

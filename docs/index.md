@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.08
+## Updated on 2026.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|**[link](https://github.com/yanghaha0908/WavCube)**|
 |**2026-05-07**|**Minimizing Modality Gap from the Input Side: Your Speech LLM Can Be a Prosody-Aware Text LLM**|Wenqian Cui et.al.|[2605.05927](http://arxiv.org/abs/2605.05927)|null|
 |**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-07**|**BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models**|Sai Babu Patarlapalli et.al.|[2605.05561](http://arxiv.org/abs/2605.05561)|null|
@@ -3675,7 +3675,7 @@ layout: default
 |**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
 |**2026-05-07**|**FREPix: Frequency-Heterogeneous Flow Matching for Pixel-Space Image Generation**|Mingfeng Lin et.al.|[2605.06421](http://arxiv.org/abs/2605.06421)|null|
 |**2026-05-07**|**Photonic-Implemented Efficient Deep Quantum Neural Network via Virtual-Driven Hilbert Space Expansion**|Haoran Ma et.al.|[2605.06397](http://arxiv.org/abs/2605.06397)|null|
-|**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](http://arxiv.org/abs/2605.06376)|null|
+|**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](http://arxiv.org/abs/2605.06376)|**[link](https://github.com/byliutao/CDM)**|
 |**2026-05-07**|**A Flow Matching Algorithm for Many-Shot Adaptation to Unseen Distributions**|Tyler Ingebrand et.al.|[2605.06272](http://arxiv.org/abs/2605.06272)|null|
 |**2026-05-07**|**DynT2I-Eval: A Dynamic Evaluation Framework for Text-to-Image Models**|Juntong Wang et.al.|[2605.06170](http://arxiv.org/abs/2605.06170)|null|
 |**2026-05-07**|**Autoregressive Visual Generation Needs a Prologue**|Bowen Zheng et.al.|[2605.06137](http://arxiv.org/abs/2605.06137)|null|
