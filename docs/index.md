@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.23
+## Updated on 2026.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Text to Speech
